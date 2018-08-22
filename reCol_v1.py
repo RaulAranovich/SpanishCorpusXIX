@@ -3,7 +3,6 @@
 # by scanning for the pipe character and putting it into one of two variables, which
 # then get recombined in their proper order.
 #The use of our old removeNewlines script can easily be erased if need be as well.
-#Please forgive any sloppy style, I'm still learning Python! Haha!
 
 import os
 import sys
@@ -44,17 +43,12 @@ def cleanUp(endResult):
     tempColTwo = ""
     testResult = endResult
     for token in endResult:
-        if (token == '!') or (token == '?') or (token == ',') or (token == '.'):
-            #print('Found punctuation:', token, "at space:", tempCount)
+        if (token == '!') or (token == '?') or (token == ',') or (token == '.'):           
             tempColOne = testResult[:tempCount+1]
-            tempColTwo = testResult[tempCount+1:] #Replaced endResult w/ testResult
-            testResult = tempColOne + ' ' + tempColTwo
-            #print("tempColOne = ", tempColOne)
-            #print("tempColTwo = ", tempColTwo)
-            #print("Test result = ", testResult)
+            tempColTwo = testResult[tempCount+1:]
+            testResult = tempColOne + ' ' + tempColTwo       
             tempCount = tempCount + 1
         tempCount = tempCount + 1
-        #print("tempCount = ", tempCount)
     endResult = testResult    
     return endResult
 
@@ -81,35 +75,21 @@ def rebuildColumns(file):
         if colRead == -1:                       # if a pipe wasn't found, it returns -1.
             if count == 1:                      #So we do error cases because this means that we've
                 colOne += contents[startVar:]   # reached the end of the file.
-                count = 0
-                #print(colOne)
-            elif count == 2:
-                colTwo += contents[startVar:]   #Here we check if the count was 1 or 2, to determine
-                #print(colTwo)                   # which of the two columns the last bit of our scan
+                count = 0                
+            elif count == 2:                    #Here we check if the count was 1 or 2, to determine 
+                colTwo += contents[startVar:]   #which of the two columns the last bit of our scan
                 count = 0                       # goes into.
         elif count == 1:                        #Here it is assumed that we had a valid find,
             colOne += contents[startVar:colRead]# thus we calculate where it was and copy from the last
-            count = 2                           # position where we encountered a pipe until the current
-            #print(colOne)                       # position.
+            count = 2                           # position where we encountered a pipe until the current position.                    
         elif count == 2:
             colTwo += contents[startVar:colRead]
-            count = 1
-            #print(colTwo)
+            count = 1            
         startVar = colRead + 1
-        #print("colRead =", colRead)  #testing material
-        #print("startVar =", startVar)
-    #tempCols = colOne
-    #tempCols += '\n'
-    #tempCols += colTwo
     endResult = colOne
     endResult += '\n'
     endResult += colTwo
-    #print("colOne = ", colOne)
-    #print("colTwo = ", colTwo)
-    #print("endResult = ", endResult)
-    #print(endResult[1:10])
     endResult = cleanUp(endResult) #Call to clean up any bad punctuation that may have happened.
-    #print(newFile)
     f = open(file, "w") #Will write new separated columns into file
     f.write(endResult)  #Remember to look up how to make a new file so as to not overwrite the 
     f.close()           # initial one entirely!
@@ -131,7 +111,7 @@ rebuildColumns(file)
 
 #Must decide how to space out pipes. Do we want "| ", " |", and "|"?
 
-# This script also uses removeNewlines for clarity and ease of use.
+#This script also uses removeNewlines for clarity and ease of use.
 
 
 
