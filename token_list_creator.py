@@ -54,10 +54,10 @@ def compare_corpora(text1, text2):
     result = open('results.txt', 'w+', encoding = "utf-8")
     gut_text = open(text1, 'r', encoding = "utf-8")
     news_text = open(text2, 'r', encoding = "utf-8")
-    gut_list = gut_text.readlines()
-    news_list = news_text.readlines()
+    gut_set = set(gut_text.readlines())
+    news_set = set(news_text.readlines())
     #general expression that will iterate tokens of one text and compare them to the tokens of another text.
-    diff = [word for word in news_list if word not in gut_list]
+    diff = news_set - gut_set
     for token in diff:
         result.write(token)
     #Closing all text files.
