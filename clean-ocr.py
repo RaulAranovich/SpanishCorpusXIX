@@ -21,9 +21,9 @@ def clean_ocr(filename):
 ## NOTE: comment out one of the two following options
 
 # if only reading in one file:
-file = open(sys.argv[1], encoding = 'utf-8')
-contents = file.read()
-clean_contents = clean_ocr(contents)
+# file = open(sys.argv[1], encoding = 'utf-8')
+# contents = file.read()
+# clean_contents = clean_ocr(contents)
 
 # with io.open((str(filename[:-4]) + '-clean.txt'), 'w', encoding = 'utf-8') as nf:
 # 	nf.write(clean_contents)
