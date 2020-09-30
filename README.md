@@ -1,9 +1,9 @@
-# Spanish Corpus XIX & XX - a longitudinal study of American vs. Peninsular Spanish
-## Authors: Nicole Dodd (ncdodd@ucdavis.edu), Daniel Lavados, and Raul Aranovich (raranovich@ucdavis.edu)
+## Spanish Corpus XIX & XX - a historical study of American vs. Peninsular Spanish
+#### Authors: Nicole Dodd (ncdodd@ucdavis.edu), Daniel Lavados, and Raul Aranovich (raranovich@ucdavis.edu)
 
 This project is a collection of XIX and XX century Spanish news and novels sourced from Project Gutenberg.
 
-## /analysis
+### /analysis
 **keyness**
 analysis of keyness of American vs. Peninsular dialects using a suite of statistical tests: chi-squared,
 log likelihood ratio, odds ratio, KL divergence
@@ -15,7 +15,7 @@ analysis of the distribution of tu/usted and vosotros/ustedes by dialect (Americ
 various domain splits
 
 
-## /corpora-files
+### /corpora-files
 all corpora files
 File name example: a-xix-d-gorostiza-pg12368.txt
 
@@ -35,7 +35,7 @@ Third label: domain
 TODO: finish OCR of El Imparcial
 
 
-## /files
+### /files
 
 **google-ngrams**
 ngram downloads
@@ -48,11 +48,11 @@ hand-corrected OCR documents
 original OCRed documents to be corrected
 
 
-## /newspapers
+### /newspapers
 original newspapers from Project Gutenberg
 
 
-## /ocr-post-processing
+### /ocr-post-processing
 scripts and data used to develop OCR post-processing model
 
 **fonseca-code**
@@ -67,7 +67,7 @@ output from OCR post-processing model
 TODO: finalize model (pseudocode already written)
 
 
-## /scripts
+### /scripts
 other miscellaneous scripts
 
 **clean-ocr.py**
@@ -82,5 +82,5 @@ a specialized corpus reader for Spanish text, built as a class of nltk.corpus
 **SpanishCorpusReader.ipynb**
 Jupyter Notebook with SpanishReader tutorial
 
-## /spanish-dict
+### /spanish-dict
 all files and scripts used in creating the dictionary used for baseline OCR output
