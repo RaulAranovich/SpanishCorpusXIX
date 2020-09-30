@@ -44,12 +44,11 @@ ngram downloads
 hand-corrected OCR documents
 (NB: aligned docs used specifically for training weighted Levenshtein edit matrices)
 
+**newspapers**
+original newspapers from Project Gutenberg
+
 **ocr**
 original OCRed documents to be corrected
-
-
-### /newspapers
-original newspapers from Project Gutenberg
 
 
 ### /ocr-post-processing
