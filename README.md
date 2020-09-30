@@ -19,18 +19,20 @@ various domain splits
 all corpora files
 File name example: a-xix-d-gorostiza-pg12368.txt
 
-First label: dialect
-  a = American
-  p = Peninsular
-Second label: century
-  xix = 19th century
-  xx = 20th century
-Third label: domain
-  d = drama
-  f = fiction
-  n = non-fiction
-  p = poem
-  j = journal/news
+First label: dialect<br>
+a = American<br>
+p = Peninsular
+
+Second label: century<br>
+xix = 19th century<br>
+xx = 20th century
+
+Third label: domain<br>
+d = drama<br>
+f = fiction<br>
+n = non-fiction<br>
+p = poem<br>
+j = journal/news
 
 TODO: finish OCR of El Imparcial
 
