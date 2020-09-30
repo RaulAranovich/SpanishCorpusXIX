@@ -1,0 +1,27 @@
+To run the SVM: 
+Have the regression_matrix.txt file in the same directory as the trec5svm.py file.
+These are found under ''/RegressionTREC5/libsvm-3.23/python''
+
+Then type in the terminal pointing to that directory:
+
+
+		TERMINAL$ python3 trec5svm.py > svmTERMINALoutput
+
+
+When done. To see the time it took to run, you can do:
+
+
+		TERMINAL$ tail svmTERMINALoutput
+
+
+To find accuracy and other details, you can do:
+
+
+		TERMINAL$ more svmTERMINALoutput
+
+
+Be sure to backup the file after program execution finishes (3-7 hours) because if
+you run the program again, it will overwrite the existing files!
+
+-Jorge
+

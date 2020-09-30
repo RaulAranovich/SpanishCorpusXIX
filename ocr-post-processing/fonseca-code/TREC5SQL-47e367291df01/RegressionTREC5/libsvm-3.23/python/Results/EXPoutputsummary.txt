@@ -1,0 +1,343 @@
+EXP1:
+
+optimization finished, #iter = 19532800
+nu = 0.031871
+obj = -6224.740650, rho = 1.270315
+nSV = 8306, nBSV = 6072
+Total nSV = 8306
+Accuracy = 4.54004% (5912/130219) (classification)
+Time: 11881.338190078735 seconds
+
+
+EXP2:
+
+optimization finished, #iter = 26043700
+nu = 0.044441
+obj = -1033776563990009085952.000000, rho = -1896287955440235.250000
+nSV = 11840, nBSV = 11439
+Total nSV = 11840
+Accuracy = 93.6231% (60958/65110) (classification)
+Time: 13950.63988852501 seconds
+
+
+EXP3:
+
+optimization finished, #iter = 16277300
+nu = 0.000000
+obj = -0.004370, rho = 0.000000
+nSV = 2, nBSV = 0
+Total nSV = 2
+Accuracy = 5.33623% (8686/162774) (classification)
+Time: 7458.809593200684 seconds
+
+
+EXP4:
+
+optimization finished, #iter = 32554700
+nu = 0.050608
+obj = -1531685219869132324864.000000, rho = -60738085076395.093750
+nSV = 16578, nBSV = 16395
+Total nSV = 16578
+Accuracy = 96.2918% (313475/325547) (classification)
+Time: 26164.813225507736 seconds
+
+
+EXP5:
+
+optimization finished, #iter = 32554700
+nu = 0.024990
+obj = -12255.958376, rho = -3.073518
+nSV = 9967, nBSV = 7981
+Total nSV = 9967
+Accuracy = 92.7832% (302053/325547) (classification)
+Time: Time: 31545.431312084198 seconds
+
+
+EXP6:
+
+optimization finished, #iter = 26043700
+nu = 0.026201
+obj = -10516.067801, rho = 1.690617
+nSV = 7947, nBSV = 6721
+Total nSV = 7947
+Accuracy = 4.5738% (2978/65110) (classification)
+Time: 17780.923701047897 seconds
+
+
+EXP7:
+
+optimization finished, #iter = 22788200
+nu = 0.047464
+obj = -597498132966314475520.000000, rho = 2021397136422700.000000
+nSV = 11046, nBSV = 10693
+Total nSV = 11046
+Accuracy = 7.22265% (7054/97665) (classification)
+Time: 10234.610978364944 seconds
+
+
+EXP8:
+
+optimization finished, #iter = 26043700
+nu = 0.044441
+obj = -1033776563990009085952.000000, rho = -1896287955440235.250000
+nSV = 11840, nBSV = 11439
+Total nSV = 11840
+Accuracy = 93.6231% (60958/65110) (classification)
+
+Metrics:
+Total Instances: 65110
+True Positive:   494
+False Positive:  85
+False Negative:  4067
+True Negative:   60464
+
+Confusion Matrix:
+__________________
+| 494 	| 85 	 |
+|_______|________|
+| 4067 	| 60464  |
+|_______|________|
+
+Precision: 85.31951640759931%
+Recall:    10.830958123218593%
+Accuracy:  93.62309937029643%
+F-Score:   0.19221789883268484
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 18892.750891447067 seconds
+
+
+EXP9:
+
+optimization finished, #iter = 130782
+nu = 0.074323
+obj = -192342.464438, rho = -1.000211
+nSV = 19409, nBSV = 19303
+Total nSV = 19409
+Accuracy = 96.724% (62977/65110) (classification)
+
+Metrics:
+Total Instances: 65110
+True Positive:   2674
+False Positive:  246
+False Negative:  1887
+True Negative:   60303
+
+Confusion Matrix:
+__________________
+| 2674 	| 246 	 |
+|_______|________|
+| 1887 	| 60303  |
+|_______|________|
+
+Precision: 91.57534246575342%
+Recall:    58.62749397062048%
+Accuracy:  96.7240055291046%
+F-Score:   0.7148776901483759
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 393.0401563644409 seconds
+
+
+EXP10:
+
+optimization finished, #iter = 26043700
+nu = 0.055604
+obj = -4198782.413391, rho = -6.952836
+nSV = 15120, nBSV = 14020
+Total nSV = 15120
+Accuracy = 6.02212% (3921/65110) (classification)
+
+Metrics:
+Total Instances: 65110
+True Positive:   3298
+False Positive:  59926
+False Negative:  1263
+True Negative:   623
+
+Confusion Matrix:
+__________________
+| 3298 	| 59926  |
+|_______|________|
+| 1263 	| 623 	 |
+|_______|________|
+
+Precision: 5.216373529039605%
+Recall:    72.30870423152818%
+Accuracy:  6.022116418368914%
+F-Score:   0.09730766393744929
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 27806.403403520584 seconds
+
+
+EXP11:
+
+optimization finished, #iter = 128817
+nu = 0.072905
+obj = -235549.460276, rho = -1.022669
+nSV = 23796, nBSV = 23676
+Total nSV = 23796
+Accuracy = 96.6444% (314623/325547) (classification)
+
+Metrics:
+Total Instances: 325547
+True Positive:   6264
+False Positive:  2324
+False Negative:  8600
+True Negative:   308359
+
+Confusion Matrix:
+__________________
+| 6264 	| 2324 	 |
+|_______|________|
+| 8600 	| 308359 |
+|_______|________|
+
+Precision: 72.93898462971589%
+Recall:    42.142088266953714%
+Accuracy:  96.64441693518908%
+F-Score:   0.5341975098072659
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 603.8748393058777 seconds
+
+
+EXP12:
+
+optimization finished, #iter = 129762
+nu = 0.074324
+obj = -192342.438654, rho = -1.000332
+nSV = 19405, nBSV = 19303
+Total nSV = 19405
+Accuracy = 96.724% (62976/65109) (classification)
+
+Writing Error Analysis to svmanalysis1.txt (FP/FN) and svmanalysis2.txt (TP/TN)
+
+Metrics:
+Total Instances: 65109
+True Positive:   2674
+False Positive:  246
+False Negative:  1887
+True Negative:   60302
+
+Confusion Matrix:
+__________________
+| 2674 	| 246 	 |
+|_______|________|
+| 1887 	| 60302  |
+|_______|________|
+
+Precision: 91.57534246575342%
+Recall:    58.62749397062048%
+Accuracy:  96.72395521356495%
+F-Score:   0.7148776901483759
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 607.9417464733124 second
+
+
+EXP13:
+
+optimization finished, #iter = 517981
+nu = 0.278321
+obj = -1369922.733221, rho = -2.488460
+nSV = 139339, nBSV = 139145
+Total nSV = 139339
+Accuracy = 87.8096% (439285/500270) (classification)
+
+Metrics:
+Total Instances: 500270
+True Positive:   214393
+False Positive:  25243
+False Negative:  35742
+True Negative:   224892
+
+Confusion Matrix:
+__________________
+| 214393| 25243  |
+|_______|________|
+| 35742	| 224892 |
+|_______|________|
+
+Precision: 89.46610692884208%
+Recall:    85.71091610530314%
+Accuracy:  87.80958282527436%
+F-Score:   0.8754826235118045
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 5255.858581542969 seconds
+
+
+EXP14:
+
+optimization finished, #iter = 517981
+nu = 0.278321
+obj = -1369922.733221, rho = -2.488460
+nSV = 139339, nBSV = 139145
+Total nSV = 139339
+Accuracy = 91.3069% (59449/65109) (classification)
+
+Metrics:
+Total Instances: 65109
+True Positive:   4191
+False Positive:  5290
+False Negative:  370
+True Negative:   55258
+
+Confusion Matrix:
+__________________
+| 4191 	| 5290 	 |
+|_______|________|
+| 370 	| 55258  |
+|_______|________|
+
+Precision: 44.204197869423055%
+Recall:    91.88774391580795%
+Accuracy:  91.30688537682963%
+F-Score:   0.5969235151687794
+
+End Metrics
+
+Writing Output/Predicted Classes to svmoutput.txt
+
+All Done.
+
+Time: 4078.6771759986877 seconds
+
+
+
+
+
+
+

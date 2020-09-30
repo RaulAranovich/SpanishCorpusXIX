@@ -1,0 +1,6 @@
+Im going to keep notes on what i do as i get this running to make sure it all works. and the steps i take so i know the running procedure
+this will also be useful for writing on paper instructions on how to run or at least making a bash script to run it
+
+we are running into issues with upper vs lowercase file names. we need to go back and change the names to avoid isses in non linux machines
+
+Need to update and reconsider README files

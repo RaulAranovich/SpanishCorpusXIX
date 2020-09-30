@@ -1,0 +1,2 @@
+egrep '^%%%|^&&&' FR940104.0.candidates.clean > output.temp.txt
+

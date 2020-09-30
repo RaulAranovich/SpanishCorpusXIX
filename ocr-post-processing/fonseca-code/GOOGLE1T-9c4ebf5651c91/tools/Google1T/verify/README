@@ -1,0 +1,8 @@
+Will Store the 3gms and the correct version of such 3gms using ground truth file and ocrd file to locate the correct version.
+
+Will be used to measure accuracy and effectiveness of our google 1t program.
+
+
+note: at some point we want to take the ocr'd version of the CORRECT version to find false positives that OCRSpell gives and apply that to the false positive section or something of the sort.
+
+

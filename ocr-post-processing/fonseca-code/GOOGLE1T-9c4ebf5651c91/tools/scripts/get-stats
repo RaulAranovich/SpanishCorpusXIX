@@ -1,0 +1,26 @@
+#!/bin/bash
+
+IFS=$'\n'
+log="output/logs/refine.log"
+files=($(grep "degrade\.\|original\." $log))
+nocand=($(grep "3gms had 0 candidates" $log))
+cand=($(grep "Candidates found for" $log))
+large=($(grep "largest number of candidates" $log))
+second=($(grep "second largest is" $log))
+length=${#files[@]}
+
+echo ${#files[@]}
+echo ${#nocand[@]}
+echo ${#cand[@]}
+echo ${#large[@]}
+echo ${#second[@]}
+
+rm output/logs/stats.log
+
+for i in $(seq 0 $((length - 1))); do
+    echo "${files[$i]}" >> output/logs/stats.log
+    echo "  ${nocand[$i]}" >> output/logs/stats.log
+    echo "  ${cand[$i]}" >> output/logs/stats.log
+    echo "  ${large[$i]}" >> output/logs/stats.log
+    echo "  ${second[$i]}" >> output/logs/stats.log
+done

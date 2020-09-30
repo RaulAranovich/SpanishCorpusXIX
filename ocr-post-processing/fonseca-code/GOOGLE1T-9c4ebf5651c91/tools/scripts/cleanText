@@ -1,0 +1,60 @@
+#!/bin/bash
+#Cleaning Script by Jorge.FonsecaCacho@UNLV.edu
+
+echo "Cleaning Script:"
+
+#check if correct arguments given
+if [[ $# != 2 ]];
+   then
+	echo "Usage: ./cleanText inputFile1.txt inputFile2.txt"
+	exit
+fi
+
+#check for empty string
+if [ -z "$1" ]
+   then
+	echo "Usage: ./cleanText inputFile1.txt inputFile2.txt"
+	exit
+fi
+
+source1=$(dirname $1)
+source2=$(dirname $2)
+file1=$(basename $1)
+file2=$(basename $2)
+tempdir=output/temp
+outdir=output/cleanText
+
+
+echo "Input Files: $1 $2"
+
+echo "For each step, writing temp files to folder temp"
+mkdir $tempdir -p #-p ignore warning
+
+echo "Removing all lines starting with <..."
+#sed '/^</ d'< input.txt > output.txt
+sed '/^</ d'< $source1/$file1 > $tempdir/$file1.1
+sed '/^</ d'< $source1/$file2 > $tempdir/$file2.1
+
+echo "Remove /&blank; and replace it with a space..."
+#sed "s|/&blank;| |g" input.txt > output.txt
+#sed "s|&blank;| |g" input.txt > output.txt
+sed "s|/&blank;| |g" $tempdir/$file1.1 > $tempdir/$file1.2
+sed "s|&blank;| |g" $tempdir/$file1.2 > $tempdir/$file1.3
+sed "s|/&blank;| |g" $tempdir/$file2.1 > $tempdir/$file2.2
+sed "s|&blank;| |g" $tempdir/$file2.2 > $tempdir/$file2.3
+
+
+echo "Removing all linefeeds and replacing them with spaces..."
+#tr '\n' ' ' < input.txt > output.txt
+tr '\n' ' ' < $tempdir/$file1.3 > $tempdir/$file1.4
+tr '\n' ' ' < $tempdir/$file2.3 > $tempdir/$file2.4
+
+echo "Add a linefeed after each period..."
+#sed 's/\.  */.\n /g' input.txt > output.txt
+sed 's/\.  */.\n /g' $tempdir/$file1.4 > $tempdir/$file1.5
+sed 's/\.  */.\n /g' $tempdir/$file2.4 > $tempdir/$file2.5
+
+echo "Replace multiple whitespace with only one..."
+#tr -s " " < input.txt > output.txt
+tr -s " " < $tempdir/$file1.5 > $outdir/$file1.clean
+tr -s " " < $tempdir/$file2.5 > $outdir/$file2.clean

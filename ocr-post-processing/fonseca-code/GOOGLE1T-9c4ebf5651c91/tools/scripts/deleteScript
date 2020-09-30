@@ -1,0 +1,21 @@
+#!/bin/bash
+#Google1T Delete Script by Jorge.FonsecaCacho@UNLV.edu
+#This script will clean and delete any work files incase you need to reset the program
+#Type chmod +x delete Script before running!
+echo "Google1T Delete Script"
+echo "Are you sure you want to delete? (Enter yes) but first look at the script to see what it will delete!!!"
+read answer
+#Abort if yes is not given
+if [[ "$answer" != 'yes' ]]; then
+	echo "Canceling Delete. Type 'yes' to go through with it next time"
+	exit
+fi
+
+echo "Deleting everything in SourceTexts"
+rm SourceTexts/*
+rm output/3grams/*
+rm output/Google1T/refine/*
+rm output/Google1T/search/*
+rm output/Google1T/verify/*
+rm output/source-docs/*
+rm -r output/temp/

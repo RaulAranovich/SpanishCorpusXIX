@@ -1,0 +1,162 @@
+EXP1:  param = svm_parameter('-s 0 -t 0 -h 0')
+"Linear binary classification C-SVC SVM"
+-Ran on Full DataSet
+-First 60% Train,  40% Test
+-Achieved 5912/130219 classifications correctly
+-That's a 4.54% accuracy. BAD!
+-Time: 11881.338190078735 seconds   (3.30 hours)
+
+
+EXP2:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+-Ran on Full DataSet
+-First 80% Train, 20% Test
+-Achieved 60958/65110 classifications correctly
+-That's a 93.6231% accuracy. GOOD!
+-Time: 13950.63988852501 seconds   (3.88 hours)
+
+
+EXP3:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+-Ran on Full DataSet
+-First 50% Train, 50% Test
+-Achieved 8686/162774 classifications correctly
+-That's a 5.33623% accuracy. BAD!
+-Time: 7458.809593200684 seconds   (2.07 hours)
+
+
+EXP4:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+-Ran on Full DataSet
+-100% Train, 100% Test  (so same data we train we test with)
+-Achieved 313475/325547 classifications correctly
+-That's a 96.2918% accuracy. GOOD!
+-Time: 26164.813225507736 seconds   (7.27 hours)
+
+
+EXP5:  param = svm_parameter('-s 0 -t 0 -h 0')
+"Linear binary classification C-SVC SVM"
+-Ran on Full DataSet
+-100% Train, 100% Test  (so same data we train we test with)
+-Achieved 302053/325547 classifications correctly
+-That's a 92.7832% accuracy. GOOD!
+-Time: 31545.431312084198 seconds   (8.76 hours)
+
+
+EXP6:  param = svm_parameter('-s 0 -t 0 -h 0')
+"Linear binary classification C-SVC SVM"
+-Ran on Full DataSet
+-First 80% Train, 20% Test
+-Achieved 2978/65110 classifications correctly
+-That's a 4.5738% accuracy. BAD!
+-Time: 17780.923701047897 seconds   (4.94 hours)
+
+
+EXP7:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+-Ran on Full DataSet
+-First 70% Train, 30% Test
+-Achieved 7054/97665 classifications correctly
+-That's a 7.22265% accuracy. BAD!
+-Time: 10234.610978364944 seconds   (2.84 hours)
+
+
+EXP8:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP2, but with Precision and Recall output"
+-Ran on Full DataSet
+-First 80% Train, 20% Test
+-Achieved 60958/65110 classifications correctly
+-That's a 93.6231% accuracy. GOOD!
+-Precision: 85.32%
+-Recall:    10.83%
+-F-Score:   0.1922
+-Time: 18892.750891447067 seconds   (5.25 hours)
+
+
+(BEST EXPERIMENT WITHOUT SMOTE)
+EXP9:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP8, but with Normalized dataset"
+-Ran on Full DataSet
+-First 80% Train, 20% Test
+-Achieved 62977/65110 classifications correctly
+-That's a 96.724% accuracy. GOOD!
+-Precision: 91.58%
+-Recall:    58.63%
+-F-Score:   0.7149
+-Time: 393.0401563644409 seconds   (6.55 minutes!)
+
+
+EXP10:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP8, but with Standardized dataset"
+-Ran on Full DataSet
+-First 80% Train, 20% Test
+-Achieved 3921/65110 classifications correctly
+-That's a 6.02212% accuracy. BAD!
+-Precision: 5.216%
+-Recall:    72.31%
+-F-Score:   0.0973
+-Time: 27806.403403520584 seconds   (7.72 hours)
+
+
+EXP11:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP4, but with Normalized dataset"
+-Ran on Full DataSet
+-100% Train, 100% Test  (so same data we train we test with)
+-Achieved 314623/325547 classifications correctly
+-That's a 96.6444% accuracy. GOOD!
+-Precision: 72.94%
+-Recall:    42.14%
+-F-Score:   0.5342
+-Time: 603.8748393058777 seconds   (10.06 minutes!)
+
+
+(RAN ERROR ANALYSIS ON THIS ONE)
+EXP12:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP9, but using trec5svmSMOTE.py, should give us same as EXP9"
+-Ran on Full DataSet but using the split datasets we made
+-First 80% Train, 20% Test
+-Achieved 62976/65109 classifications correctly
+-That's a 96.724% accuracy. GOOD!
+-Precision: 91.58%
+-Recall:    58.63%
+-F-Score:   0.7149
+-Time: 607.9417464733124 second   (10.13 minutes!)
+
+
+EXP13:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP9, but with SMOTE applied to the Normalized dataset"
+-Ran on Full DataSet but using only the train datasets we made
+-100% Train, 100% Test  (so same data we train we test with)
+-This is a baseline experiment to see how it does on training data alone
+-Achieved 439285/500270 classifications correctly
+-That's a 87.8096% accuracy. GOOD.
+-Precision: 89.47%
+-Recall:    85.71%
+-F-Score:   0.8755
+-Time: 5255.858581542969 seconds   (1.46 hours)
+
+
+EXP14:  param = svm_parameter('-s 0 -c 10 -t 1 -g 1 -r 1 -d 3')
+"Classify a binary data with polynomial kernel (u'v+1)^3 and C = 10"
+"Re-run of EXP9, but with SMOTE applied to the Normalized dataset"
+-Ran on Full DataSet but using the split datasets we made.
+-Only training DataSet has SMOTE applied to it to avoid biasing validation set.
+-First 80% Train, 20% Test
+-Achieved 59449/65109 classifications correctly
+-That's a 91.3069% accuracy. GOOD.
+-Precision: 44.20%
+-Recall:    91.89%
+-F-Score:   0.5969
+-Time: 4078.6771759986877 seconds   (67.98 minutes!)
+
+
+
+
+
+

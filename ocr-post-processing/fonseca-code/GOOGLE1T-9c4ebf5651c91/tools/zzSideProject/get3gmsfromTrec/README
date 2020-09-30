@@ -1,0 +1,10 @@
+will take the cleaned trec file (fr940104.0.clean) and produce 3gms of the file and sort them in alphabetical order by first word and then 2nd then 3rd.
+
+Will also create a dictionary (1gms)
+
+we should be able to feed this 3gms instead of google 1ts and see what % accuracy we get.
+
+
+get3gram.py is just a starting template for python script to get all 3gms.
+
+once we get em all in a text file then sort them and list repeats with frequency in a 2nd file

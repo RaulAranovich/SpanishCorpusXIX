@@ -1,0 +1,34 @@
+#Git Ignore File
+
+#Ignoring Google1T Database From Being Tracked (As it's copyrighted and over 20GB!
+GoogleWeb1T/*
+GoogleWeb1T
+confusion_track/*
+confusion_track
+IgnoreTemp/*
+IgnoreTemp
+SourceTexts/
+SourceTexts/*
+
+
+#Ignoring output as it is not necessary to track and creates unnecessary commits
+output/3grams/*
+output/Google1T/search/*
+output/Google1T/refine/*
+output/Google1T/verify/*
+output/logs/*
+output/source-docs/*
+output/OCRSpell/*
+output/1gmSpell/*
+
+output/Google1T/refineOLD/
+
+output/logsOLD/
+
+output/OCRSpellOLD/
+
+output/Google1T/searchOLD/
+
+output/Google1T/OCRALIGNEDsearch\.tar\.gz
+
+output/cleanText/

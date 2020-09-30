@@ -1,0 +1,7 @@
+This Folder Contains A single file for each category (degrade20, degrade5, and original).
+That file is FR940104.0 (same filename for each of the three) and is the first file in the TREC-5 Database.
+This is used for testing the program. When running the code on the actual TREC-5 all that needs to be done is changed the default location of
+TREC-5 database and a different file name indicated.
+
+
+

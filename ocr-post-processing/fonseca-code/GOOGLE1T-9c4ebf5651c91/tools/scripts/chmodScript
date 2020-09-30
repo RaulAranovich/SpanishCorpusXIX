@@ -1,0 +1,10 @@
+#!/bin/bash
+#Chmod Script by Jorge.FonsecaCacho@UNLV.edu
+echo "chmod +x Script:"
+echo "This Script will run chmod +x on all the required scripts. This should be run prior to running the main program. Running this may require root."
+chmod +x chmodScript
+chmod +x deleteScript
+chmod +x runScript
+chmod +x ../separateDocs.py
+
+

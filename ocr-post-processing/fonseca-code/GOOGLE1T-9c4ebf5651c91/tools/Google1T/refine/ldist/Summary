@@ -1,0 +1,9 @@
+levenshtein distance: 3gms with at least one candidate with top 3 largest x, y, z
+
+1: 30 with largest 5,3,3
+2: 48 with largest 74, 28, 19
+3: 58 with largest 2071, 1707, 317
+4: 70 with largest 5207, 4106, 3041
+5: 77 with largest 19183, 9932, 7412
+6: 83 with largest 26364, 16383, 11617
+7: 87...

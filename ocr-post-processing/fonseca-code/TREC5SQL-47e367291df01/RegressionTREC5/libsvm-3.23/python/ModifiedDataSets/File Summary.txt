@@ -1,0 +1,97 @@
+########## Standardization ##########
+Run as:
+$ python3 trec5standarize.py 
+
+Input File (Same Directory):
+regression_matrix.txt
+
+Output File (Same Directory):
+std_regression_matrix.txt
+
+Terminal Output:
+Beginning Standardization of Data Set
+Quick Test: Should be Close to 0:
+2.0056514782318402e-08
+
+325547 Rows Affected
+
+Standardization Complete.
+
+Time: 3.236551523208618 seconds
+########## Standardization ##########
+
+
+########### Normalization ###########
+Run as:
+$ python3 trec5normalize.py
+
+Input File (Same Directory):
+regression_matrix.txt
+
+Output File (Same Directory):
+norm_regression_matrix.txt
+
+Terminal Output:
+Beginning Normalization of Data Set
+Mins: [0, 0, 1, 0, 0, 0]
+Maxs: [3, 3347, 11172, 1581, 1015, 1]
+
+325547 Rows Affected
+
+Normalization Complete.
+
+Time: 2.6690616607666016 seconds
+########### Normalization ###########
+
+
+############### SMOTE ###############
+Run as:
+$ python3 trec5smote.py
+
+Input File (Same Directory):
+norm_regression_matrix.txt
+
+Output Files (SMOTE Directory):
+smoteTrain_regression_matrix.txt
+regTest_regression_matrix.txt
+regTrain_regression_matrix.txt
+
+Terminal Output:
+Creating Train and Test files: regTrain and regTest.
+Also creating temporary file: smoteTempTrain
+Total Size: 325547
+Train Size: 260438
+Test  Size: 65109
+Train Range: 0-260437
+Test  Range: 260438-325546
+
+Beginning SMOTE Process
+
+Sample:
+   distance  confWeight   uniFreq  bkwdFreq  fwdFreq  output
+0  1.000000    0.011055  0.000090  0.000000      0.0     0.0
+1  0.333333    0.274275  0.007340  0.052498      0.0     1.0
+2  1.000000    0.137138  0.000269  0.000000      0.0     0.0
+3  1.000000    0.000299  0.000269  0.000000      0.0     0.0
+4  0.333333    0.002390  0.000000  0.000000      0.0     0.0
+
+Class Distribution Before SMOTE:
+0: 250135
+1: 10303
+
+Class Distribution After SMOTE:
+0: 250135
+1: 250135
+
+New Size: 500270
+
+SMOTE Complete.
+
+Removed Temporary File: smoteTempTrain
+
+Finished Writing smoteTrain.
+All Done.
+
+Time: 9.28753995895 seconds
+############### SMOTE ###############
+

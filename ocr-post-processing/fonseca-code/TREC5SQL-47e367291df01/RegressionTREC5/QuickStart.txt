@@ -1,0 +1,82 @@
+Quick Start Guide:
+
+We recommend running the libsvm experiment with the normalized data set as this gives the best result.
+
+LIBSVM EXPERIMENT:
+
+Go to Directory:
+
+		RegressionTREC5/libsvm-3.23/python
+
+and execute:
+
+		RegressionTREC5/libsvm-3.23/python$ python3 trec5svm.py > svmTERMINALoutput.txt
+
+to run an experiment.
+
+
+Otherwise to view past experiments, go to:
+
+		RegressionTREC5/libsvm-3.23/python/Results
+
+Note: To modify the dataset used in an experiment, modify trec5svm.py  line 20.
+This line contains the name of the dataset use. See lines 16-20 for different types:
+
+#file = open('test_regression_matrix.txt', 'rU')                   #For testing with small data set
+#file = open('regression_matrix.txt', 'rU')                        #Regular Version of DataSet from MySQL query
+#file = open('ModifiedDataSets/std_regression_matrix.txt', 'rU')   #Version with Standardized DataSet
+file = open('ModifiedDataSets/norm_regression_matrix.txt', 'rU')   #Version with Normalized DataSet
+
+Different Data Sets.
+
+To Modify the Train/Test ratio go to line 59 and change the .8 to any number. For example .9 will do 90% 10%
+instead of the default 80% Train, 20% Test.
+
+To run prediction on only the training data uncomment lines 60 and 72 and comment line 59.
+See libsvm readme for different parameters
+http://www.openpr.org.cn/files/help/rn01re18.html
+
+To change the svm train parameters go to line 67. See libsvm readme for different parameters.
+http://www.openpr.org.cn/files/help/rn01re19.html
+
+For running a simple linear classification closest to regular logistic regression use line 68 and 
+comment out 67.
+
+To generate these files you can use the python files in ModifiedDataSets.
+-trec5normalize.py : Normalizes data set.
+-trec5smote.py : Over Sampling using SMOTE to make both classes equal.
+-trec5standarize.py : Standardizes data set.
+
+Next, we habve the trec5svmSMOTE.py version which uses Over Sampling for the under represented class 1.
+
+To run this go to the same directory:
+
+		RegressionTREC5/libsvm-3.23/python
+
+and execute:
+
+		RegressionTREC5/libsvm-3.23/python$ python3 trec5svmSMOTE.py > svmTERMINALoutput.txt
+
+to run an experiment.
+
+To view the results check the ModifiedDataSets/SMOTE directory along with the svmTERMINALoutput.txt in
+the same directory as the python file.
+
+Finally, is the scikit version, didn't achieve too good of results  but good if you are used
+to scikit as a starting point. Most likely we could match regular svm given the right parameters.
+
+SCIKIT EXPERIMENT:
+
+For the SciKit edition, go to:
+
+		RegressionTREC5/scikitSVMversion
+
+and run:
+
+		RegressionTREC5/scikitSVMversion$ python trec5svmV2.py > scikitSVMoutput2.txt
+
+Note we added the 2 so it does not overwrite the previous version in case you wish to refer to it.
+
+
+Reproducible Research is our #1 goal. If you need help with anything here please contact:
+Jorge.FonsecaCacho@UNLV.edu

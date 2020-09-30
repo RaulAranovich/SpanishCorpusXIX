@@ -1,0 +1,2082 @@
+degrade.FR940104-0-00001.000
+original.FR940104-0-00001.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 14
+  Words identified as wrong:  3
+  Percentage of incorrect words marked as correct  78.5714285714 %
+  Words with candidates:  3
+  Percentage of identified misspellings with candidates:  100 %
+  Percentage of incorrect words with candidats:  21.4285714286 %
+  Words with candidates(refined):  3
+  Percentage of identified misspellings with candidates:  100 %
+  Percentage of incorrect words with candidates:  21.4285714286 %
+  Words with correct word as first suggestion:  2
+  Words with correct word in suggestions:  2
+  Percentage of words with candidates with correct word as first suggestion:  66.6666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  66.6666666667 %
+  Percentage of incorrect words with correct word as first suggestion:  14.2857142857 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  66.6666666667 %
+  Percentage of incorrect words with correct word in suggestions:  14.2857142857 %
+ 
+degrade.FR940104-0-00002.000
+original.FR940104-0-00002.000
+  Falsely marked as incorrect:  11
+  Actual incorrect words: 586
+  Words identified as wrong:  68
+  Percentage of incorrect words marked as correct  88.3959044369 %
+  Words with candidates:  43
+  Percentage of identified misspellings with candidates:  63 %
+  Percentage of incorrect words with candidats:  7.33788395904 %
+  Words with candidates(refined):  35
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidates:  5.97269624573 %
+  Words with correct word as first suggestion:  22
+  Words with correct word in suggestions:  33
+  Percentage of words with candidates with correct word as first suggestion:  62.8571428571 %
+  Percentage of identified misspellings with correct word as first suggestion:  32.3529411765 %
+  Percentage of incorrect words with correct word as first suggestion:  3.7542662116 %
+  Percentage of words with candidates with correct word in suggestions:  94.2857142857 %
+  Percentage of identified misspellings with correct word in suggestions:  48.5294117647 %
+  Percentage of incorrect words with correct word in suggestions:  5.63139931741 %
+ 
+degrade.FR940104-0-00003.000
+original.FR940104-0-00003.000
+  Falsely marked as incorrect:  11
+  Actual incorrect words: 825
+  Words identified as wrong:  64
+  Percentage of incorrect words marked as correct  92.2424242424 %
+  Words with candidates:  48
+  Percentage of identified misspellings with candidates:  75 %
+  Percentage of incorrect words with candidats:  5.81818181818 %
+  Words with candidates(refined):  22
+  Percentage of identified misspellings with candidates:  34 %
+  Percentage of incorrect words with candidates:  2.66666666667 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  36.3636363636 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.5 %
+  Percentage of incorrect words with correct word as first suggestion:  0.969696969697 %
+  Percentage of words with candidates with correct word in suggestions:  72.7272727273 %
+  Percentage of identified misspellings with correct word in suggestions:  25.0 %
+  Percentage of incorrect words with correct word in suggestions:  1.93939393939 %
+ 
+degrade.FR940104-0-00004.000
+original.FR940104-0-00004.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 341
+  Words identified as wrong:  58
+  Percentage of incorrect words marked as correct  82.991202346 %
+  Words with candidates:  24
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidats:  7.03812316716 %
+  Words with candidates(refined):  21
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  6.15835777126 %
+  Words with correct word as first suggestion:  9
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  42.8571428571 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.5172413793 %
+  Percentage of incorrect words with correct word as first suggestion:  2.63929618768 %
+  Percentage of words with candidates with correct word in suggestions:  80.9523809524 %
+  Percentage of identified misspellings with correct word in suggestions:  29.3103448276 %
+  Percentage of incorrect words with correct word in suggestions:  4.9853372434 %
+ 
+degrade.FR940104-0-00005.000
+original.FR940104-0-00005.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 513
+  Words identified as wrong:  68
+  Percentage of incorrect words marked as correct  86.7446393762 %
+  Words with candidates:  34
+  Percentage of identified misspellings with candidates:  50 %
+  Percentage of incorrect words with candidats:  6.62768031189 %
+  Words with candidates(refined):  26
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidates:  5.06822612086 %
+  Words with correct word as first suggestion:  12
+  Words with correct word in suggestions:  21
+  Percentage of words with candidates with correct word as first suggestion:  46.1538461538 %
+  Percentage of identified misspellings with correct word as first suggestion:  17.6470588235 %
+  Percentage of incorrect words with correct word as first suggestion:  2.33918128655 %
+  Percentage of words with candidates with correct word in suggestions:  80.7692307692 %
+  Percentage of identified misspellings with correct word in suggestions:  30.8823529412 %
+  Percentage of incorrect words with correct word in suggestions:  4.09356725146 %
+ 
+degrade.FR940104-0-00006.000
+original.FR940104-0-00006.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 429
+  Words identified as wrong:  44
+  Percentage of incorrect words marked as correct  89.7435897436 %
+  Words with candidates:  17
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidats:  3.9627039627 %
+  Words with candidates(refined):  17
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidates:  3.9627039627 %
+  Words with correct word as first suggestion:  10
+  Words with correct word in suggestions:  14
+  Percentage of words with candidates with correct word as first suggestion:  58.8235294118 %
+  Percentage of identified misspellings with correct word as first suggestion:  22.7272727273 %
+  Percentage of incorrect words with correct word as first suggestion:  2.331002331 %
+  Percentage of words with candidates with correct word in suggestions:  82.3529411765 %
+  Percentage of identified misspellings with correct word in suggestions:  31.8181818182 %
+  Percentage of incorrect words with correct word in suggestions:  3.2634032634 %
+ 
+degrade.FR940104-0-00007.000
+original.FR940104-0-00007.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 385
+  Words identified as wrong:  54
+  Percentage of incorrect words marked as correct  85.974025974 %
+  Words with candidates:  24
+  Percentage of identified misspellings with candidates:  44 %
+  Percentage of incorrect words with candidats:  6.23376623377 %
+  Words with candidates(refined):  18
+  Percentage of identified misspellings with candidates:  33 %
+  Percentage of incorrect words with candidates:  4.67532467532 %
+  Words with correct word as first suggestion:  13
+  Words with correct word in suggestions:  14
+  Percentage of words with candidates with correct word as first suggestion:  72.2222222222 %
+  Percentage of identified misspellings with correct word as first suggestion:  24.0740740741 %
+  Percentage of incorrect words with correct word as first suggestion:  3.37662337662 %
+  Percentage of words with candidates with correct word in suggestions:  77.7777777778 %
+  Percentage of identified misspellings with correct word in suggestions:  25.9259259259 %
+  Percentage of incorrect words with correct word in suggestions:  3.63636363636 %
+ 
+degrade.FR940104-0-00008.000
+original.FR940104-0-00008.000
+  Falsely marked as incorrect:  21
+  Actual incorrect words: 638
+  Words identified as wrong:  103
+  Percentage of incorrect words marked as correct  83.855799373 %
+  Words with candidates:  44
+  Percentage of identified misspellings with candidates:  42 %
+  Percentage of incorrect words with candidats:  6.89655172414 %
+  Words with candidates(refined):  30
+  Percentage of identified misspellings with candidates:  29 %
+  Percentage of incorrect words with candidates:  4.70219435737 %
+  Words with correct word as first suggestion:  12
+  Words with correct word in suggestions:  12
+  Percentage of words with candidates with correct word as first suggestion:  40.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  11.6504854369 %
+  Percentage of incorrect words with correct word as first suggestion:  1.88087774295 %
+  Percentage of words with candidates with correct word in suggestions:  40.0 %
+  Percentage of identified misspellings with correct word in suggestions:  11.6504854369 %
+  Percentage of incorrect words with correct word in suggestions:  1.88087774295 %
+ 
+degrade.FR940104-0-00009.000
+original.FR940104-0-00009.000
+  Falsely marked as incorrect:  13
+  Actual incorrect words: 684
+  Words identified as wrong:  65
+  Percentage of incorrect words marked as correct  90.4970760234 %
+  Words with candidates:  49
+  Percentage of identified misspellings with candidates:  75 %
+  Percentage of incorrect words with candidats:  7.16374269006 %
+  Words with candidates(refined):  36
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidates:  5.26315789474 %
+  Words with correct word as first suggestion:  17
+  Words with correct word in suggestions:  25
+  Percentage of words with candidates with correct word as first suggestion:  47.2222222222 %
+  Percentage of identified misspellings with correct word as first suggestion:  26.1538461538 %
+  Percentage of incorrect words with correct word as first suggestion:  2.48538011696 %
+  Percentage of words with candidates with correct word in suggestions:  69.4444444444 %
+  Percentage of identified misspellings with correct word in suggestions:  38.4615384615 %
+  Percentage of incorrect words with correct word in suggestions:  3.65497076023 %
+ 
+degrade.FR940104-0-00010.000
+original.FR940104-0-00010.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 964
+  Words identified as wrong:  79
+  Percentage of incorrect words marked as correct  91.8049792531 %
+  Words with candidates:  36
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidats:  3.73443983402 %
+  Words with candidates(refined):  24
+  Percentage of identified misspellings with candidates:  30 %
+  Percentage of incorrect words with candidates:  2.48962655602 %
+  Words with correct word as first suggestion:  10
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  41.6666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.6582278481 %
+  Percentage of incorrect words with correct word as first suggestion:  1.03734439834 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  20.253164557 %
+  Percentage of incorrect words with correct word in suggestions:  1.65975103734 %
+ 
+degrade.FR940104-0-00011.000
+original.FR940104-0-00011.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 974
+  Words identified as wrong:  92
+  Percentage of incorrect words marked as correct  90.5544147844 %
+  Words with candidates:  74
+  Percentage of identified misspellings with candidates:  80 %
+  Percentage of incorrect words with candidats:  7.59753593429 %
+  Words with candidates(refined):  59
+  Percentage of identified misspellings with candidates:  64 %
+  Percentage of incorrect words with candidates:  6.05749486653 %
+  Words with correct word as first suggestion:  26
+  Words with correct word in suggestions:  48
+  Percentage of words with candidates with correct word as first suggestion:  44.0677966102 %
+  Percentage of identified misspellings with correct word as first suggestion:  28.2608695652 %
+  Percentage of incorrect words with correct word as first suggestion:  2.66940451745 %
+  Percentage of words with candidates with correct word in suggestions:  81.3559322034 %
+  Percentage of identified misspellings with correct word in suggestions:  52.1739130435 %
+  Percentage of incorrect words with correct word in suggestions:  4.92813141684 %
+ 
+degrade.FR940104-0-00012.000
+original.FR940104-0-00012.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 875
+  Words identified as wrong:  71
+  Percentage of incorrect words marked as correct  91.8857142857 %
+  Words with candidates:  56
+  Percentage of identified misspellings with candidates:  78 %
+  Percentage of incorrect words with candidats:  6.4 %
+  Words with candidates(refined):  40
+  Percentage of identified misspellings with candidates:  56 %
+  Percentage of incorrect words with candidates:  4.57142857143 %
+  Words with correct word as first suggestion:  21
+  Words with correct word in suggestions:  28
+  Percentage of words with candidates with correct word as first suggestion:  52.5 %
+  Percentage of identified misspellings with correct word as first suggestion:  29.5774647887 %
+  Percentage of incorrect words with correct word as first suggestion:  2.4 %
+  Percentage of words with candidates with correct word in suggestions:  70.0 %
+  Percentage of identified misspellings with correct word in suggestions:  39.4366197183 %
+  Percentage of incorrect words with correct word in suggestions:  3.2 %
+ 
+degrade.FR940104-0-00013.000
+original.FR940104-0-00013.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 797
+  Words identified as wrong:  81
+  Percentage of incorrect words marked as correct  89.8368883312 %
+  Words with candidates:  48
+  Percentage of identified misspellings with candidates:  59 %
+  Percentage of incorrect words with candidats:  6.0225846926 %
+  Words with candidates(refined):  34
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidates:  4.26599749059 %
+  Words with correct word as first suggestion:  13
+  Words with correct word in suggestions:  24
+  Percentage of words with candidates with correct word as first suggestion:  38.2352941176 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.049382716 %
+  Percentage of incorrect words with correct word as first suggestion:  1.63111668758 %
+  Percentage of words with candidates with correct word in suggestions:  70.5882352941 %
+  Percentage of identified misspellings with correct word in suggestions:  29.6296296296 %
+  Percentage of incorrect words with correct word in suggestions:  3.0112923463 %
+ 
+degrade.FR940104-0-00014.000
+original.FR940104-0-00014.000
+  Falsely marked as incorrect:  13
+  Actual incorrect words: 1070
+  Words identified as wrong:  83
+  Percentage of incorrect words marked as correct  92.2429906542 %
+  Words with candidates:  60
+  Percentage of identified misspellings with candidates:  72 %
+  Percentage of incorrect words with candidats:  5.60747663551 %
+  Words with candidates(refined):  39
+  Percentage of identified misspellings with candidates:  46 %
+  Percentage of incorrect words with candidates:  3.64485981308 %
+  Words with correct word as first suggestion:  26
+  Words with correct word in suggestions:  31
+  Percentage of words with candidates with correct word as first suggestion:  66.6666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  31.3253012048 %
+  Percentage of incorrect words with correct word as first suggestion:  2.42990654206 %
+  Percentage of words with candidates with correct word in suggestions:  79.4871794872 %
+  Percentage of identified misspellings with correct word in suggestions:  37.3493975904 %
+  Percentage of incorrect words with correct word in suggestions:  2.89719626168 %
+ 
+degrade.FR940104-0-00015.000
+original.FR940104-0-00015.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 893
+  Words identified as wrong:  77
+  Percentage of incorrect words marked as correct  91.3773796193 %
+  Words with candidates:  57
+  Percentage of identified misspellings with candidates:  74 %
+  Percentage of incorrect words with candidats:  6.3829787234 %
+  Words with candidates(refined):  32
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidates:  3.58342665174 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  43.75 %
+  Percentage of identified misspellings with correct word as first suggestion:  18.1818181818 %
+  Percentage of incorrect words with correct word as first suggestion:  1.56774916013 %
+  Percentage of words with candidates with correct word in suggestions:  50.0 %
+  Percentage of identified misspellings with correct word in suggestions:  20.7792207792 %
+  Percentage of incorrect words with correct word in suggestions:  1.79171332587 %
+ 
+degrade.FR940104-0-00016.000
+original.FR940104-0-00016.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 647
+  Words identified as wrong:  45
+  Percentage of incorrect words marked as correct  93.0448222566 %
+  Words with candidates:  28
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  4.32766615147 %
+  Words with candidates(refined):  16
+  Percentage of identified misspellings with candidates:  35 %
+  Percentage of incorrect words with candidates:  2.47295208655 %
+  Words with correct word as first suggestion:  6
+  Words with correct word in suggestions:  8
+  Percentage of words with candidates with correct word as first suggestion:  37.5 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.3333333333 %
+  Percentage of incorrect words with correct word as first suggestion:  0.927357032457 %
+  Percentage of words with candidates with correct word in suggestions:  50.0 %
+  Percentage of identified misspellings with correct word in suggestions:  17.7777777778 %
+  Percentage of incorrect words with correct word in suggestions:  1.23647604328 %
+ 
+degrade.FR940104-0-00017.000
+original.FR940104-0-00017.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 687
+  Words identified as wrong:  62
+  Percentage of incorrect words marked as correct  90.9752547307 %
+  Words with candidates:  34
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidats:  4.94905385735 %
+  Words with candidates(refined):  24
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidates:  3.49344978166 %
+  Words with correct word as first suggestion:  9
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  37.5 %
+  Percentage of identified misspellings with correct word as first suggestion:  14.5161290323 %
+  Percentage of incorrect words with correct word as first suggestion:  1.31004366812 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  25.8064516129 %
+  Percentage of incorrect words with correct word in suggestions:  2.32896652111 %
+ 
+degrade.FR940104-0-00018.000
+original.FR940104-0-00018.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 860
+  Words identified as wrong:  97
+  Percentage of incorrect words marked as correct  88.7209302326 %
+  Words with candidates:  48
+  Percentage of identified misspellings with candidates:  49 %
+  Percentage of incorrect words with candidats:  5.58139534884 %
+  Words with candidates(refined):  35
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  4.06976744186 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  40.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  14.4329896907 %
+  Percentage of incorrect words with correct word as first suggestion:  1.62790697674 %
+  Percentage of words with candidates with correct word in suggestions:  48.5714285714 %
+  Percentage of identified misspellings with correct word in suggestions:  17.5257731959 %
+  Percentage of incorrect words with correct word in suggestions:  1.97674418605 %
+ 
+degrade.FR940104-0-00019.000
+original.FR940104-0-00019.000
+  Falsely marked as incorrect:  8
+  Actual incorrect words: 931
+  Words identified as wrong:  137
+  Percentage of incorrect words marked as correct  85.2846401719 %
+  Words with candidates:  74
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidats:  7.94844253491 %
+  Words with candidates(refined):  55
+  Percentage of identified misspellings with candidates:  40 %
+  Percentage of incorrect words with candidates:  5.90762620838 %
+  Words with correct word as first suggestion:  18
+  Words with correct word in suggestions:  29
+  Percentage of words with candidates with correct word as first suggestion:  32.7272727273 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.1386861314 %
+  Percentage of incorrect words with correct word as first suggestion:  1.93340494092 %
+  Percentage of words with candidates with correct word in suggestions:  52.7272727273 %
+  Percentage of identified misspellings with correct word in suggestions:  21.1678832117 %
+  Percentage of incorrect words with correct word in suggestions:  3.1149301826 %
+ 
+degrade.FR940104-0-00020.000
+original.FR940104-0-00020.000
+  Falsely marked as incorrect:  16
+  Actual incorrect words: 964
+  Words identified as wrong:  107
+  Percentage of incorrect words marked as correct  88.9004149378 %
+  Words with candidates:  59
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidats:  6.12033195021 %
+  Words with candidates(refined):  33
+  Percentage of identified misspellings with candidates:  30 %
+  Percentage of incorrect words with candidates:  3.42323651452 %
+  Words with correct word as first suggestion:  7
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  21.2121212121 %
+  Percentage of identified misspellings with correct word as first suggestion:  6.54205607477 %
+  Percentage of incorrect words with correct word as first suggestion:  0.726141078838 %
+  Percentage of words with candidates with correct word in suggestions:  51.5151515152 %
+  Percentage of identified misspellings with correct word in suggestions:  15.8878504673 %
+  Percentage of incorrect words with correct word in suggestions:  1.76348547718 %
+ 
+degrade.FR940104-0-00021.000
+original.FR940104-0-00021.000
+  Falsely marked as incorrect:  17
+  Actual incorrect words: 747
+  Words identified as wrong:  77
+  Percentage of incorrect words marked as correct  89.6921017403 %
+  Words with candidates:  48
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  6.42570281124 %
+  Words with candidates(refined):  26
+  Percentage of identified misspellings with candidates:  33 %
+  Percentage of incorrect words with candidates:  3.48058902276 %
+  Words with correct word as first suggestion:  3
+  Words with correct word in suggestions:  11
+  Percentage of words with candidates with correct word as first suggestion:  11.5384615385 %
+  Percentage of identified misspellings with correct word as first suggestion:  3.8961038961 %
+  Percentage of incorrect words with correct word as first suggestion:  0.401606425703 %
+  Percentage of words with candidates with correct word in suggestions:  42.3076923077 %
+  Percentage of identified misspellings with correct word in suggestions:  14.2857142857 %
+  Percentage of incorrect words with correct word in suggestions:  1.47255689424 %
+ 
+degrade.FR940104-0-00022.000
+original.FR940104-0-00022.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 726
+  Words identified as wrong:  71
+  Percentage of incorrect words marked as correct  90.2203856749 %
+  Words with candidates:  41
+  Percentage of identified misspellings with candidates:  57 %
+  Percentage of incorrect words with candidats:  5.64738292011 %
+  Words with candidates(refined):  22
+  Percentage of identified misspellings with candidates:  30 %
+  Percentage of incorrect words with candidates:  3.0303030303 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  36.3636363636 %
+  Percentage of identified misspellings with correct word as first suggestion:  11.2676056338 %
+  Percentage of incorrect words with correct word as first suggestion:  1.10192837466 %
+  Percentage of words with candidates with correct word in suggestions:  72.7272727273 %
+  Percentage of identified misspellings with correct word in suggestions:  22.5352112676 %
+  Percentage of incorrect words with correct word in suggestions:  2.20385674931 %
+ 
+degrade.FR940104-0-00023.000
+original.FR940104-0-00023.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 361
+  Words identified as wrong:  46
+  Percentage of incorrect words marked as correct  87.2576177285 %
+  Words with candidates:  30
+  Percentage of identified misspellings with candidates:  65 %
+  Percentage of incorrect words with candidats:  8.31024930748 %
+  Words with candidates(refined):  22
+  Percentage of identified misspellings with candidates:  47 %
+  Percentage of incorrect words with candidates:  6.09418282548 %
+  Words with correct word as first suggestion:  6
+  Words with correct word in suggestions:  14
+  Percentage of words with candidates with correct word as first suggestion:  27.2727272727 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.0434782609 %
+  Percentage of incorrect words with correct word as first suggestion:  1.6620498615 %
+  Percentage of words with candidates with correct word in suggestions:  63.6363636364 %
+  Percentage of identified misspellings with correct word in suggestions:  30.4347826087 %
+  Percentage of incorrect words with correct word in suggestions:  3.87811634349 %
+ 
+degrade.FR940104-0-00024.000
+original.FR940104-0-00024.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 383
+  Words identified as wrong:  39
+  Percentage of incorrect words marked as correct  89.817232376 %
+  Words with candidates:  15
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidats:  3.91644908616 %
+  Words with candidates(refined):  7
+  Percentage of identified misspellings with candidates:  17 %
+  Percentage of incorrect words with candidates:  1.82767624021 %
+  Words with correct word as first suggestion:  2
+  Words with correct word in suggestions:  3
+  Percentage of words with candidates with correct word as first suggestion:  28.5714285714 %
+  Percentage of identified misspellings with correct word as first suggestion:  5.12820512821 %
+  Percentage of incorrect words with correct word as first suggestion:  0.522193211488 %
+  Percentage of words with candidates with correct word in suggestions:  42.8571428571 %
+  Percentage of identified misspellings with correct word in suggestions:  7.69230769231 %
+  Percentage of incorrect words with correct word in suggestions:  0.783289817232 %
+ 
+degrade.FR940104-0-00025.000
+original.FR940104-0-00025.000
+  Falsely marked as incorrect:  23
+  Actual incorrect words: 892
+  Words identified as wrong:  139
+  Percentage of incorrect words marked as correct  84.4170403587 %
+  Words with candidates:  87
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  9.7533632287 %
+  Words with candidates(refined):  65
+  Percentage of identified misspellings with candidates:  46 %
+  Percentage of incorrect words with candidates:  7.2869955157 %
+  Words with correct word as first suggestion:  26
+  Words with correct word in suggestions:  53
+  Percentage of words with candidates with correct word as first suggestion:  40.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  18.7050359712 %
+  Percentage of incorrect words with correct word as first suggestion:  2.91479820628 %
+  Percentage of words with candidates with correct word in suggestions:  81.5384615385 %
+  Percentage of identified misspellings with correct word in suggestions:  38.1294964029 %
+  Percentage of incorrect words with correct word in suggestions:  5.94170403587 %
+ 
+degrade.FR940104-0-00026.000
+original.FR940104-0-00026.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 343
+  Words identified as wrong:  59
+  Percentage of incorrect words marked as correct  82.7988338192 %
+  Words with candidates:  21
+  Percentage of identified misspellings with candidates:  35 %
+  Percentage of incorrect words with candidats:  6.12244897959 %
+  Words with candidates(refined):  15
+  Percentage of identified misspellings with candidates:  25 %
+  Percentage of incorrect words with candidates:  4.37317784257 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  10
+  Percentage of words with candidates with correct word as first suggestion:  53.3333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.5593220339 %
+  Percentage of incorrect words with correct word as first suggestion:  2.33236151603 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  16.9491525424 %
+  Percentage of incorrect words with correct word in suggestions:  2.91545189504 %
+ 
+degrade.FR940104-0-00027.000
+original.FR940104-0-00027.000
+  Falsely marked as incorrect:  0
+  Actual incorrect words: 432
+  Words identified as wrong:  31
+  Percentage of incorrect words marked as correct  92.8240740741 %
+  Words with candidates:  16
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidats:  3.7037037037 %
+  Words with candidates(refined):  16
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidates:  3.7037037037 %
+  Words with correct word as first suggestion:  0
+  Words with correct word in suggestions:  8
+  Percentage of words with candidates with correct word as first suggestion:  0.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  0.0 %
+  Percentage of incorrect words with correct word as first suggestion:  0.0 %
+  Percentage of words with candidates with correct word in suggestions:  50.0 %
+  Percentage of identified misspellings with correct word in suggestions:  25.8064516129 %
+  Percentage of incorrect words with correct word in suggestions:  1.85185185185 %
+ 
+degrade.FR940104-0-00028.000
+original.FR940104-0-00028.000
+  Falsely marked as incorrect:  0
+  Actual incorrect words: 725
+  Words identified as wrong:  54
+  Percentage of incorrect words marked as correct  92.5517241379 %
+  Words with candidates:  31
+  Percentage of identified misspellings with candidates:  57 %
+  Percentage of incorrect words with candidats:  4.27586206897 %
+  Words with candidates(refined):  30
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidates:  4.13793103448 %
+  Words with correct word as first suggestion:  2
+  Words with correct word in suggestions:  18
+  Percentage of words with candidates with correct word as first suggestion:  6.66666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  3.7037037037 %
+  Percentage of incorrect words with correct word as first suggestion:  0.275862068966 %
+  Percentage of words with candidates with correct word in suggestions:  60.0 %
+  Percentage of identified misspellings with correct word in suggestions:  33.3333333333 %
+  Percentage of incorrect words with correct word in suggestions:  2.48275862069 %
+ 
+degrade.FR940104-0-00029.000
+original.FR940104-0-00029.000
+  Falsely marked as incorrect:  12
+  Actual incorrect words: 660
+  Words identified as wrong:  59
+  Percentage of incorrect words marked as correct  91.0606060606 %
+  Words with candidates:  37
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  5.60606060606 %
+  Words with candidates(refined):  19
+  Percentage of identified misspellings with candidates:  32 %
+  Percentage of incorrect words with candidates:  2.87878787879 %
+  Words with correct word as first suggestion:  3
+  Words with correct word in suggestions:  7
+  Percentage of words with candidates with correct word as first suggestion:  15.7894736842 %
+  Percentage of identified misspellings with correct word as first suggestion:  5.08474576271 %
+  Percentage of incorrect words with correct word as first suggestion:  0.454545454545 %
+  Percentage of words with candidates with correct word in suggestions:  36.8421052632 %
+  Percentage of identified misspellings with correct word in suggestions:  11.8644067797 %
+  Percentage of incorrect words with correct word in suggestions:  1.06060606061 %
+ 
+degrade.FR940104-0-00030.000
+original.FR940104-0-00030.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 735
+  Words identified as wrong:  68
+  Percentage of incorrect words marked as correct  90.7482993197 %
+  Words with candidates:  40
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidats:  5.44217687075 %
+  Words with candidates(refined):  21
+  Percentage of identified misspellings with candidates:  30 %
+  Percentage of incorrect words with candidates:  2.85714285714 %
+  Words with correct word as first suggestion:  5
+  Words with correct word in suggestions:  13
+  Percentage of words with candidates with correct word as first suggestion:  23.8095238095 %
+  Percentage of identified misspellings with correct word as first suggestion:  7.35294117647 %
+  Percentage of incorrect words with correct word as first suggestion:  0.680272108844 %
+  Percentage of words with candidates with correct word in suggestions:  61.9047619048 %
+  Percentage of identified misspellings with correct word in suggestions:  19.1176470588 %
+  Percentage of incorrect words with correct word in suggestions:  1.76870748299 %
+ 
+degrade.FR940104-0-00031.000
+original.FR940104-0-00031.000
+  Falsely marked as incorrect:  49
+  Actual incorrect words: 5467
+  Words identified as wrong:  367
+  Percentage of incorrect words marked as correct  93.2869946954 %
+  Words with candidates:  265
+  Percentage of identified misspellings with candidates:  72 %
+  Percentage of incorrect words with candidats:  4.84726541065 %
+  Words with candidates(refined):  203
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidates:  3.71318822023 %
+  Words with correct word as first suggestion:  60
+  Words with correct word in suggestions:  98
+  Percentage of words with candidates with correct word as first suggestion:  29.5566502463 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.348773842 %
+  Percentage of incorrect words with correct word as first suggestion:  1.09749405524 %
+  Percentage of words with candidates with correct word in suggestions:  48.275862069 %
+  Percentage of identified misspellings with correct word in suggestions:  26.7029972752 %
+  Percentage of incorrect words with correct word in suggestions:  1.79257362356 %
+ 
+degrade.FR940104-0-00032.000
+original.FR940104-0-00032.000
+  Falsely marked as incorrect:  292
+  Actual incorrect words: 23259
+  Words identified as wrong:  1353
+  Percentage of incorrect words marked as correct  94.1828969431 %
+  Words with candidates:  1041
+  Percentage of identified misspellings with candidates:  76 %
+  Percentage of incorrect words with candidats:  4.4756868309 %
+  Words with candidates(refined):  755
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidates:  3.24605529043 %
+  Words with correct word as first suggestion:  129
+  Words with correct word in suggestions:  304
+  Percentage of words with candidates with correct word as first suggestion:  17.0860927152 %
+  Percentage of identified misspellings with correct word as first suggestion:  9.53436807095 %
+  Percentage of incorrect words with correct word as first suggestion:  0.55462401651 %
+  Percentage of words with candidates with correct word in suggestions:  40.2649006623 %
+  Percentage of identified misspellings with correct word in suggestions:  22.4685883222 %
+  Percentage of incorrect words with correct word in suggestions:  1.30702093813 %
+ 
+degrade.FR940104-0-00033.000
+original.FR940104-0-00033.000
+  Falsely marked as incorrect:  182
+  Actual incorrect words: 18866
+  Words identified as wrong:  1060
+  Percentage of incorrect words marked as correct  94.3814269055 %
+  Words with candidates:  818
+  Percentage of identified misspellings with candidates:  77 %
+  Percentage of incorrect words with candidats:  4.33584225591 %
+  Words with candidates(refined):  616
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidates:  3.26513304357 %
+  Words with correct word as first suggestion:  85
+  Words with correct word in suggestions:  210
+  Percentage of words with candidates with correct word as first suggestion:  13.7987012987 %
+  Percentage of identified misspellings with correct word as first suggestion:  8.01886792453 %
+  Percentage of incorrect words with correct word as first suggestion:  0.450545955687 %
+  Percentage of words with candidates with correct word in suggestions:  34.0909090909 %
+  Percentage of identified misspellings with correct word in suggestions:  19.8113207547 %
+  Percentage of incorrect words with correct word in suggestions:  1.11311353758 %
+ 
+degrade.FR940104-0-00034.000
+original.FR940104-0-00034.000
+  Falsely marked as incorrect:  244
+  Actual incorrect words: 36552
+  Words identified as wrong:  2434
+  Percentage of incorrect words marked as correct  93.3409936529 %
+  Words with candidates:  1730
+  Percentage of identified misspellings with candidates:  71 %
+  Percentage of incorrect words with candidats:  4.7329831473 %
+  Words with candidates(refined):  1287
+  Percentage of identified misspellings with candidates:  52 %
+  Percentage of incorrect words with candidates:  3.52101116218 %
+  Words with correct word as first suggestion:  297
+  Words with correct word in suggestions:  483
+  Percentage of words with candidates with correct word as first suggestion:  23.0769230769 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.202136401 %
+  Percentage of incorrect words with correct word as first suggestion:  0.812541037426 %
+  Percentage of words with candidates with correct word in suggestions:  37.5291375291 %
+  Percentage of identified misspellings with correct word in suggestions:  19.8438783895 %
+  Percentage of incorrect words with correct word in suggestions:  1.32140512147 %
+ 
+degrade.FR940104-0-00035.000
+original.FR940104-0-00035.000
+  Falsely marked as incorrect:  40
+  Actual incorrect words: 3795
+  Words identified as wrong:  431
+  Percentage of incorrect words marked as correct  88.6429512516 %
+  Words with candidates:  287
+  Percentage of identified misspellings with candidates:  66 %
+  Percentage of incorrect words with candidats:  7.56258234519 %
+  Words with candidates(refined):  234
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidates:  6.16600790514 %
+  Words with correct word as first suggestion:  55
+  Words with correct word in suggestions:  123
+  Percentage of words with candidates with correct word as first suggestion:  23.5042735043 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.7610208817 %
+  Percentage of incorrect words with correct word as first suggestion:  1.44927536232 %
+  Percentage of words with candidates with correct word in suggestions:  52.5641025641 %
+  Percentage of identified misspellings with correct word in suggestions:  28.5382830626 %
+  Percentage of incorrect words with correct word in suggestions:  3.24110671937 %
+ 
+degrade.FR940104-0-00036.000
+original.FR940104-0-00036.000
+  Falsely marked as incorrect:  24
+  Actual incorrect words: 1449
+  Words identified as wrong:  198
+  Percentage of incorrect words marked as correct  86.3354037267 %
+  Words with candidates:  109
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidats:  7.52242926156 %
+  Words with candidates(refined):  74
+  Percentage of identified misspellings with candidates:  37 %
+  Percentage of incorrect words with candidates:  5.10697032436 %
+  Words with correct word as first suggestion:  30
+  Words with correct word in suggestions:  43
+  Percentage of words with candidates with correct word as first suggestion:  40.5405405405 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.1515151515 %
+  Percentage of incorrect words with correct word as first suggestion:  2.07039337474 %
+  Percentage of words with candidates with correct word in suggestions:  58.1081081081 %
+  Percentage of identified misspellings with correct word in suggestions:  21.7171717172 %
+  Percentage of incorrect words with correct word in suggestions:  2.96756383713 %
+ 
+degrade.FR940104-0-00037.000
+original.FR940104-0-00037.000
+  Falsely marked as incorrect:  13
+  Actual incorrect words: 523
+  Words identified as wrong:  80
+  Percentage of incorrect words marked as correct  84.7036328872 %
+  Words with candidates:  36
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidats:  6.88336520076 %
+  Words with candidates(refined):  29
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  5.54493307839 %
+  Words with correct word as first suggestion:  5
+  Words with correct word in suggestions:  14
+  Percentage of words with candidates with correct word as first suggestion:  17.2413793103 %
+  Percentage of identified misspellings with correct word as first suggestion:  6.25 %
+  Percentage of incorrect words with correct word as first suggestion:  0.956022944551 %
+  Percentage of words with candidates with correct word in suggestions:  48.275862069 %
+  Percentage of identified misspellings with correct word in suggestions:  17.5 %
+  Percentage of incorrect words with correct word in suggestions:  2.67686424474 %
+ 
+degrade.FR940104-0-00038.000
+original.FR940104-0-00038.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 591
+  Words identified as wrong:  100
+  Percentage of incorrect words marked as correct  83.0795262267 %
+  Words with candidates:  41
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidats:  6.93739424704 %
+  Words with candidates(refined):  30
+  Percentage of identified misspellings with candidates:  30 %
+  Percentage of incorrect words with candidates:  5.07614213198 %
+  Words with correct word as first suggestion:  5
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  16.6666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  5.0 %
+  Percentage of incorrect words with correct word as first suggestion:  0.846023688663 %
+  Percentage of words with candidates with correct word in suggestions:  53.3333333333 %
+  Percentage of identified misspellings with correct word in suggestions:  16.0 %
+  Percentage of incorrect words with correct word in suggestions:  2.70727580372 %
+ 
+degrade.FR940104-0-00039.000
+original.FR940104-0-00039.000
+  Falsely marked as incorrect:  8
+  Actual incorrect words: 988
+  Words identified as wrong:  122
+  Percentage of incorrect words marked as correct  87.6518218623 %
+  Words with candidates:  74
+  Percentage of identified misspellings with candidates:  60 %
+  Percentage of incorrect words with candidats:  7.48987854251 %
+  Words with candidates(refined):  56
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidates:  5.66801619433 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  40
+  Percentage of words with candidates with correct word as first suggestion:  26.7857142857 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.2950819672 %
+  Percentage of incorrect words with correct word as first suggestion:  1.51821862348 %
+  Percentage of words with candidates with correct word in suggestions:  71.4285714286 %
+  Percentage of identified misspellings with correct word in suggestions:  32.7868852459 %
+  Percentage of incorrect words with correct word in suggestions:  4.04858299595 %
+ 
+degrade.FR940104-0-00040.000
+original.FR940104-0-00040.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 698
+  Words identified as wrong:  115
+  Percentage of incorrect words marked as correct  83.5243553009 %
+  Words with candidates:  52
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidats:  7.44985673352 %
+  Words with candidates(refined):  36
+  Percentage of identified misspellings with candidates:  31 %
+  Percentage of incorrect words with candidates:  5.15759312321 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  23
+  Percentage of words with candidates with correct word as first suggestion:  38.8888888889 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.1739130435 %
+  Percentage of incorrect words with correct word as first suggestion:  2.00573065903 %
+  Percentage of words with candidates with correct word in suggestions:  63.8888888889 %
+  Percentage of identified misspellings with correct word in suggestions:  20.0 %
+  Percentage of incorrect words with correct word in suggestions:  3.29512893983 %
+ 
+degrade.FR940104-0-00041.000
+original.FR940104-0-00041.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 885
+  Words identified as wrong:  116
+  Percentage of incorrect words marked as correct  86.8926553672 %
+  Words with candidates:  68
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidats:  7.68361581921 %
+  Words with candidates(refined):  49
+  Percentage of identified misspellings with candidates:  42 %
+  Percentage of incorrect words with candidates:  5.53672316384 %
+  Words with correct word as first suggestion:  19
+  Words with correct word in suggestions:  30
+  Percentage of words with candidates with correct word as first suggestion:  38.7755102041 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.3793103448 %
+  Percentage of incorrect words with correct word as first suggestion:  2.14689265537 %
+  Percentage of words with candidates with correct word in suggestions:  61.2244897959 %
+  Percentage of identified misspellings with correct word in suggestions:  25.8620689655 %
+  Percentage of incorrect words with correct word in suggestions:  3.38983050847 %
+ 
+degrade.FR940104-0-00042.000
+original.FR940104-0-00042.000
+  Falsely marked as incorrect:  8
+  Actual incorrect words: 858
+  Words identified as wrong:  112
+  Percentage of incorrect words marked as correct  86.9463869464 %
+  Words with candidates:  64
+  Percentage of identified misspellings with candidates:  57 %
+  Percentage of incorrect words with candidats:  7.45920745921 %
+  Words with candidates(refined):  47
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidates:  5.47785547786 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  34
+  Percentage of words with candidates with correct word as first suggestion:  31.914893617 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.3928571429 %
+  Percentage of incorrect words with correct word as first suggestion:  1.74825174825 %
+  Percentage of words with candidates with correct word in suggestions:  72.3404255319 %
+  Percentage of identified misspellings with correct word in suggestions:  30.3571428571 %
+  Percentage of incorrect words with correct word in suggestions:  3.9627039627 %
+ 
+degrade.FR940104-0-00043.000
+original.FR940104-0-00043.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 544
+  Words identified as wrong:  82
+  Percentage of incorrect words marked as correct  84.9264705882 %
+  Words with candidates:  50
+  Percentage of identified misspellings with candidates:  60 %
+  Percentage of incorrect words with candidats:  9.19117647059 %
+  Words with candidates(refined):  39
+  Percentage of identified misspellings with candidates:  47 %
+  Percentage of incorrect words with candidates:  7.16911764706 %
+  Words with correct word as first suggestion:  11
+  Words with correct word in suggestions:  29
+  Percentage of words with candidates with correct word as first suggestion:  28.2051282051 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.4146341463 %
+  Percentage of incorrect words with correct word as first suggestion:  2.02205882353 %
+  Percentage of words with candidates with correct word in suggestions:  74.358974359 %
+  Percentage of identified misspellings with correct word in suggestions:  35.3658536585 %
+  Percentage of incorrect words with correct word in suggestions:  5.33088235294 %
+ 
+degrade.FR940104-0-00044.000
+original.FR940104-0-00044.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 798
+  Words identified as wrong:  158
+  Percentage of incorrect words marked as correct  80.2005012531 %
+  Words with candidates:  82
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidats:  10.2756892231 %
+  Words with candidates(refined):  64
+  Percentage of identified misspellings with candidates:  40 %
+  Percentage of incorrect words with candidates:  8.02005012531 %
+  Words with correct word as first suggestion:  21
+  Words with correct word in suggestions:  50
+  Percentage of words with candidates with correct word as first suggestion:  32.8125 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.2911392405 %
+  Percentage of incorrect words with correct word as first suggestion:  2.63157894737 %
+  Percentage of words with candidates with correct word in suggestions:  78.125 %
+  Percentage of identified misspellings with correct word in suggestions:  31.6455696203 %
+  Percentage of incorrect words with correct word in suggestions:  6.2656641604 %
+ 
+degrade.FR940104-0-00045.000
+original.FR940104-0-00045.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 559
+  Words identified as wrong:  90
+  Percentage of incorrect words marked as correct  83.8998211091 %
+  Words with candidates:  57
+  Percentage of identified misspellings with candidates:  63 %
+  Percentage of incorrect words with candidats:  10.1967799642 %
+  Words with candidates(refined):  39
+  Percentage of identified misspellings with candidates:  43 %
+  Percentage of incorrect words with candidates:  6.97674418605 %
+  Words with correct word as first suggestion:  16
+  Words with correct word in suggestions:  34
+  Percentage of words with candidates with correct word as first suggestion:  41.0256410256 %
+  Percentage of identified misspellings with correct word as first suggestion:  17.7777777778 %
+  Percentage of incorrect words with correct word as first suggestion:  2.86225402504 %
+  Percentage of words with candidates with correct word in suggestions:  87.1794871795 %
+  Percentage of identified misspellings with correct word in suggestions:  37.7777777778 %
+  Percentage of incorrect words with correct word in suggestions:  6.08228980322 %
+ 
+degrade.FR940104-0-00046.000
+original.FR940104-0-00046.000
+  Falsely marked as incorrect:  10
+  Actual incorrect words: 855
+  Words identified as wrong:  144
+  Percentage of incorrect words marked as correct  83.1578947368 %
+  Words with candidates:  70
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidats:  8.18713450292 %
+  Words with candidates(refined):  53
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  6.19883040936 %
+  Words with correct word as first suggestion:  11
+  Words with correct word in suggestions:  32
+  Percentage of words with candidates with correct word as first suggestion:  20.7547169811 %
+  Percentage of identified misspellings with correct word as first suggestion:  7.63888888889 %
+  Percentage of incorrect words with correct word as first suggestion:  1.2865497076 %
+  Percentage of words with candidates with correct word in suggestions:  60.3773584906 %
+  Percentage of identified misspellings with correct word in suggestions:  22.2222222222 %
+  Percentage of incorrect words with correct word in suggestions:  3.74269005848 %
+ 
+degrade.FR940104-0-00047.000
+original.FR940104-0-00047.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 934
+  Words identified as wrong:  133
+  Percentage of incorrect words marked as correct  85.7601713062 %
+  Words with candidates:  75
+  Percentage of identified misspellings with candidates:  56 %
+  Percentage of incorrect words with candidats:  8.02997858672 %
+  Words with candidates(refined):  62
+  Percentage of identified misspellings with candidates:  46 %
+  Percentage of incorrect words with candidates:  6.63811563169 %
+  Words with correct word as first suggestion:  20
+  Words with correct word in suggestions:  47
+  Percentage of words with candidates with correct word as first suggestion:  32.2580645161 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.037593985 %
+  Percentage of incorrect words with correct word as first suggestion:  2.14132762313 %
+  Percentage of words with candidates with correct word in suggestions:  75.8064516129 %
+  Percentage of identified misspellings with correct word in suggestions:  35.3383458647 %
+  Percentage of incorrect words with correct word in suggestions:  5.03211991435 %
+ 
+degrade.FR940104-0-00048.000
+original.FR940104-0-00048.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 843
+  Words identified as wrong:  114
+  Percentage of incorrect words marked as correct  86.4768683274 %
+  Words with candidates:  70
+  Percentage of identified misspellings with candidates:  61 %
+  Percentage of incorrect words with candidats:  8.30367734282 %
+  Words with candidates(refined):  54
+  Percentage of identified misspellings with candidates:  47 %
+  Percentage of incorrect words with candidates:  6.40569395018 %
+  Words with correct word as first suggestion:  22
+  Words with correct word in suggestions:  43
+  Percentage of words with candidates with correct word as first suggestion:  40.7407407407 %
+  Percentage of identified misspellings with correct word as first suggestion:  19.298245614 %
+  Percentage of incorrect words with correct word as first suggestion:  2.60972716489 %
+  Percentage of words with candidates with correct word in suggestions:  79.6296296296 %
+  Percentage of identified misspellings with correct word in suggestions:  37.7192982456 %
+  Percentage of incorrect words with correct word in suggestions:  5.10083036773 %
+ 
+degrade.FR940104-0-00049.000
+original.FR940104-0-00049.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 1040
+  Words identified as wrong:  154
+  Percentage of incorrect words marked as correct  85.1923076923 %
+  Words with candidates:  84
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidats:  8.07692307692 %
+  Words with candidates(refined):  66
+  Percentage of identified misspellings with candidates:  42 %
+  Percentage of incorrect words with candidates:  6.34615384615 %
+  Words with correct word as first suggestion:  23
+  Words with correct word in suggestions:  50
+  Percentage of words with candidates with correct word as first suggestion:  34.8484848485 %
+  Percentage of identified misspellings with correct word as first suggestion:  14.9350649351 %
+  Percentage of incorrect words with correct word as first suggestion:  2.21153846154 %
+  Percentage of words with candidates with correct word in suggestions:  75.7575757576 %
+  Percentage of identified misspellings with correct word in suggestions:  32.4675324675 %
+  Percentage of incorrect words with correct word in suggestions:  4.80769230769 %
+ 
+degrade.FR940104-0-00050.000
+original.FR940104-0-00050.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 819
+  Words identified as wrong:  111
+  Percentage of incorrect words marked as correct  86.4468864469 %
+  Words with candidates:  60
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidats:  7.32600732601 %
+  Words with candidates(refined):  43
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidates:  5.25030525031 %
+  Words with correct word as first suggestion:  17
+  Words with correct word in suggestions:  30
+  Percentage of words with candidates with correct word as first suggestion:  39.5348837209 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.3153153153 %
+  Percentage of incorrect words with correct word as first suggestion:  2.0757020757 %
+  Percentage of words with candidates with correct word in suggestions:  69.7674418605 %
+  Percentage of identified misspellings with correct word in suggestions:  27.027027027 %
+  Percentage of incorrect words with correct word in suggestions:  3.663003663 %
+ 
+degrade.FR940104-0-00051.000
+original.FR940104-0-00051.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 197
+  Words identified as wrong:  35
+  Percentage of incorrect words marked as correct  82.2335025381 %
+  Words with candidates:  8
+  Percentage of identified misspellings with candidates:  22 %
+  Percentage of incorrect words with candidats:  4.06091370558 %
+  Words with candidates(refined):  5
+  Percentage of identified misspellings with candidates:  14 %
+  Percentage of incorrect words with candidates:  2.53807106599 %
+  Words with correct word as first suggestion:  1
+  Words with correct word in suggestions:  3
+  Percentage of words with candidates with correct word as first suggestion:  20.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  2.85714285714 %
+  Percentage of incorrect words with correct word as first suggestion:  0.507614213198 %
+  Percentage of words with candidates with correct word in suggestions:  60.0 %
+  Percentage of identified misspellings with correct word in suggestions:  8.57142857143 %
+  Percentage of incorrect words with correct word in suggestions:  1.52284263959 %
+ 
+degrade.FR940104-0-00052.000
+original.FR940104-0-00052.000
+  Falsely marked as incorrect:  11
+  Actual incorrect words: 529
+  Words identified as wrong:  102
+  Percentage of incorrect words marked as correct  80.7183364839 %
+  Words with candidates:  49
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidats:  9.26275992439 %
+  Words with candidates(refined):  35
+  Percentage of identified misspellings with candidates:  34 %
+  Percentage of incorrect words with candidates:  6.61625708885 %
+  Words with correct word as first suggestion:  11
+  Words with correct word in suggestions:  22
+  Percentage of words with candidates with correct word as first suggestion:  31.4285714286 %
+  Percentage of identified misspellings with correct word as first suggestion:  10.7843137255 %
+  Percentage of incorrect words with correct word as first suggestion:  2.07939508507 %
+  Percentage of words with candidates with correct word in suggestions:  62.8571428571 %
+  Percentage of identified misspellings with correct word in suggestions:  21.568627451 %
+  Percentage of incorrect words with correct word in suggestions:  4.15879017013 %
+ 
+degrade.FR940104-0-00053.000
+original.FR940104-0-00053.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 808
+  Words identified as wrong:  103
+  Percentage of incorrect words marked as correct  87.2524752475 %
+  Words with candidates:  67
+  Percentage of identified misspellings with candidates:  65 %
+  Percentage of incorrect words with candidats:  8.29207920792 %
+  Words with candidates(refined):  38
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  4.70297029703 %
+  Words with correct word as first suggestion:  20
+  Words with correct word in suggestions:  27
+  Percentage of words with candidates with correct word as first suggestion:  52.6315789474 %
+  Percentage of identified misspellings with correct word as first suggestion:  19.4174757282 %
+  Percentage of incorrect words with correct word as first suggestion:  2.47524752475 %
+  Percentage of words with candidates with correct word in suggestions:  71.0526315789 %
+  Percentage of identified misspellings with correct word in suggestions:  26.213592233 %
+  Percentage of incorrect words with correct word in suggestions:  3.34158415842 %
+ 
+degrade.FR940104-0-00054.000
+original.FR940104-0-00054.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 508
+  Words identified as wrong:  58
+  Percentage of incorrect words marked as correct  88.5826771654 %
+  Words with candidates:  51
+  Percentage of identified misspellings with candidates:  87 %
+  Percentage of incorrect words with candidats:  10.0393700787 %
+  Words with candidates(refined):  31
+  Percentage of identified misspellings with candidates:  53 %
+  Percentage of incorrect words with candidates:  6.10236220472 %
+  Words with correct word as first suggestion:  9
+  Words with correct word in suggestions:  18
+  Percentage of words with candidates with correct word as first suggestion:  29.0322580645 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.5172413793 %
+  Percentage of incorrect words with correct word as first suggestion:  1.77165354331 %
+  Percentage of words with candidates with correct word in suggestions:  58.064516129 %
+  Percentage of identified misspellings with correct word in suggestions:  31.0344827586 %
+  Percentage of incorrect words with correct word in suggestions:  3.54330708661 %
+ 
+degrade.FR940104-0-00055.000
+original.FR940104-0-00055.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 1008
+  Words identified as wrong:  99
+  Percentage of incorrect words marked as correct  90.1785714286 %
+  Words with candidates:  75
+  Percentage of identified misspellings with candidates:  75 %
+  Percentage of incorrect words with candidats:  7.44047619048 %
+  Words with candidates(refined):  50
+  Percentage of identified misspellings with candidates:  50 %
+  Percentage of incorrect words with candidates:  4.96031746032 %
+  Words with correct word as first suggestion:  22
+  Words with correct word in suggestions:  39
+  Percentage of words with candidates with correct word as first suggestion:  44.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  22.2222222222 %
+  Percentage of incorrect words with correct word as first suggestion:  2.18253968254 %
+  Percentage of words with candidates with correct word in suggestions:  78.0 %
+  Percentage of identified misspellings with correct word in suggestions:  39.3939393939 %
+  Percentage of incorrect words with correct word in suggestions:  3.86904761905 %
+ 
+degrade.FR940104-0-00056.000
+original.FR940104-0-00056.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 484
+  Words identified as wrong:  54
+  Percentage of incorrect words marked as correct  88.8429752066 %
+  Words with candidates:  40
+  Percentage of identified misspellings with candidates:  74 %
+  Percentage of incorrect words with candidats:  8.26446280992 %
+  Words with candidates(refined):  22
+  Percentage of identified misspellings with candidates:  40 %
+  Percentage of incorrect words with candidates:  4.54545454545 %
+  Words with correct word as first suggestion:  5
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  22.7272727273 %
+  Percentage of identified misspellings with correct word as first suggestion:  9.25925925926 %
+  Percentage of incorrect words with correct word as first suggestion:  1.03305785124 %
+  Percentage of words with candidates with correct word in suggestions:  77.2727272727 %
+  Percentage of identified misspellings with correct word in suggestions:  31.4814814815 %
+  Percentage of incorrect words with correct word in suggestions:  3.51239669421 %
+ 
+degrade.FR940104-0-00057.000
+original.FR940104-0-00057.000
+  Falsely marked as incorrect:  1
+  Actual incorrect words: 441
+  Words identified as wrong:  51
+  Percentage of incorrect words marked as correct  88.4353741497 %
+  Words with candidates:  42
+  Percentage of identified misspellings with candidates:  82 %
+  Percentage of incorrect words with candidats:  9.52380952381 %
+  Words with candidates(refined):  33
+  Percentage of identified misspellings with candidates:  64 %
+  Percentage of incorrect words with candidates:  7.48299319728 %
+  Words with correct word as first suggestion:  10
+  Words with correct word in suggestions:  25
+  Percentage of words with candidates with correct word as first suggestion:  30.303030303 %
+  Percentage of identified misspellings with correct word as first suggestion:  19.6078431373 %
+  Percentage of incorrect words with correct word as first suggestion:  2.26757369615 %
+  Percentage of words with candidates with correct word in suggestions:  75.7575757576 %
+  Percentage of identified misspellings with correct word in suggestions:  49.0196078431 %
+  Percentage of incorrect words with correct word in suggestions:  5.66893424036 %
+ 
+degrade.FR940104-0-00058.000
+original.FR940104-0-00058.000
+  Falsely marked as incorrect:  10
+  Actual incorrect words: 755
+  Words identified as wrong:  71
+  Percentage of incorrect words marked as correct  90.5960264901 %
+  Words with candidates:  52
+  Percentage of identified misspellings with candidates:  73 %
+  Percentage of incorrect words with candidats:  6.88741721854 %
+  Words with candidates(refined):  37
+  Percentage of identified misspellings with candidates:  52 %
+  Percentage of incorrect words with candidates:  4.90066225166 %
+  Words with correct word as first suggestion:  4
+  Words with correct word in suggestions:  19
+  Percentage of words with candidates with correct word as first suggestion:  10.8108108108 %
+  Percentage of identified misspellings with correct word as first suggestion:  5.6338028169 %
+  Percentage of incorrect words with correct word as first suggestion:  0.529801324503 %
+  Percentage of words with candidates with correct word in suggestions:  51.3513513514 %
+  Percentage of identified misspellings with correct word in suggestions:  26.7605633803 %
+  Percentage of incorrect words with correct word in suggestions:  2.51655629139 %
+ 
+degrade.FR940104-0-00059.000
+original.FR940104-0-00059.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 1075
+  Words identified as wrong:  79
+  Percentage of incorrect words marked as correct  92.6511627907 %
+  Words with candidates:  64
+  Percentage of identified misspellings with candidates:  81 %
+  Percentage of incorrect words with candidats:  5.95348837209 %
+  Words with candidates(refined):  44
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidates:  4.09302325581 %
+  Words with correct word as first suggestion:  13
+  Words with correct word in suggestions:  34
+  Percentage of words with candidates with correct word as first suggestion:  29.5454545455 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.4556962025 %
+  Percentage of incorrect words with correct word as first suggestion:  1.20930232558 %
+  Percentage of words with candidates with correct word in suggestions:  77.2727272727 %
+  Percentage of identified misspellings with correct word in suggestions:  43.0379746835 %
+  Percentage of incorrect words with correct word in suggestions:  3.16279069767 %
+ 
+degrade.FR940104-0-00060.000
+original.FR940104-0-00060.000
+  Falsely marked as incorrect:  8
+  Actual incorrect words: 908
+  Words identified as wrong:  77
+  Percentage of incorrect words marked as correct  91.5198237885 %
+  Words with candidates:  51
+  Percentage of identified misspellings with candidates:  66 %
+  Percentage of incorrect words with candidats:  5.61674008811 %
+  Words with candidates(refined):  41
+  Percentage of identified misspellings with candidates:  53 %
+  Percentage of incorrect words with candidates:  4.5154185022 %
+  Words with correct word as first suggestion:  13
+  Words with correct word in suggestions:  32
+  Percentage of words with candidates with correct word as first suggestion:  31.7073170732 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.8831168831 %
+  Percentage of incorrect words with correct word as first suggestion:  1.43171806167 %
+  Percentage of words with candidates with correct word in suggestions:  78.0487804878 %
+  Percentage of identified misspellings with correct word in suggestions:  41.5584415584 %
+  Percentage of incorrect words with correct word in suggestions:  3.52422907489 %
+ 
+degrade.FR940104-0-00061.000
+original.FR940104-0-00061.000
+  Falsely marked as incorrect:  20
+  Actual incorrect words: 940
+  Words identified as wrong:  98
+  Percentage of incorrect words marked as correct  89.5744680851 %
+  Words with candidates:  83
+  Percentage of identified misspellings with candidates:  84 %
+  Percentage of incorrect words with candidats:  8.82978723404 %
+  Words with candidates(refined):  61
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidates:  6.48936170213 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  38
+  Percentage of words with candidates with correct word as first suggestion:  24.5901639344 %
+  Percentage of identified misspellings with correct word as first suggestion:  15.306122449 %
+  Percentage of incorrect words with correct word as first suggestion:  1.59574468085 %
+  Percentage of words with candidates with correct word in suggestions:  62.2950819672 %
+  Percentage of identified misspellings with correct word in suggestions:  38.7755102041 %
+  Percentage of incorrect words with correct word in suggestions:  4.04255319149 %
+ 
+degrade.FR940104-0-00062.000
+original.FR940104-0-00062.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 961
+  Words identified as wrong:  103
+  Percentage of incorrect words marked as correct  89.2819979188 %
+  Words with candidates:  82
+  Percentage of identified misspellings with candidates:  79 %
+  Percentage of incorrect words with candidats:  8.53277835588 %
+  Words with candidates(refined):  55
+  Percentage of identified misspellings with candidates:  53 %
+  Percentage of incorrect words with candidates:  5.7232049948 %
+  Words with correct word as first suggestion:  18
+  Words with correct word in suggestions:  44
+  Percentage of words with candidates with correct word as first suggestion:  32.7272727273 %
+  Percentage of identified misspellings with correct word as first suggestion:  17.4757281553 %
+  Percentage of incorrect words with correct word as first suggestion:  1.87304890739 %
+  Percentage of words with candidates with correct word in suggestions:  80.0 %
+  Percentage of identified misspellings with correct word in suggestions:  42.7184466019 %
+  Percentage of incorrect words with correct word in suggestions:  4.57856399584 %
+ 
+degrade.FR940104-0-00063.000
+original.FR940104-0-00063.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 130
+  Words identified as wrong:  37
+  Percentage of incorrect words marked as correct  71.5384615385 %
+  Words with candidates:  3
+  Percentage of identified misspellings with candidates:  8 %
+  Percentage of incorrect words with candidats:  2.30769230769 %
+  Words with candidates(refined):  1
+  Percentage of identified misspellings with candidates:  2 %
+  Percentage of incorrect words with candidates:  0.769230769231 %
+  Words with correct word as first suggestion:  1
+  Words with correct word in suggestions:  1
+  Percentage of words with candidates with correct word as first suggestion:  100.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  2.7027027027 %
+  Percentage of incorrect words with correct word as first suggestion:  0.769230769231 %
+  Percentage of words with candidates with correct word in suggestions:  100.0 %
+  Percentage of identified misspellings with correct word in suggestions:  2.7027027027 %
+  Percentage of incorrect words with correct word in suggestions:  0.769230769231 %
+ 
+degrade.FR940104-0-00064.000
+original.FR940104-0-00064.000
+  Falsely marked as incorrect:  10
+  Actual incorrect words: 839
+  Words identified as wrong:  92
+  Percentage of incorrect words marked as correct  89.0345649583 %
+  Words with candidates:  86
+  Percentage of identified misspellings with candidates:  93 %
+  Percentage of incorrect words with candidats:  10.2502979738 %
+  Words with candidates(refined):  62
+  Percentage of identified misspellings with candidates:  67 %
+  Percentage of incorrect words with candidates:  7.38974970203 %
+  Words with correct word as first suggestion:  24
+  Words with correct word in suggestions:  39
+  Percentage of words with candidates with correct word as first suggestion:  38.7096774194 %
+  Percentage of identified misspellings with correct word as first suggestion:  26.0869565217 %
+  Percentage of incorrect words with correct word as first suggestion:  2.86054827175 %
+  Percentage of words with candidates with correct word in suggestions:  62.9032258065 %
+  Percentage of identified misspellings with correct word in suggestions:  42.3913043478 %
+  Percentage of incorrect words with correct word in suggestions:  4.6483909416 %
+ 
+degrade.FR940104-0-00065.000
+original.FR940104-0-00065.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 608
+  Words identified as wrong:  24
+  Percentage of incorrect words marked as correct  96.0526315789 %
+  Words with candidates:  21
+  Percentage of identified misspellings with candidates:  87 %
+  Percentage of incorrect words with candidats:  3.45394736842 %
+  Words with candidates(refined):  14
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidates:  2.30263157895 %
+  Words with correct word as first suggestion:  3
+  Words with correct word in suggestions:  8
+  Percentage of words with candidates with correct word as first suggestion:  21.4285714286 %
+  Percentage of identified misspellings with correct word as first suggestion:  12.5 %
+  Percentage of incorrect words with correct word as first suggestion:  0.493421052632 %
+  Percentage of words with candidates with correct word in suggestions:  57.1428571429 %
+  Percentage of identified misspellings with correct word in suggestions:  33.3333333333 %
+  Percentage of incorrect words with correct word in suggestions:  1.31578947368 %
+ 
+degrade.FR940104-0-00066.000
+original.FR940104-0-00066.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 1019
+  Words identified as wrong:  111
+  Percentage of incorrect words marked as correct  89.1069676153 %
+  Words with candidates:  66
+  Percentage of identified misspellings with candidates:  59 %
+  Percentage of incorrect words with candidats:  6.47693817468 %
+  Words with candidates(refined):  58
+  Percentage of identified misspellings with candidates:  52 %
+  Percentage of incorrect words with candidates:  5.69185475957 %
+  Words with correct word as first suggestion:  26
+  Words with correct word in suggestions:  40
+  Percentage of words with candidates with correct word as first suggestion:  44.8275862069 %
+  Percentage of identified misspellings with correct word as first suggestion:  23.4234234234 %
+  Percentage of incorrect words with correct word as first suggestion:  2.55152109912 %
+  Percentage of words with candidates with correct word in suggestions:  68.9655172414 %
+  Percentage of identified misspellings with correct word in suggestions:  36.036036036 %
+  Percentage of incorrect words with correct word in suggestions:  3.92541707556 %
+ 
+degrade.FR940104-0-00067.000
+original.FR940104-0-00067.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 211
+  Words identified as wrong:  34
+  Percentage of incorrect words marked as correct  83.8862559242 %
+  Words with candidates:  13
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidats:  6.16113744076 %
+  Words with candidates(refined):  8
+  Percentage of identified misspellings with candidates:  23 %
+  Percentage of incorrect words with candidates:  3.79146919431 %
+  Words with correct word as first suggestion:  2
+  Words with correct word in suggestions:  2
+  Percentage of words with candidates with correct word as first suggestion:  25.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  5.88235294118 %
+  Percentage of incorrect words with correct word as first suggestion:  0.947867298578 %
+  Percentage of words with candidates with correct word in suggestions:  25.0 %
+  Percentage of identified misspellings with correct word in suggestions:  5.88235294118 %
+  Percentage of incorrect words with correct word in suggestions:  0.947867298578 %
+ 
+degrade.FR940104-0-00068.000
+original.FR940104-0-00068.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 83
+  Words identified as wrong:  9
+  Percentage of incorrect words marked as correct  89.156626506 %
+  Words with candidates:  3
+  Percentage of identified misspellings with candidates:  33 %
+  Percentage of incorrect words with candidats:  3.61445783133 %
+  Words with candidates(refined):  3
+  Percentage of identified misspellings with candidates:  33 %
+  Percentage of incorrect words with candidates:  3.61445783133 %
+  Words with correct word as first suggestion:  1
+  Words with correct word in suggestions:  2
+  Percentage of words with candidates with correct word as first suggestion:  33.3333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  11.1111111111 %
+  Percentage of incorrect words with correct word as first suggestion:  1.20481927711 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  22.2222222222 %
+  Percentage of incorrect words with correct word in suggestions:  2.40963855422 %
+ 
+degrade.FR940104-0-00069.000
+original.FR940104-0-00069.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 545
+  Words identified as wrong:  70
+  Percentage of incorrect words marked as correct  87.1559633028 %
+  Words with candidates:  46
+  Percentage of identified misspellings with candidates:  65 %
+  Percentage of incorrect words with candidats:  8.44036697248 %
+  Words with candidates(refined):  36
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidates:  6.60550458716 %
+  Words with correct word as first suggestion:  24
+  Words with correct word in suggestions:  27
+  Percentage of words with candidates with correct word as first suggestion:  66.6666666667 %
+  Percentage of identified misspellings with correct word as first suggestion:  34.2857142857 %
+  Percentage of incorrect words with correct word as first suggestion:  4.40366972477 %
+  Percentage of words with candidates with correct word in suggestions:  75.0 %
+  Percentage of identified misspellings with correct word in suggestions:  38.5714285714 %
+  Percentage of incorrect words with correct word in suggestions:  4.95412844037 %
+ 
+degrade.FR940104-0-00070.000
+original.FR940104-0-00070.000
+  Falsely marked as incorrect:  0
+  Actual incorrect words: 872
+  Words identified as wrong:  73
+  Percentage of incorrect words marked as correct  91.628440367 %
+  Words with candidates:  50
+  Percentage of identified misspellings with candidates:  68 %
+  Percentage of incorrect words with candidats:  5.73394495413 %
+  Words with candidates(refined):  43
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidates:  4.93119266055 %
+  Words with correct word as first suggestion:  25
+  Words with correct word in suggestions:  31
+  Percentage of words with candidates with correct word as first suggestion:  58.1395348837 %
+  Percentage of identified misspellings with correct word as first suggestion:  34.2465753425 %
+  Percentage of incorrect words with correct word as first suggestion:  2.86697247706 %
+  Percentage of words with candidates with correct word in suggestions:  72.0930232558 %
+  Percentage of identified misspellings with correct word in suggestions:  42.4657534247 %
+  Percentage of incorrect words with correct word in suggestions:  3.55504587156 %
+ 
+degrade.FR940104-0-00071.000
+original.FR940104-0-00071.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 899
+  Words identified as wrong:  60
+  Percentage of incorrect words marked as correct  93.3259176863 %
+  Words with candidates:  43
+  Percentage of identified misspellings with candidates:  71 %
+  Percentage of incorrect words with candidats:  4.78309232481 %
+  Words with candidates(refined):  37
+  Percentage of identified misspellings with candidates:  61 %
+  Percentage of incorrect words with candidates:  4.11568409344 %
+  Words with correct word as first suggestion:  24
+  Words with correct word in suggestions:  32
+  Percentage of words with candidates with correct word as first suggestion:  64.8648648649 %
+  Percentage of identified misspellings with correct word as first suggestion:  40.0 %
+  Percentage of incorrect words with correct word as first suggestion:  2.66963292547 %
+  Percentage of words with candidates with correct word in suggestions:  86.4864864865 %
+  Percentage of identified misspellings with correct word in suggestions:  53.3333333333 %
+  Percentage of incorrect words with correct word in suggestions:  3.5595105673 %
+ 
+degrade.FR940104-0-00072.000
+original.FR940104-0-00072.000
+  Falsely marked as incorrect:  0
+  Actual incorrect words: 619
+  Words identified as wrong:  49
+  Percentage of incorrect words marked as correct  92.084006462 %
+  Words with candidates:  40
+  Percentage of identified misspellings with candidates:  81 %
+  Percentage of incorrect words with candidats:  6.4620355412 %
+  Words with candidates(refined):  30
+  Percentage of identified misspellings with candidates:  61 %
+  Percentage of incorrect words with candidates:  4.8465266559 %
+  Words with correct word as first suggestion:  18
+  Words with correct word in suggestions:  24
+  Percentage of words with candidates with correct word as first suggestion:  60.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  36.7346938776 %
+  Percentage of incorrect words with correct word as first suggestion:  2.90791599354 %
+  Percentage of words with candidates with correct word in suggestions:  80.0 %
+  Percentage of identified misspellings with correct word in suggestions:  48.9795918367 %
+  Percentage of incorrect words with correct word in suggestions:  3.87722132472 %
+ 
+degrade.FR940104-0-00073.000
+original.FR940104-0-00073.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 537
+  Words identified as wrong:  34
+  Percentage of incorrect words marked as correct  93.6685288641 %
+  Words with candidates:  34
+  Percentage of identified misspellings with candidates:  100 %
+  Percentage of incorrect words with candidats:  6.33147113594 %
+  Words with candidates(refined):  25
+  Percentage of identified misspellings with candidates:  73 %
+  Percentage of incorrect words with candidates:  4.65549348231 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  20
+  Percentage of words with candidates with correct word as first suggestion:  56.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  41.1764705882 %
+  Percentage of incorrect words with correct word as first suggestion:  2.60707635009 %
+  Percentage of words with candidates with correct word in suggestions:  80.0 %
+  Percentage of identified misspellings with correct word in suggestions:  58.8235294118 %
+  Percentage of incorrect words with correct word in suggestions:  3.72439478585 %
+ 
+degrade.FR940104-0-00074.000
+original.FR940104-0-00074.000
+  Falsely marked as incorrect:  9
+  Actual incorrect words: 410
+  Words identified as wrong:  47
+  Percentage of incorrect words marked as correct  88.5365853659 %
+  Words with candidates:  28
+  Percentage of identified misspellings with candidates:  59 %
+  Percentage of incorrect words with candidats:  6.82926829268 %
+  Words with candidates(refined):  23
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidates:  5.60975609756 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  65.2173913043 %
+  Percentage of identified misspellings with correct word as first suggestion:  31.914893617 %
+  Percentage of incorrect words with correct word as first suggestion:  3.65853658537 %
+  Percentage of words with candidates with correct word in suggestions:  73.9130434783 %
+  Percentage of identified misspellings with correct word in suggestions:  36.170212766 %
+  Percentage of incorrect words with correct word in suggestions:  4.14634146341 %
+ 
+degrade.FR940104-0-00075.000
+original.FR940104-0-00075.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 403
+  Words identified as wrong:  53
+  Percentage of incorrect words marked as correct  86.8486352357 %
+  Words with candidates:  43
+  Percentage of identified misspellings with candidates:  81 %
+  Percentage of incorrect words with candidats:  10.6699751861 %
+  Words with candidates(refined):  31
+  Percentage of identified misspellings with candidates:  58 %
+  Percentage of incorrect words with candidates:  7.69230769231 %
+  Words with correct word as first suggestion:  16
+  Words with correct word in suggestions:  23
+  Percentage of words with candidates with correct word as first suggestion:  51.6129032258 %
+  Percentage of identified misspellings with correct word as first suggestion:  30.1886792453 %
+  Percentage of incorrect words with correct word as first suggestion:  3.97022332506 %
+  Percentage of words with candidates with correct word in suggestions:  74.1935483871 %
+  Percentage of identified misspellings with correct word in suggestions:  43.3962264151 %
+  Percentage of incorrect words with correct word in suggestions:  5.70719602978 %
+ 
+degrade.FR940104-0-00076.000
+original.FR940104-0-00076.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 630
+  Words identified as wrong:  37
+  Percentage of incorrect words marked as correct  94.126984127 %
+  Words with candidates:  17
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidats:  2.69841269841 %
+  Words with candidates(refined):  15
+  Percentage of identified misspellings with candidates:  40 %
+  Percentage of incorrect words with candidates:  2.38095238095 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  10
+  Percentage of words with candidates with correct word as first suggestion:  53.3333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  21.6216216216 %
+  Percentage of incorrect words with correct word as first suggestion:  1.26984126984 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  27.027027027 %
+  Percentage of incorrect words with correct word in suggestions:  1.5873015873 %
+ 
+degrade.FR940104-0-00077.000
+original.FR940104-0-00077.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 902
+  Words identified as wrong:  75
+  Percentage of incorrect words marked as correct  91.6851441242 %
+  Words with candidates:  48
+  Percentage of identified misspellings with candidates:  64 %
+  Percentage of incorrect words with candidats:  5.32150776053 %
+  Words with candidates(refined):  36
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidates:  3.9911308204 %
+  Words with correct word as first suggestion:  26
+  Words with correct word in suggestions:  33
+  Percentage of words with candidates with correct word as first suggestion:  72.2222222222 %
+  Percentage of identified misspellings with correct word as first suggestion:  34.6666666667 %
+  Percentage of incorrect words with correct word as first suggestion:  2.88248337029 %
+  Percentage of words with candidates with correct word in suggestions:  91.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  44.0 %
+  Percentage of incorrect words with correct word in suggestions:  3.65853658537 %
+ 
+degrade.FR940104-0-00078.000
+original.FR940104-0-00078.000
+  Falsely marked as incorrect:  6
+  Actual incorrect words: 650
+  Words identified as wrong:  61
+  Percentage of incorrect words marked as correct  90.6153846154 %
+  Words with candidates:  38
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  5.84615384615 %
+  Words with candidates(refined):  33
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidates:  5.07692307692 %
+  Words with correct word as first suggestion:  21
+  Words with correct word in suggestions:  25
+  Percentage of words with candidates with correct word as first suggestion:  63.6363636364 %
+  Percentage of identified misspellings with correct word as first suggestion:  34.4262295082 %
+  Percentage of incorrect words with correct word as first suggestion:  3.23076923077 %
+  Percentage of words with candidates with correct word in suggestions:  75.7575757576 %
+  Percentage of identified misspellings with correct word in suggestions:  40.9836065574 %
+  Percentage of incorrect words with correct word in suggestions:  3.84615384615 %
+ 
+degrade.FR940104-0-00079.000
+original.FR940104-0-00079.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 672
+  Words identified as wrong:  62
+  Percentage of incorrect words marked as correct  90.7738095238 %
+  Words with candidates:  31
+  Percentage of identified misspellings with candidates:  50 %
+  Percentage of incorrect words with candidats:  4.6130952381 %
+  Words with candidates(refined):  24
+  Percentage of identified misspellings with candidates:  38 %
+  Percentage of incorrect words with candidates:  3.57142857143 %
+  Words with correct word as first suggestion:  11
+  Words with correct word in suggestions:  19
+  Percentage of words with candidates with correct word as first suggestion:  45.8333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  17.7419354839 %
+  Percentage of incorrect words with correct word as first suggestion:  1.6369047619 %
+  Percentage of words with candidates with correct word in suggestions:  79.1666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  30.6451612903 %
+  Percentage of incorrect words with correct word in suggestions:  2.82738095238 %
+ 
+degrade.FR940104-0-00080.000
+original.FR940104-0-00080.000
+  Falsely marked as incorrect:  0
+  Actual incorrect words: 435
+  Words identified as wrong:  41
+  Percentage of incorrect words marked as correct  90.5747126437 %
+  Words with candidates:  16
+  Percentage of identified misspellings with candidates:  39 %
+  Percentage of incorrect words with candidats:  3.67816091954 %
+  Words with candidates(refined):  13
+  Percentage of identified misspellings with candidates:  31 %
+  Percentage of incorrect words with candidates:  2.98850574713 %
+  Words with correct word as first suggestion:  6
+  Words with correct word in suggestions:  10
+  Percentage of words with candidates with correct word as first suggestion:  46.1538461538 %
+  Percentage of identified misspellings with correct word as first suggestion:  14.6341463415 %
+  Percentage of incorrect words with correct word as first suggestion:  1.37931034483 %
+  Percentage of words with candidates with correct word in suggestions:  76.9230769231 %
+  Percentage of identified misspellings with correct word in suggestions:  24.3902439024 %
+  Percentage of incorrect words with correct word in suggestions:  2.29885057471 %
+ 
+degrade.FR940104-0-00081.000
+original.FR940104-0-00081.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 929
+  Words identified as wrong:  54
+  Percentage of incorrect words marked as correct  94.1872981701 %
+  Words with candidates:  34
+  Percentage of identified misspellings with candidates:  62 %
+  Percentage of incorrect words with candidats:  3.65984930032 %
+  Words with candidates(refined):  28
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidates:  3.01399354144 %
+  Words with correct word as first suggestion:  18
+  Words with correct word in suggestions:  22
+  Percentage of words with candidates with correct word as first suggestion:  64.2857142857 %
+  Percentage of identified misspellings with correct word as first suggestion:  33.3333333333 %
+  Percentage of incorrect words with correct word as first suggestion:  1.93756727664 %
+  Percentage of words with candidates with correct word in suggestions:  78.5714285714 %
+  Percentage of identified misspellings with correct word in suggestions:  40.7407407407 %
+  Percentage of incorrect words with correct word in suggestions:  2.36813778256 %
+ 
+degrade.FR940104-0-00082.000
+original.FR940104-0-00082.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 648
+  Words identified as wrong:  60
+  Percentage of incorrect words marked as correct  90.7407407407 %
+  Words with candidates:  32
+  Percentage of identified misspellings with candidates:  53 %
+  Percentage of incorrect words with candidats:  4.93827160494 %
+  Words with candidates(refined):  27
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidates:  4.16666666667 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  17
+  Percentage of words with candidates with correct word as first suggestion:  55.5555555556 %
+  Percentage of identified misspellings with correct word as first suggestion:  25.0 %
+  Percentage of incorrect words with correct word as first suggestion:  2.31481481481 %
+  Percentage of words with candidates with correct word in suggestions:  62.962962963 %
+  Percentage of identified misspellings with correct word in suggestions:  28.3333333333 %
+  Percentage of incorrect words with correct word in suggestions:  2.62345679012 %
+ 
+degrade.FR940104-0-00083.000
+original.FR940104-0-00083.000
+  Falsely marked as incorrect:  4
+  Actual incorrect words: 813
+  Words identified as wrong:  55
+  Percentage of incorrect words marked as correct  93.2349323493 %
+  Words with candidates:  30
+  Percentage of identified misspellings with candidates:  54 %
+  Percentage of incorrect words with candidats:  3.69003690037 %
+  Words with candidates(refined):  25
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidates:  3.07503075031 %
+  Words with correct word as first suggestion:  9
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  36.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  16.3636363636 %
+  Percentage of incorrect words with correct word as first suggestion:  1.10701107011 %
+  Percentage of words with candidates with correct word in suggestions:  64.0 %
+  Percentage of identified misspellings with correct word in suggestions:  29.0909090909 %
+  Percentage of incorrect words with correct word in suggestions:  1.9680196802 %
+ 
+degrade.FR940104-0-00084.000
+original.FR940104-0-00084.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 632
+  Words identified as wrong:  34
+  Percentage of incorrect words marked as correct  94.6202531646 %
+  Words with candidates:  21
+  Percentage of identified misspellings with candidates:  61 %
+  Percentage of incorrect words with candidats:  3.32278481013 %
+  Words with candidates(refined):  18
+  Percentage of identified misspellings with candidates:  52 %
+  Percentage of incorrect words with candidates:  2.84810126582 %
+  Words with correct word as first suggestion:  15
+  Words with correct word in suggestions:  15
+  Percentage of words with candidates with correct word as first suggestion:  83.3333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  44.1176470588 %
+  Percentage of incorrect words with correct word as first suggestion:  2.37341772152 %
+  Percentage of words with candidates with correct word in suggestions:  83.3333333333 %
+  Percentage of identified misspellings with correct word in suggestions:  44.1176470588 %
+  Percentage of incorrect words with correct word in suggestions:  2.37341772152 %
+ 
+degrade.FR940104-0-00085.000
+original.FR940104-0-00085.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 796
+  Words identified as wrong:  61
+  Percentage of incorrect words marked as correct  92.3366834171 %
+  Words with candidates:  39
+  Percentage of identified misspellings with candidates:  63 %
+  Percentage of incorrect words with candidats:  4.89949748744 %
+  Words with candidates(refined):  31
+  Percentage of identified misspellings with candidates:  50 %
+  Percentage of incorrect words with candidates:  3.89447236181 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  21
+  Percentage of words with candidates with correct word as first suggestion:  45.1612903226 %
+  Percentage of identified misspellings with correct word as first suggestion:  22.9508196721 %
+  Percentage of incorrect words with correct word as first suggestion:  1.75879396985 %
+  Percentage of words with candidates with correct word in suggestions:  67.7419354839 %
+  Percentage of identified misspellings with correct word in suggestions:  34.4262295082 %
+  Percentage of incorrect words with correct word in suggestions:  2.63819095477 %
+ 
+degrade.FR940104-0-00086.000
+original.FR940104-0-00086.000
+  Falsely marked as incorrect:  5
+  Actual incorrect words: 903
+  Words identified as wrong:  59
+  Percentage of incorrect words marked as correct  93.4662236988 %
+  Words with candidates:  35
+  Percentage of identified misspellings with candidates:  59 %
+  Percentage of incorrect words with candidats:  3.87596899225 %
+  Words with candidates(refined):  27
+  Percentage of identified misspellings with candidates:  45 %
+  Percentage of incorrect words with candidates:  2.99003322259 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  18
+  Percentage of words with candidates with correct word as first suggestion:  51.8518518519 %
+  Percentage of identified misspellings with correct word as first suggestion:  23.7288135593 %
+  Percentage of incorrect words with correct word as first suggestion:  1.5503875969 %
+  Percentage of words with candidates with correct word in suggestions:  66.6666666667 %
+  Percentage of identified misspellings with correct word in suggestions:  30.5084745763 %
+  Percentage of incorrect words with correct word in suggestions:  1.99335548173 %
+ 
+degrade.FR940104-0-00087.000
+original.FR940104-0-00087.000
+  Falsely marked as incorrect:  1
+  Actual incorrect words: 676
+  Words identified as wrong:  52
+  Percentage of incorrect words marked as correct  92.3076923077 %
+  Words with candidates:  25
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidats:  3.69822485207 %
+  Words with candidates(refined):  19
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  2.81065088757 %
+  Words with correct word as first suggestion:  11
+  Words with correct word in suggestions:  15
+  Percentage of words with candidates with correct word as first suggestion:  57.8947368421 %
+  Percentage of identified misspellings with correct word as first suggestion:  21.1538461538 %
+  Percentage of incorrect words with correct word as first suggestion:  1.62721893491 %
+  Percentage of words with candidates with correct word in suggestions:  78.9473684211 %
+  Percentage of identified misspellings with correct word in suggestions:  28.8461538462 %
+  Percentage of incorrect words with correct word in suggestions:  2.21893491124 %
+ 
+degrade.FR940104-0-00088.000
+original.FR940104-0-00088.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 690
+  Words identified as wrong:  47
+  Percentage of incorrect words marked as correct  93.1884057971 %
+  Words with candidates:  26
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidats:  3.76811594203 %
+  Words with candidates(refined):  23
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidates:  3.33333333333 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  12
+  Percentage of words with candidates with correct word as first suggestion:  34.7826086957 %
+  Percentage of identified misspellings with correct word as first suggestion:  17.0212765957 %
+  Percentage of incorrect words with correct word as first suggestion:  1.15942028986 %
+  Percentage of words with candidates with correct word in suggestions:  52.1739130435 %
+  Percentage of identified misspellings with correct word in suggestions:  25.5319148936 %
+  Percentage of incorrect words with correct word in suggestions:  1.73913043478 %
+ 
+degrade.FR940104-0-00089.000
+original.FR940104-0-00089.000
+  Falsely marked as incorrect:  10
+  Actual incorrect words: 801
+  Words identified as wrong:  58
+  Percentage of incorrect words marked as correct  92.759051186 %
+  Words with candidates:  53
+  Percentage of identified misspellings with candidates:  91 %
+  Percentage of incorrect words with candidats:  6.61672908864 %
+  Words with candidates(refined):  43
+  Percentage of identified misspellings with candidates:  74 %
+  Percentage of incorrect words with candidates:  5.36828963795 %
+  Words with correct word as first suggestion:  23
+  Words with correct word in suggestions:  32
+  Percentage of words with candidates with correct word as first suggestion:  53.488372093 %
+  Percentage of identified misspellings with correct word as first suggestion:  39.6551724138 %
+  Percentage of incorrect words with correct word as first suggestion:  2.87141073658 %
+  Percentage of words with candidates with correct word in suggestions:  74.4186046512 %
+  Percentage of identified misspellings with correct word in suggestions:  55.1724137931 %
+  Percentage of incorrect words with correct word in suggestions:  3.9950062422 %
+ 
+degrade.FR940104-0-00090.000
+original.FR940104-0-00090.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 672
+  Words identified as wrong:  73
+  Percentage of incorrect words marked as correct  89.1369047619 %
+  Words with candidates:  30
+  Percentage of identified misspellings with candidates:  41 %
+  Percentage of incorrect words with candidats:  4.46428571429 %
+  Words with candidates(refined):  27
+  Percentage of identified misspellings with candidates:  36 %
+  Percentage of incorrect words with candidates:  4.01785714286 %
+  Words with correct word as first suggestion:  10
+  Words with correct word in suggestions:  16
+  Percentage of words with candidates with correct word as first suggestion:  37.037037037 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.698630137 %
+  Percentage of incorrect words with correct word as first suggestion:  1.4880952381 %
+  Percentage of words with candidates with correct word in suggestions:  59.2592592593 %
+  Percentage of identified misspellings with correct word in suggestions:  21.9178082192 %
+  Percentage of incorrect words with correct word in suggestions:  2.38095238095 %
+ 
+degrade.FR940104-0-00091.000
+original.FR940104-0-00091.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 521
+  Words identified as wrong:  52
+  Percentage of incorrect words marked as correct  90.019193858 %
+  Words with candidates:  25
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidats:  4.79846449136 %
+  Words with candidates(refined):  25
+  Percentage of identified misspellings with candidates:  48 %
+  Percentage of incorrect words with candidates:  4.79846449136 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  19
+  Percentage of words with candidates with correct word as first suggestion:  56.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  26.9230769231 %
+  Percentage of incorrect words with correct word as first suggestion:  2.68714011516 %
+  Percentage of words with candidates with correct word in suggestions:  76.0 %
+  Percentage of identified misspellings with correct word in suggestions:  36.5384615385 %
+  Percentage of incorrect words with correct word in suggestions:  3.64683301344 %
+ 
+degrade.FR940104-0-00092.000
+original.FR940104-0-00092.000
+  Falsely marked as incorrect:  2
+  Actual incorrect words: 158
+  Words identified as wrong:  15
+  Percentage of incorrect words marked as correct  90.5063291139 %
+  Words with candidates:  5
+  Percentage of identified misspellings with candidates:  33 %
+  Percentage of incorrect words with candidats:  3.16455696203 %
+  Words with candidates(refined):  3
+  Percentage of identified misspellings with candidates:  20 %
+  Percentage of incorrect words with candidates:  1.89873417722 %
+  Words with correct word as first suggestion:  0
+  Words with correct word in suggestions:  1
+  Percentage of words with candidates with correct word as first suggestion:  0.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  0.0 %
+  Percentage of incorrect words with correct word as first suggestion:  0.0 %
+  Percentage of words with candidates with correct word in suggestions:  33.3333333333 %
+  Percentage of identified misspellings with correct word in suggestions:  6.66666666667 %
+  Percentage of incorrect words with correct word in suggestions:  0.632911392405 %
+ 
+degrade.FR940104-0-00093.000
+original.FR940104-0-00093.000
+  Falsely marked as incorrect:  23
+  Actual incorrect words: 739
+  Words identified as wrong:  126
+  Percentage of incorrect words marked as correct  82.949932341 %
+  Words with candidates:  54
+  Percentage of identified misspellings with candidates:  42 %
+  Percentage of incorrect words with candidats:  7.30717185386 %
+  Words with candidates(refined):  40
+  Percentage of identified misspellings with candidates:  31 %
+  Percentage of incorrect words with candidates:  5.41271989175 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  22
+  Percentage of words with candidates with correct word as first suggestion:  35.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  11.1111111111 %
+  Percentage of incorrect words with correct word as first suggestion:  1.89445196211 %
+  Percentage of words with candidates with correct word in suggestions:  55.0 %
+  Percentage of identified misspellings with correct word in suggestions:  17.4603174603 %
+  Percentage of incorrect words with correct word in suggestions:  2.97699594046 %
+ 
+degrade.FR940104-0-00094.000
+original.FR940104-0-00094.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 1055
+  Words identified as wrong:  102
+  Percentage of incorrect words marked as correct  90.3317535545 %
+  Words with candidates:  76
+  Percentage of identified misspellings with candidates:  74 %
+  Percentage of incorrect words with candidats:  7.20379146919 %
+  Words with candidates(refined):  63
+  Percentage of identified misspellings with candidates:  61 %
+  Percentage of incorrect words with candidates:  5.97156398104 %
+  Words with correct word as first suggestion:  14
+  Words with correct word in suggestions:  39
+  Percentage of words with candidates with correct word as first suggestion:  22.2222222222 %
+  Percentage of identified misspellings with correct word as first suggestion:  13.7254901961 %
+  Percentage of incorrect words with correct word as first suggestion:  1.32701421801 %
+  Percentage of words with candidates with correct word in suggestions:  61.9047619048 %
+  Percentage of identified misspellings with correct word in suggestions:  38.2352941176 %
+  Percentage of incorrect words with correct word in suggestions:  3.69668246445 %
+ 
+degrade.FR940104-0-00095.000
+original.FR940104-0-00095.000
+  Falsely marked as incorrect:  14
+  Actual incorrect words: 665
+  Words identified as wrong:  111
+  Percentage of incorrect words marked as correct  83.3082706767 %
+  Words with candidates:  35
+  Percentage of identified misspellings with candidates:  31 %
+  Percentage of incorrect words with candidats:  5.26315789474 %
+  Words with candidates(refined):  19
+  Percentage of identified misspellings with candidates:  17 %
+  Percentage of incorrect words with candidates:  2.85714285714 %
+  Words with correct word as first suggestion:  8
+  Words with correct word in suggestions:  11
+  Percentage of words with candidates with correct word as first suggestion:  42.1052631579 %
+  Percentage of identified misspellings with correct word as first suggestion:  7.20720720721 %
+  Percentage of incorrect words with correct word as first suggestion:  1.2030075188 %
+  Percentage of words with candidates with correct word in suggestions:  57.8947368421 %
+  Percentage of identified misspellings with correct word in suggestions:  9.90990990991 %
+  Percentage of incorrect words with correct word in suggestions:  1.65413533835 %
+ 
+degrade.FR940104-0-00096.000
+original.FR940104-0-00096.000
+  Falsely marked as incorrect:  1
+  Actual incorrect words: 413
+  Words identified as wrong:  45
+  Percentage of incorrect words marked as correct  89.1041162228 %
+  Words with candidates:  25
+  Percentage of identified misspellings with candidates:  55 %
+  Percentage of incorrect words with candidats:  6.05326876513 %
+  Words with candidates(refined):  16
+  Percentage of identified misspellings with candidates:  35 %
+  Percentage of incorrect words with candidates:  3.87409200969 %
+  Words with correct word as first suggestion:  4
+  Words with correct word in suggestions:  7
+  Percentage of words with candidates with correct word as first suggestion:  25.0 %
+  Percentage of identified misspellings with correct word as first suggestion:  8.88888888889 %
+  Percentage of incorrect words with correct word as first suggestion:  0.968523002421 %
+  Percentage of words with candidates with correct word in suggestions:  43.75 %
+  Percentage of identified misspellings with correct word in suggestions:  15.5555555556 %
+  Percentage of incorrect words with correct word in suggestions:  1.69491525424 %
+ 
+degrade.FR940104-0-00097.000
+original.FR940104-0-00097.000
+  Falsely marked as incorrect:  7
+  Actual incorrect words: 857
+  Words identified as wrong:  99
+  Percentage of incorrect words marked as correct  88.4480746791 %
+  Words with candidates:  64
+  Percentage of identified misspellings with candidates:  64 %
+  Percentage of incorrect words with candidats:  7.46791131855 %
+  Words with candidates(refined):  51
+  Percentage of identified misspellings with candidates:  51 %
+  Percentage of incorrect words with candidates:  5.95099183197 %
+  Words with correct word as first suggestion:  9
+  Words with correct word in suggestions:  20
+  Percentage of words with candidates with correct word as first suggestion:  17.6470588235 %
+  Percentage of identified misspellings with correct word as first suggestion:  9.09090909091 %
+  Percentage of incorrect words with correct word as first suggestion:  1.05017502917 %
+  Percentage of words with candidates with correct word in suggestions:  39.2156862745 %
+  Percentage of identified misspellings with correct word in suggestions:  20.202020202 %
+  Percentage of incorrect words with correct word in suggestions:  2.33372228705 %
+ 
+degrade.FR940104-0-00098.000
+original.FR940104-0-00098.000
+  Falsely marked as incorrect:  3
+  Actual incorrect words: 523
+  Words identified as wrong:  75
+  Percentage of incorrect words marked as correct  85.6596558317 %
+  Words with candidates:  28
+  Percentage of identified misspellings with candidates:  37 %
+  Percentage of incorrect words with candidats:  5.35372848948 %
+  Words with candidates(refined):  21
+  Percentage of identified misspellings with candidates:  28 %
+  Percentage of incorrect words with candidates:  4.01529636711 %
+  Words with correct word as first suggestion:  7
+  Words with correct word in suggestions:  15
+  Percentage of words with candidates with correct word as first suggestion:  33.3333333333 %
+  Percentage of identified misspellings with correct word as first suggestion:  9.33333333333 %
+  Percentage of incorrect words with correct word as first suggestion:  1.33843212237 %
+  Percentage of words with candidates with correct word in suggestions:  71.4285714286 %
+  Percentage of identified misspellings with correct word in suggestions:  20.0 %
+  Percentage of incorrect words with correct word in suggestions:  2.86806883365 %
+ 
+Files don't match degrade.FR940104-0-00099.000  vs degrade.FR940104-0-00099.000suggestions 
+
+Total words:  73685
+Total incorrect:  151973
+Total identified incorrect:  12652
+Total with raw candidates:  8286
+Total with refined candidates:  6128
+Total with word in suggestions:  3289
+Total with word as first suggestion:  1815
+ 
+Percent caught were false positives:  11.4211191906 %
+Percent incorrect identified as incorrect:  8.32516302238 %
+Percent incorrect with candidates (raw):  5.45228428734 %
+Percent caught with candidates (raw):  65.491621878 %
+Percent incorrect with candidates (refined):  5.45228428734 %
+Percent caught with candidates (refined):  48.4350300348 %
+Percent incorrect with word in suggestions:  2.16420021978 %
+Percent caught with word in suggestions:  25.9958899779 %
+Percent raw with word in suggestions:  39.6934588462 %
+Percent refined with word in suggestions:  53.6716710183 %
+Percent incorrect with word in as first suggestion:  1.19429109118 %
+Percent caught with word as first suggestion:  14.3455580145 %
+Percent raw with word as first suggestion:  21.9044170891 %
+Percent refined with word as first suggestion:  29.6181462141 %

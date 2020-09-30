@@ -1,0 +1,1 @@
+Separates the Files into sizeable chunks by splitting at the end of the nearest document under 1500 words.

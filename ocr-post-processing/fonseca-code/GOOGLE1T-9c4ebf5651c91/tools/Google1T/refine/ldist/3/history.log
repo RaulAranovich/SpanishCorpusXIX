@@ -1,0 +1,415 @@
+Program will open file with 3gms phrase and possible candidates and reduce
+the amount of them based on levenstein distance and frequency
+Total Lines to Process: 684079
+Starting new 3gms phrase: %%% Federal hegister Vol.
+Reduced from 16 candidates to 1 candidates.
+Candidates for 'hegister': ['Register']
+Starting new 3gms phrase: %%% Tuesday1 anuary 41
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994 hules and
+Reduced from 252 candidates to 6 candidates.
+Candidates for 'hules': ['Rules', 'he', 'rules', 'tolls', 'values', 'wages']
+Starting new 3gms phrase: %%% and hegulations Vol.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Tuesday1 anuary 41
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994 LEpAhTMENT OF
+Reduced from 49 candidates to 1 candidates.
+Candidates for 'LEpAhTMENT': ['DEPARTMENT']
+Starting new 3gms phrase: %%% OF AOhlCULTUhE Agricultural
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Service
+Reduced from 80 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% 1 CFh parts
+Reduced from 46 candidates to 17 candidates.
+Candidates for 'CFh': ['2', 'All', 'OEM', 'The', 'and', 'cnc', 'for', 'has', 'in', 'of', 'or', 'set', 'the', 'to', 'ton', 'with', 'yr']
+Starting new 3gms phrase: %%% 9OW SFV93-901-lFlh Navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Orown in
+Reduced from 4 candidates to 1 candidates.
+Candidates for 'Orown': ['grown']
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% and Lesignated parts
+Reduced from 2369 candidates to 2 candidates.
+Candidates for 'Lesignated': ['designated', 'designed']
+Starting new 3gms phrase: %%% in heporting hequirements
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% heporting hequirements AOENCy:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% hequirements AOENCy Agricultural
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Service1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Service1 USLA ACTlON:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% USLA. ACTlON Final
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule. SUMMAhy The
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The Lepartment of
+Reduced from 65236 candidates to 30 candidates.
+Candidates for 'Lepartment': ['Apartment', 'Apartments', 'DFepartment', 'Dapartment', 'Deaprtment', 'Deparment', 'Departament', 'Departement', 'Departent', 'Department', 'Departmental', 'Departments', 'Depatment', 'Deptartment', 'Deptment', 'Repayment', 'USDepartment', 'apartment', 'apartments', 'appartment', 'compartment', 'debarment', 'deparment', 'departement', 'department', 'departmental', 'departments', 'deportment', 'enactment', 'repayment']
+Starting new 3gms phrase: %%% Agriculture Lepartment is
+Reduced from 101 candidates to 2 candidates.
+Candidates for 'Lepartment': ['Department', 'department']
+Starting new 3gms phrase: %%% is adoptlng as
+Reduced from 13535 candidates to 4 candidates.
+Candidates for 'adoptlng': ['adapting', 'adopted', 'adopting', 'adoption']
+Starting new 3gms phrase: %%% a fflnal rule1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% interim fflnal rule
+Reduced from 13 candidates to 1 candidates.
+Candidates for 'fflnal': ['final']
+Starting new 3gms phrase: %%% the California-Arikona navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% orange maryeting orders.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The maryeting orders
+Reduced from 252 candidates to 2 candidates.
+Candidates for 'maryeting': ['marching', 'marketing']
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule modiffles language
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3 Lally Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be utiliked for
+Reduced from 15100 candidates to 23 candidates.
+Candidates for 'utiliked': ['Utilized', 'disliked', 'liked', 'milked', 'mutilated', 'outlined', 'reutilised', 'reutilized', 'stalked', 'stilled', 'ticked', 'tiled', 'tilled', 'tilted', 'unified', 'unitized', 'uplinked', 'utilised', 'utilities', 'utility', 'utilize', 'utilized', 'utilzed']
+Starting new 3gms phrase: %%% the maryeting orders.
+Reduced from 742 candidates to 3 candidates.
+Candidates for 'maryeting': ['marching', 'marketing', 'parenting']
+Starting new 3gms phrase: %%% orders. EFFECTlVE LATE:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 31 1994. FOh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994. FOh FUhTNEh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% FOh FUhTNEh lNFOhMATlON
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% FUhTNEh lNFOhMATlON CONTACT:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Thorpe1 Maryeting Specialist1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Specialist1 Maryeting Order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% branch1 FAV AMS1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% AMS1 USLA room
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 2322-S1 p.O box
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Washington1 LC 20090-0430:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% LC 20090-0430: telephone:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% telephone: (202) 120-3121;
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (202) 120-3121; or
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Maureen pello California
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% California Maryeting Field
+Reduced from 19 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% Field OMce Maryeting
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% OMce1 Maryeting Order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% branch1 FAV AMS1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% AMS1 USLA 2202
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% California1 93121; telephone:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% telephone: (209) 4Wl-3901.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (209) Wl SUppLEMENTAhy
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 4Wl-3901. SUppLEMENTAhy lNFOhMATlON:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% SUppLEMENTAhy lNFOhMATlON This
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% This fflnal rule
+Reduced from 267 candidates to 2 candidates.
+Candidates for 'fflnal': ['final', 'flat']
+Starting new 3gms phrase: %%% under Maryeting Order
+Reduced from 87 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% Order Nos 901
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 9OW (1 CFh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (1 CFh parts
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Agreement
+Reduced from 6 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% amended (1 U.S.C.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (1 U.S.C 001-014)1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% U.S.C. 001-014)1 hereinafter
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The Lepartment is
+Reduced from 65964 candidates to 18 candidates.
+Candidates for 'Lepartment': ['Apartment', 'Apartments', 'Department', 'aparment', 'apartament', 'apartement', 'apartment', 'apartments', 'appartament', 'appartement', 'appartment', 'aprtment', 'compartment', 'deparment', 'departement', 'department', 'enactment', 'repayment']
+Starting new 3gms phrase: %%% Civil ustice heform.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 'ustice heform This
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% irreconcilable confflict with
+Reduced from 10 candidates to 2 candidates.
+Candidates for 'confflict': ['conflict', 'conflicts']
+Starting new 3gms phrase: %%% may fflle suit
+Reduced from 93 candidates to 4 candidates.
+Candidates for 'fflle': ['face', 'file', 'follow', 'well']
+Starting new 3gms phrase: %%% section Wc(13)(A of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% handler subdect to
+Reduced from 183 candidates to 2 candidates.
+Candidates for 'subdect': ['object', 'subject']
+Starting new 3gms phrase: %%% may fflle with
+Reduced from 1885 candidates to 34 candidates.
+Candidates for 'fflle': ['ally', 'ball', 'bulge', 'call', 'cycle', 'dally', 'dull', 'face', 'fade', 'fail', 'fall', 'fare', 'feel', 'fiddle', 'file', 'fill', 'filled', 'fire', 'flare', 'flee', 'flow', 'fly', 'follow', 'fuel', 'fuse', 'kill', 'lie', 'roll', 'rule', 'scale', 'sell', 'smile', 'tally', 'well']
+Starting new 3gms phrase: %%% a modifflcation of
+Reduced from 49586 candidates to 10 candidates.
+Candidates for 'modifflcation': ['Codification', 'Modification', 'codification', 'modfication', 'modication', 'modifcation', 'modification', 'modifications', 'modi\xc3\x91cation', 'modi\xc3\xbfcation']
+Starting new 3gms phrase: %%% the opportunlty for
+Reduced from 53162 candidates to 15 candidates.
+Candidates for 'opportunlty': ['opertunity', 'oportunity', 'oppertunity', 'opportunies', 'opportunites', 'opportunity', 'opportuntity', 'opportunty', 'opporunity', 'oppotunity', 'oppourtunity', 'oppportunity', 'opprotunity', 'opprtunity', 'oppurtunity']
+Starting new 3gms phrase: %%% has durisdiction in
+Reduced from 20412 candidates to 2 candidates.
+Candidates for 'durisdiction': ['Jurisdiction', 'jurisdiction']
+Starting new 3gms phrase: %%% in equlty to
+Reduced from 5038 candidates to 3 candidates.
+Candidates for 'equlty': ['sultry', 'vault', 'vaults']
+Starting new 3gms phrase: %%% the. Secretary:s ruling
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% in equlty is
+Reduced from 2177 candidates to 2 candidates.
+Candidates for 'equlty': ['truly', 'vaults']
+Starting new 3gms phrase: %%% is fflled not
+Reduced from 5113 candidates to 44 candidates.
+Candidates for 'fflled': ['Scaled', 'belied', 'billed', 'called', 'faced', 'false', 'famed', 'fated', 'feared', 'fed', 'field', 'file', 'filed', 'filled', 'fined', 'fired', 'fitted', 'fixed', 'flawed', 'fluid', 'followed', 'folly', 'forced', 'forged', 'formed', 'framed', 'freed', 'fueled', 'fuelled', 'fulfilled', 'full', 'fully', 'funded', 'hailed', 'helped', 'killed', 'led', 'mailed', 'offered', 'ruled', 'skilled', 'solved', 'valued', 'welded']
+Starting new 3gms phrase: %%% the hegulatory Flexibility
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Act hFA the
+Reduced from 1464 candidates to 81 candidates.
+Candidates for 'hFA': ['1', '2', '3', '4', 'AND', 'All', 'And', 'As', 'At', 'By', 'Fix', 'For', 'How', 'I', 'II', 'III', 'IV', 'If', 'In', 'Is', 'Of', 'On', 'One', 'Out', 'See', 'To', 'Two', 'What', 'When', 'all', 'and', 'are', 'as', 'at', 'bar', 'be', 'but', 'by', 'can', 'cut', 'did', 'do', 'eg', 'for', 'got', 'had', 'has', 'have', 'held', 'ie', 'if', 'in', 'is', 'led', 'may', 'met', 'nor', 'not', 'of', 'off', 'on', 'or', 'out', 'per', 'put', 'saw', 'say', 'see', 'set', 'show', 'so', 'than', 'that', 'then', 'to', 'use', 'via', 'was', 'what', 'when', 'won']
+Starting new 3gms phrase: %%% Agricultural Maryeting Service
+Reduced from 80 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% the hFA is
+Reduced from 42734 candidates to 1707 candidates.
+Candidates for 'hFA': ['dod', 'doe', 'dof', 'dog', 'doj', 'dom', 'don', 'dos', 'dot', 'dow', 'dp', 'dpi', 'dps', 'dr', 'drm', 'dry', 'ds', 'ds0', 'ds6', 'dsl', 'dsn', 'dsp', 'dst', 'dsv', 'dt', 'dtd', 'dti', 'dts', 'dub', 'dud', 'due', 'dun', 'duo', 'dup', 'dv', 'dvd', 'dvi', 'dvr', 'dvx', 'dw', 'dx', 'dxf', 'dye', 'e', 'e3', 'e46', 'e7', 'e90', 'eGO', 'eID', 'eMA', 'eMAT', 'eVo', 'ea', 'ear', 'eat', 'ebb', 'ebs', 'ec', 'ecm', 'eco', 'ecu', 'ed', 'edd', 'eds', 'edt', 'ee', 'eel', 'ef', 'efc', 'eff', 'eg', 'egg', 'ego', 'egr', 'ei', 'eip', 'ejb', 'el', 'eld', 'elf', 'elk', 'ell', 'elm', 'em', 'emf', 'emo', 'emp', 'emu', 'en', 'end', 'eng', 'ent', 'env', 'eof', 'ep', 'epa', 'epg', 'epi', 'eps', 'eq', 'er', 'era', 'erf', 'erg', 'err', 'esc', 'esn', 'esp', 'et', 'eta', 'etc', 'eu', 'eve', 'evo', 'ewe', 'ex', 'exe', 'exo', 'exp', 'ext', 'eye', 'f', 'f1', 'f2', 'f22', 'f2f', 'f4', 'fBm', 'fa', 'faa', 'fab', 'fad', 'fae', 'fag', 'fam', 'fan', 'faq', 'far', 'fat', 'fav', 'fax', 'fb', 'fbi', 'fcc', 'fce', 'fck', 'fd', 'fda', 'fe', 'feb', 'fed', 'fee', 'fek', 'fem', 'fen', 'fet', 'few', 'fey', 'fez', 'ff', 'ffi', 'ffl', 'fft', 'fg', 'fi', 'fib', 'fic', 'fid', 'fig', 'fil', 'fim', 'fin', 'fir', 'fit', 'fix', 'fk', 'fl', 'fla', 'flu', 'flv', 'fly', 'fm', 'fn', 'fo', 'fob', 'foe', 'fog', 'fon', 'foo', 'fop', 'for', 'fov', 'fox', 'fp', 'fps', 'fpu', 'fro', 'fry', 'fs', 'fsb', 'fsm', 'ft', 'ftc', 'fti', 'ftp', 'fuc', 'fug', 'fuk', 'fun', 'fuq', 'fur', 'fuz', 'fw', 'fx', 'fx1', 'g', 'g2', 'g3', 'g35', 'g4', 'g5', 'g6', 'g8', 'gRNA', 'ga', 'gab', 'gag', 'gal', 'gam', 'gap', 'gar', 'gas', 'gat', 'gay', 'gb', 'gba', 'gc', 'gcc', 'gcd', 'gcn', 'gd', 'gdb', 'gel', 'gem', 'gen', 'geo', 'ger', 'get', 'gf', 'gfx', 'gg', 'gh', 'ghat', 'ghee', 'gi', 'gib', 'gid', 'gif', 'gig', 'gin', 'git', 'giv', 'giz', 'gl', 'gl2', 'glb', 'gm', 'gme', 'gnu', 'go', 'gob', 'god', 'goo', 'gop', 'got', 'gov', 'goy', 'gp', 'gpa', 'gpl', 'gps', 'gpu', 'gs', 'gsv', 'gt', 'gti', 'gto', 'gtr', 'gtx', 'gu', 'gui', 'gum', 'gun', 'gut', 'guv', 'guy', 'gvt', 'gw', 'gym', 'gyn', 'h', 'h1', 'h10', 'h2', 'h3', 'h320', 'h3ll', 'hCG', 'hWnd', 'ha', 'hab', 'hack', 'had', 'hadd', 'haem', 'haft', 'hag', 'hail', 'hair', 'haj', 'hajj', 'haka', 'hake', 'hal', 'hale', 'half', 'hall', 'halo', 'halt', 'ham', 'han', 'hand', 'hang', 'hank', 'haps', 'hara', 'hard', 'hare', 'harm', 'harp', 'hart', 'has', 'hash', 'hasp', 'hat', 'hate', 'hats', 'haul', 'haus', 'have', 'hawk', 'hay', 'haze', 'hb', 'hbox', 'hbp', 'hcg', 'hd', 'hdc', 'hdd', 'hdx', 'he', 'he11', 'heII', 'head', 'heak', 'heal', 'heap', 'hear', 'heat', 'hec', 'heck', 'heel', 'heft', 'heh', 'heir', 'hek', 'hel', 'heli', 'helk', 'hell', 'helm', 'helo', 'help', 'hem', 'heme', 'hemi', 'hemp', 'hen', 'hens', 'her', 'herb', 'herd', 'here', 'hero', 'herp', 'hetu', 'hex', 'hey', 'hgh', 'hh', 'hi', 'hick', 'hide', 'hifi', 'high', 'hike', 'hill', 'hilt', 'him', 'hind', 'hing', 'hint', 'hip', 'hipe', 'hips', 'hire', 'his', 'hiss', 'hit', 'hits', 'hive', 'hll', 'ho', 'hoax', 'hob', 'hobo', 'hock', 'hoe', 'hoel', 'hoes', 'hoff', 'hog', 'hogs', 'hold', 'hole', 'hols', 'holy', 'homa', 'home', 'homo', 'hone', 'hood', 'hoof', 'hook', 'hoop', 'hop', 'hope', 'hops', 'horn', 'hose', 'hosp', 'hoss', 'host', 'hot', 'hour', 'hous', 'how', 'howl', 'hp', 'hpt', 'hr', 'hrc', 'href', 'hse', 'hsf', 'ht', 'htl', 'html', 'http', 'hub', 'hubs', 'hud', 'hue', 'hues', 'huff', 'hug', 'huge', 'hui', 'hukm', 'hula', 'hulk', 'hull', 'hum', 'hump', 'hun', 'hunk', 'hunt', 'hurd', 'hurt', 'hush', 'husk', 'hut', 'huts', 'hv', 'hw', 'hwy', 'hymn', 'hype', 'hypo', 'hyst', 'i', 'i3', 'i4', 'i5', 'i6', 'i70', 'i80', 'iBT', 'iDJ', 'iFM', 'iFi', 'iGo', 'iH5', 'iHP', 'iM3', 'iM5', 'iM7', 'iMAP', 'iMP', 'iPAL', 'iPAQ', 'iQ', 'iZ', 'ic', 'icc', 'ice', 'ich', 'ick', 'icy', 'id', 'ide', 'idf', 'idl', 'idr', 'ids', 'idx', 'ie', 'if', 'ifs', 'ig', 'ii', 'iif', 'ilk', 'ill', 'im', 'imc', 'imf', 'img', 'imo', 'imp', 'imr', 'in', 'inc', 'inf', 'ing', 'ini', 'ink', 'inn', 'ins', 'int', 'io', 'ioc', 'ion', 'ip', 'ips', 'ir', 'ira', 'irc', 'ire', 'irp', 'irq', 'irs', 'is', 'isa', 'isc', 'ish', 'iso', 'isp', 'isr', 'iss', 'it', 'ite', 'ith', 'its', 'iv', 'ivy', 'iwi', 'j', 'j10', 'jab', 'jad', 'jag', 'jam', 'jan', 'jar', 'jaw', 'jay', 'jdk', 'jdl', 'jen', 'jet', 'jew', 'jh', 'ji', 'jib', 'jid', 'jig', 'jim', 'jmp', 'jo', 'job', 'joe', 'jog', 'joy', 'jpg', 'jre', 'js', 'jsp', 'jug', 'jvc', 'jvm', 'k', 'kV', 'kVp', 'kWh', 'ka', 'kat', 'kb', 'kbd', 'kdc', 'kde', 'keg', 'ket', 'key', 'kg', 'khan', 'ki', 'kid', 'kin', 'kip', 'kit', 'kkk', 'ko', 'koi', 'ksh', 'ku', 'kvm', 'l', 'la', 'lab', 'lac', 'lad', 'lag', 'lam', 'lan', 'lap', 'las', 'lat', 'lav', 'law', 'lay', 'lb', 'lc', 'lcd', 'lcm', 'lcs', 'ld', 'le', 'led', 'lee', 'leg', 'lei', 'lek', 'len', 'leo', 'les', 'let', 'leu', 'lev', 'lex', 'ley', 'lf', 'lg', 'lhs', 'li', 'lib', 'lid', 'lie', 'lip', 'lis', 'lit', 'll', 'llc', 'lm', 'lnb', 'lo', 'loa', 'lob', 'loc', 'log', 'loo', 'los', 'lot', 'low', 'lox', 'lp', 'ls', 'lsb', 'lsp', 'lst', 'lt', 'lub', 'lug', 'lun', 'luv', 'lux', 'lv', 'lvl', 'lwp', 'lye', 'm', 'm1', 'm16', 'm2', 'm25', 'm3', 'm31', 'm4', 'm5', 'mAb', 'mAh', 'mAs', 'mPFC', 'mRNA', 'ma', 'mac', 'mad', 'mag', 'man', 'map', 'mas', 'mat', 'maw', 'max', 'may', 'mb', 'mbf', 'mbr', 'mc', 'mcg', 'mcu', 'md', 'md5', 'mda', 'mdb', 'me', 'med', 'mem', 'men', 'met', 'mf', 'mfg', 'mfp', 'mfr', 'mg', 'mgf', 'mgr', 'mgu', 'mib', 'mic', 'mid', 'mil', 'min', 'mip', 'mir', 'mit', 'mix', 'mkt', 'ml', 'mlb', 'mle', 'mls', 'mm', 'mmc', 'mmm', 'mms', 'mmu', 'mo', 'moa', 'mob', 'moc', 'mod', 'mom', 'mon', 'moo', 'mop', 'mot', 'mov', 'mp', 'mp3', 'mp4', 'mp5', 'mpc', 'mpg', 'mph', 'mpm', 'mr2', 'mrs', 'mrt', 'ms', 'msb', 'msc', 'msd', 'mse', 'msg', 'msi', 'msm', 'msn', 'mss', 'mt', 'mta', 'mtg', 'mtn', 'mtu', 'mu', 'mud', 'mug', 'mum', 'mun', 'mux', 'mv', 'mvp', 'mx', 'mx6', 'my', 'n', 'n1', 'n3', 'n3i', 'n52', 'n64', 'n70', 'n80', 'n90', 'n91', 'nCoA', 'nFA', 'nHL', 'nPC', 'nWo', 'nag', 'nao', 'nap', 'nas', 'nat', 'nav', 'nay', 'nba', 'nc', 'nca', 'ndp', 'ndx', 'ne', 'nec', 'ned', 'neg', 'nes', 'net', 'new', 'ney', 'nfc', 'nfl', 'nfs', 'ng', 'nhl', 'nhs', 'nib', 'nic', 'nih', 'nil', 'nip', 'nit', 'nlt', 'nm', 'nme', 'nn', 'no', 'nob', 'nod', 'nom', 'non', 'nop', 'nor', 'not', 'now', 'np', 'npc', 'nra', 'ns', 'nsa', 'nsf', 'nsx', 'nt', 'nth', 'nub', 'nuc', 'num', 'nun', 'nut', 'nwo', 'nym', 'nyt', 'o', 'o2', 'oAR', 'oFA', 'oPt', 'oak', 'oar', 'oat', 'ob', 'obi', 'obj', 'oc', 'ocx', 'od', 'odd', 'ode', 'oe', 'of', 'off', 'og', 'oh', 'oher', 'ohm', 'oid', 'oif', 'oil', 'ok', 'old', 'om', 'on', 'one', 'oni', 'oor', 'op', 'opp', 'ops', 'oqo', 'or', 'orb', 'orc', 'ore', 'org', 'ori', 'ort', 'ory', 'os', 'osc', 'osd', 'oss', 'ost', 'ot', 'oud', 'our', 'out', 'ova', 'ow', 'owl', 'own', 'ox', 'p', 'p1', 'p2', 'p2p', 'p3', 'p4', 'p42', 'p46', 'p53', 'p90', 'pH', 'pI', 'pK', 'pKa', 'pO2', 'pOH', 'pTLA', 'pa', 'pad', 'pag', 'pak', 'pal', 'pan', 'pap', 'par', 'pas', 'pat', 'paw', 'pax', 'pay', 'pb', 'pba', 'pbm', 'pc', 'pcb', 'pci', 'pcm', 'pcs', 'pd', 'pdQ', 'pda', 'pdb', 'pdc', 'pde', 'pdf', 'pdu', 'pe', 'pea', 'pec', 'ped', 'pee', 'peg', 'pen', 'per', 'pes', 'pet', 'pew', 'pf', 'pfd', 'pfn', 'pg', 'pgd', 'pgm', 'pgp', 'ph', 'phd', 'phen', 'phi', 'phil', 'pho', 'phot', 'php', 'phuc', 'phy', 'pi', 'pia', 'pic', 'pid', 'pie', 'pig', 'pin', 'pip', 'pit', 'pix', 'pj', 'pk', 'pkg', 'pkt', 'pl', 'plc', 'ply', 'pm', 'pmd', 'pmf', 'pms', 'pmt', 'pn', 'png', 'po', 'pod', 'poi', 'pol', 'pom', 'poo', 'pop', 'pos', 'pot', 'pov', 'pow', 'pox', 'pp', 'ppc', 'ppi', 'ppl', 'ppm', 'ppn', 'ppp', 'ppr', 'pps', 'ppt', 'pq', 'pr', 'prb', 'prc', 'pre', 'prf', 'pro', 'ps', 'ps2', 'ps3', 'psd', 'psf', 'psi', 'psp', 'psr', 'pst', 'psu', 'psx', 'pt', 'pte', 'ptf', 'pto', 'ptr', 'pts', 'pty', 'pub', 'pug', 'pun', 'pup', 'pus', 'put', 'pv', 'pvc', 'pvp', 'pw', 'pwd', 'px', 'pyx', 'q', 'qb', 'qc', 'qi', 'qin', 'qn', 'qoS', 'qsm', 'qso', 'qt', 'qty', 'que', 'quo', 'r', 'r1', 'r2', 'r32', 'rDNA', 'rRNA', 'ra', 'rad', 'rag', 'ram', 'rap', 'raq', 'rar', 'rat', 'rav', 'raw', 'ray', 'rc', 'rd', 'rdf', 'rds', 're', 'rec', 'red', 'ref', 'reg', 'rem', 'rep', 'req', 'res', 'ret', 'rev', 'rex', 'rez', 'rf', 'rfc', 'rhea', 'rho', 'rhs', 'ri', 'rib', 'rid', 'rig', 'rim', 'rio', 'rip', 'rl', 'rm', 'rms', 'rnc', 'rng', 'ro', 'rob', 'roc', 'rod', 'roe', 'roi', 'rol', 'rom', 'roo', 'rot', 'row', 'rp', 'rpc', 'rpg', 'rpm', 'rq', 'rr', 'rrd', 'rrp', 'rs', 'rs4', 'rsb', 'rsh', 'rss', 'rst', 'rsx', 'rt', 'rtc', 'rtl', 'rtt', 'rtx', 'rub', 'rue', 'rug', 'ruh', 'rum', 'run', 'rut', 'rv', 'rw', 'rx', 'rx8', 'rxn', 'rya', 'rye', 'ryu', 'ryz', 's', 's1', 's2', 's2k', 's4', 's50', 'sB', 'sa', 'sac', 'sad', 'sag', 'sai', 'sam', 'san', 'sap', 'sat', 'saw', 'sax', 'say', 'saz', 'sb', 'sba', 'sc', 'scFv', 'sch', 'scp', 'sd', 'sdk', 'se', 'sea', 'sec', 'sed', 'see', 'seg', 'sem', 'sep', 'seq', 'set', 'sex', 'sf', 'sfj', 'sg', 'sh', 'shRNA', 'shad', 'shag', 'shah', 'sham', 'she', 'shed', 'shen', 'shim', 'shin', 'ship', 'shit', 'sho', 'shoe', 'shop', 'shot', 'show', 'shuk', 'shul', 'shun', 'shy', 'shyt', 'si', 'siNA', 'sib', 'sid', 'sig', 'sil', 'sim', 'sin', 'sip', 'sir', 'sis', 'sit', 'six', 'ska', 'skb', 'ski', 'sku', 'sky', 'sl', 'sly', 'sm', 'smg', 'smp', 'sms', 'sn', 'so', 'sob', 'soc', 'sod', 'soi', 'sol', 'som', 'son', 'sop', 'sow', 'sox', 'soy', 'sp', 'spa', 'spi', 'spl', 'spy', 'sql', 'src', 'ss', 'ssh', 'ssl', 'ssn', 'ssv', 'st', 'stb', 'std', 'sti', 'stl', 'stn', 'str', 'sty', 'su', 'sub', 'sum', 'sun', 'sup', 'suq', 'suv', 'sv', 'svg', 'svn', 'sw', 'swf', 'swp', 'swr', 'syn', 'sys', 't', 't1', 't2B', 't3', 't5', 't6', 'tC', 'tRNA', 'ta', 'tab', 'tag', 'taj', 'tal', 'tam', 'tan', 'tao', 'tap', 'tar', 'tat', 'tau', 'tax', 'taz', 'tb', 'tc', 'tcp', 'td', 'tdf', 'tea', 'tec', 'tee', 'tel', 'tem', 'ten', 'tex', 'tgt', 'tgz', 'th', 'thai', 'than', 'that', 'thaw', 'thc', 'the', 'them', 'then', 'they', 'thin', 'this', 'thou', 'thud', 'thug', 'ti', 'tic', 'tid', 'tie', 'tin', 'tip', 'tit', 'tix', 'tlb', 'tld', 'tm', 'tmp', 'to', 'toc', 'toe', 'tom', 'ton', 'too', 'top', 'tor', 'tot', 'tow', 'toy', 'tp', 'tps', 'tr', 'trc', 'trd', 'tri', 'try', 'ts', 'tsc', 'tsx', 'tt', 'ttl', 'tty', 'tub', 'tug', 'tui', 'tun', 'tut', 'tux', 'tv', 'two', 'tx', 'txn', 'txt', 'u', 'uC', 'uP', 'uS', 'uac', 'ubc', 'uc', 'ud', 'ufc', 'ufo', 'ui', 'uid', 'uk', 'uke', 'ukm', 'ul', 'umd', 'uml', 'ump', 'un', 'uni', 'up', 'upc', 'ups', 'urb', 'uri', 'url', 'urn', 'us', 'usa', 'usb', 'use', 'ute', 'uv', 'ux', 'uzi', 'v', 'v1', 'v2', 'v3', 'v3c', 'v3i', 'v3x', 'v5', 'v6', 'v60', 'v8', 'vP', 'vRS', 'va', 'vac', 'vag', 'val', 'van', 'var', 'vas', 'vat', 'vav', 'vax', 'vb', 'vc', 'vcd', 'vci', 'vco', 'vcr', 'vd', 'vee', 'veg', 'vet', 'vev', 'vfd', 'vfs', 'vg', 'vga', 'vhs', 'vi', 'via', 'vic', 'vid', 'vif', 'vig', 'vin', 'vip', 'vis', 'viv', 'viz', 'vl', 'vlc', 'vm', 'vma', 'vms', 'vob', 'vol', 'vow', 'vox', 'vp', 'vpc', 'vpi', 'vpn', 'vps', 'vrt', 'vs', 'vt', 'vw', 'w', 'w3', 'w3c', 'wad', 'wag', 'wah', 'wai', 'wan', 'wap', 'war', 'was', 'wat', 'wav', 'waw', 'wax', 'way', 'wb', 'wc', 'we', 'web', 'wee', 'wep', 'wet', 'wey', 'wff', 'wg', 'wh', 'wha', 'what', 'when', 'whey', 'whig', 'whim', 'whip', 'who', 'why', 'wig', 'win', 'wit', 'wiz', 'wm', 'wmd', 'woe', 'wok', 'won', 'wow', 'wp', 'wps', 'wpt', 'wrt', 'wrx', 'ws', 'wt', 'wtc', 'wtf', 'wto', 'wu', 'ww', 'wwe', 'wwf', 'www', 'wx', 'wye', 'x', 'x1', 'x2', 'x3', 'x5', 'x50', 'x64', 'x86', 'xA', 'xB', 'xC3', 'xa', 'xb', 'xda', 'xi', 'xid', 'xjr', 'xl2', 'xml', 'xor', 'xp', 'xpi', 'xs', 'xsd', 'xsl', 'xt', 'xx', 'xxx', 'y', 'y2k', 'yak', 'yam', 'yaw', 'yay', 'yen', 'yes', 'yet', 'yew', 'yi', 'yin', 'yod', 'you', 'yr', 'yud', 'z', 'z06', 'z1', 'z22', 'z50', 'z9', 'zap', 'zen', 'zip', 'zit', 'zoo', '\xc2\xb5', '\xc3\x90t', '\xc3\x9f', '\xc3\xa9', '\xc3\xb1', '\xc3\xb8', '\xc3\xbc']
+Starting new 3gms phrase: %%% to fflt regulatory
+Reduced from 620 candidates to 31 candidates.
+Candidates for 'fflt': ['affect', 'all', 'best', 'cut', 'effect', 'face', 'file', 'fill', 'find', 'fit', 'fix', 'food', 'form', 'full', 'fund', 'get', 'help', 'hold', 'lift', 'meet', 'most', 'offer', 'offset', 'past', 'post', 'put', 'self', 'set', 'test', 'that', 'what']
+Starting new 3gms phrase: %%% business subdect to
+Reduced from 3693 candidates to 4 candidates.
+Candidates for 'subdect': ['object', 'student', 'subject', 'subjects']
+Starting new 3gms phrase: %%% burdened. Maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% are subdect to
+Reduced from 24309 candidates to 29 candidates.
+Candidates for 'subdect': ['Subject', 'object', 'subJect', 'subbed', 'subdue', 'subdued', 'subect', 'subejct', 'subiect', 'subjcet', 'subjct', 'subjec', 'subject', 'subjected', 'subjects', 'subjest', 'subjet', 'subjext', 'subjuct', 'subjuect', 'sublect', 'sublet', 'submit', 'sucient', 'suggest', 'suject', 'sunject', 'suspect', 'suspects']
+Starting new 3gms phrase: %%% respective maryeting order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 33 by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% service fflrms which
+Reduced from 568 candidates to 7 candidates.
+Candidates for 'fflrms': ['files', 'firm', 'firms', 'form', 'offers', 'reforms', 'terms']
+Starting new 3gms phrase: %%% and by-product manufacturers1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% been defflned by
+Reduced from 5527 candidates to 36 candidates.
+Candidates for 'defflned': ['baffled', 'deadened', 'deafened', 'declined', 'deepened', 'defaced', 'defamed', 'defanged', 'defaulted', 'defeated', 'defected', 'defended', 'deferred', 'defied', 'defiled', 'defined', 'deflated', 'deformed', 'defrayed', 'defunded', 'defused', 'deified', 'demeaned', 'dened', 'designed', 'destined', 'detained', 'devalued', 'develped', 'devolved', 'diffused', 'effaced', 'muffled', 'refilled', 'refined', 'ruffled']
+Starting new 3gms phrase: %%% Administration (13 CFh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (13 CFh 121.001)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% CFh 121.001) as
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% are defflned as
+Reduced from 11144 candidates to 32 candidates.
+Candidates for 'defflned': ['Defined', 'baffled', 'declined', 'deepened', 'defamed', 'defaulted', 'defeated', 'defended', 'deferred', 'defied', 'define', 'defined', 'defines', 'defmed', 'deformed', 'demeaned', 'dened', 'designed', 'destined', 'detained', 'devalued', 'devolved', 'de\xc3\x90ned', 'de\xc3\x91ned', 'de\xc3\xbfned', 'diffed', 'diffused', 'muffled', 'reffered', 'refilled', 'refined', 'ruffled']
+Starting new 3gms phrase: %%% The madority of
+Reduced from 65236 candidates to 35 candidates.
+Candidates for 'madority': ['Favorite', 'Majority', 'Maturity', 'Minority', 'Parity', 'Priority', 'Rarity', 'arity', 'favorite', 'magority', 'majoirty', 'majoritiy', 'majority', 'majoriy', 'majortiy', 'majorty', 'marjority', 'maternity', 'maturity', 'mayoralty', 'mayority', 'mediocrity', 'minority', 'modality', 'modernity', 'mojority', 'molarity', 'moronity', 'parity', 'priority', 'radiosity', 'rarity', 'sonority', 'sorority', 'varity']
+Starting new 3gms phrase: %%% of California-Arikona navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be classiffled as
+Reduced from 10980 candidates to 8 candidates.
+Candidates for 'classiffled': ['Classified', 'clasified', 'classfied', 'classied', 'classifed', 'classified', 'classifies', 'classi\xc3\x91ed']
+Starting new 3gms phrase: %%% action fflnalikes changes
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the California-Arikona orange
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% orange maryeting orders.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule modiffles language
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3 Laily Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be utiliked for
+Reduced from 15100 candidates to 23 candidates.
+Candidates for 'utiliked': ['Utilized', 'disliked', 'liked', 'milked', 'mutilated', 'outlined', 'reutilised', 'reutilized', 'stalked', 'stilled', 'ticked', 'tiled', 'tilled', 'tilted', 'unified', 'unitized', 'uplinked', 'utilised', 'utilities', 'utility', 'utilize', 'utilized', 'utilzed']
+Starting new 3gms phrase: %%% interim fflnal rule
+Reduced from 13 candidates to 1 candidates.
+Candidates for 'fflnal': ['final']
+Starting new 3gms phrase: %%% Federal hegister (3W
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (3W Fh 331121
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 141 1993)1 with
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 141 1993. That
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% amended yy 901.1411
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% yy901.1311 901.1411 90W.1311
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% a O-day comment
+Reduced from 1842 candidates to 5 candidates.
+Candidates for 'O-day': ['day', 'dry', 'gay', 'lady', 'stray']
+Starting new 3gms phrase: %%% 131 1993. No
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.01 and
+Reduced from 1044 candidates to 27 candidates.
+Candidates for '901.01': ['001', '0101', '1001', '101', '1101', '11501', '1201', '1401', '1501', '1601', '1701', '19011', '20111', '2101', '3001', '3011', '3101', '4001', '5010', '6001', '6011', '70901', '80110', '9005', '901', '910', '9201']
+Starting new 3gms phrase: %%% orange maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% including duice Sections
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.131 and
+Reduced from 1044 candidates to 1 candidates.
+Candidates for '901.131': ['20111']
+Starting new 3gms phrase: %%% such by-product oranges.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% oranges. lncluded in
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% and by-product manufacturers
+Reduced from 679 candidates to 1 candidates.
+Candidates for 'by-product': ['product']
+Starting new 3gms phrase: %%% for by-product oranges
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% approved by-products manufacturer
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% into by-products exempt
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Orange by-product Manufacturers).
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product manufacturers.
+Reduced from 338 candidates to 1 candidates.
+Candidates for 'by-product': ['product']
+Starting new 3gms phrase: %%% (Orange Liversion heport)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Liversion heport which
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% approved by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the maryeting orders.
+Reduced from 742 candidates to 3 candidates.
+Candidates for 'maryeting': ['marching', 'marketing', 'parenting']
+Starting new 3gms phrase: %%% the by-products exemption
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% fruit maryet lt
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-products manufactured
+Reduced from 212 candidates to 1 candidates.
+Candidates for 'by-products': ['products']
+Starting new 3gms phrase: %%% into by-products Nowever1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% by-products. Nowever the
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% on by-product manufacturers
+Reduced from 114 candidates to 1 candidates.
+Candidates for 'by-product': ['product']
+Starting new 3gms phrase: %%% The Lepartment has
+Reduced from 24648 candidates to 10 candidates.
+Candidates for 'Lepartment': ['Apartment', 'Department', 'aparment', 'apartament', 'apartment', 'apartments', 'appartment', 'compartment', 'department', 'repayment']
+Starting new 3gms phrase: %%% minor modifflcations to
+Reduced from 959 candidates to 3 candidates.
+Candidates for 'modifflcations': ['modications', 'modification', 'modifications']
+Starting new 3gms phrase: %%% 3 Lally Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.11 and
+Reduced from 1044 candidates to 10 candidates.
+Candidates for '901.11': ['0101', '111', '1111', '1711', '19011', '20111', '3011', '6011', '80110', '901']
+Starting new 3gms phrase: %%% orange maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% by sike within
+Reduced from 1359 candidates to 62 candidates.
+Candidates for 'sike': ['Age', 'City', 'Date', 'Name', 'Race', 'Type', 'age', 'air', 'awk', 'case', 'city', 'code', 'crime', 'date', 'fire', 'fires', 'five', 'gift', 'him', 'it', 'item', 'life', 'line', 'links', 'love', 'made', 'me', 'mode', 'name', 'noise', 'oil', 'one', 'page', 'price', 'race', 'role', 'rule', 'sale', 'sales', 'score', 'sea', 'sex', 'ship', 'ships', 'side', 'site', 'sites', 'size', 'some', 'state', 'step', 'strife', 'suit', 'the', 'time', 'title', 'type', 'use', 'using', 'vote', 'wire', 'zone']
+Starting new 3gms phrase: %%% shipment. Nandlers must
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the U.S and
+Reduced from 59150 candidates to 2071 candidates.
+Candidates for 'U.S': ['doe', 'dof', 'dog', 'dom', 'don', 'doo', 'dop', 'dor', 'dos', 'dot', 'dow', 'dox', 'dp', 'dpi', 'dpp', 'dps', 'dr', 'dri', 'drm', 'drs', 'dry', 'ds', 'ds6', 'dsc', 'dsl', 'dsm', 'dsn', 'dsp', 'dss', 'dst', 'dt', 'dtd', 'dti', 'dts', 'du', 'dua', 'dub', 'dud', 'due', 'dug', 'dun', 'duo', 'dup', 'dv', 'dvd', 'dvi', 'dvr', 'dvx', 'dw', 'dx', 'dxf', 'dye', 'dyk', 'e', 'e1', 'e2', 'e4', 'e46', 'e5', 'e6', 'e7', 'e90', 'eGU', 'eID', 'eL', 'eMo', 'eNOS', 'eVA', 'eVB', 'ea', 'eae', 'ear', 'eat', 'eax', 'eb', 'ebMS', 'ebb', 'ebp', 'ebs', 'ec', 'ecb', 'ecg', 'ecm', 'eco', 'ecu', 'ecx', 'ed', 'eds', 'edu', 'ee', 'eeg', 'eel', 'eff', 'eg', 'egg', 'ego', 'egr', 'ei', 'eid', 'eip', 'ejb', 'el', 'elc', 'eld', 'elf', 'elk', 'ell', 'elm', 'em', 'emf', 'emo', 'emp', 'ems', 'emu', 'en', 'end', 'eng', 'ent', 'env', 'eof', 'eon', 'ep', 'epa', 'epg', 'epi', 'epr', 'eps', 'eq', 'eqn', 'er', 'era', 'erf', 'erg', 'erp', 'err', 'ers', 'es', 'esc', 'esf', 'esp', 'est', 'et', 'eta', 'etb', 'etc', 'eth', 'ets', 'eu', 'eve', 'evo', 'ewe', 'ex', 'exe', 'exo', 'exp', 'ext', 'eye', 'eys', 'f', 'f0', 'f1', 'f2', 'f2f', 'f3', 'f4', 'f5', 'f77', 'f8', 'f90', 'fBm', 'fSU', 'fa', 'faa', 'fab', 'fad', 'fae', 'fag', 'fam', 'fan', 'faq', 'far', 'fas', 'fat', 'fav', 'fax', 'fay', 'fb', 'fbi', 'fc', 'fcc', 'fd', 'fda', 'fds', 'fe', 'fed', 'fee', 'fem', 'fen', 'fep', 'fet', 'few', 'fey', 'fez', 'ff', 'ffi', 'ffl', 'ffs', 'fft', 'fg', 'fha', 'fi', 'fib', 'fic', 'fid', 'fig', 'fim', 'fin', 'fir', 'fis', 'fit', 'fix', 'fl', 'fla', 'flo', 'flu', 'flv', 'fly', 'fm', 'fn', 'fnr', 'fo', 'fob', 'foe', 'fog', 'fon', 'foo', 'fop', 'for', 'fos', 'fov', 'fox', 'fp', 'fps', 'fpu', 'fr', 'fra', 'fri', 'frm', 'fro', 'fry', 'fs', 'fsb', 'fst', 'ft', 'ftc', 'fth', 'ftp', 'ftz', 'fu', 'fud', 'fue', 'fug', 'ful', 'fun', 'fur', 'fuz', 'fw', 'fwd', 'fwy', 'fx', 'fx9', 'fyn', 'fyr', 'g', 'g1', 'g2', 'g3', 'g4', 'g5', 'g7', 'g77', 'g8', 'gB', 'gE', 'gH', 'gI', 'ga', 'gab', 'gac', 'gad', 'gag', 'gal', 'gam', 'gap', 'gar', 'gas', 'gat', 'gay', 'gaz', 'gb', 'gba', 'gc', 'gcc', 'gcd', 'gcj', 'gcn', 'gd', 'gdb', 'gdm', 'ge', 'gee', 'gel', 'gem', 'gen', 'geo', 'ger', 'get', 'gf', 'gfp', 'gfs', 'gfx', 'gg', 'ggt', 'gh', 'gi', 'gib', 'gid', 'gif', 'gig', 'gil', 'gin', 'git', 'gl', 'glb', 'glc', 'glx', 'gm', 'gmc', 'gme', 'gmp', 'gms', 'gnd', 'gnt', 'gnu', 'go', 'gob', 'god', 'goo', 'gop', 'got', 'gov', 'gp', 'gpa', 'gpc', 'gpg', 'gpl', 'gpm', 'gps', 'gpu', 'gr', 'gre', 'grp', 'gs', 'gsm', 'gst', 'gt', 'gta', 'gtk', 'gtr', 'gtu', 'gu', 'gui', 'gum', 'gun', 'gup', 'gur', 'gus', 'gut', 'guv', 'guy', 'gw', 'gym', 'gyn', 'gz', 'h', 'h1', 'h2', 'h3', 'hCG', 'hGH', 'hZ', 'ha', 'hab', 'had', 'hag', 'haj', 'hak', 'hal', 'ham', 'han', 'has', 'hat', 'hay', 'hb', 'hbp', 'hcp', 'hd', 'hdd', 'hdm', 'hdr', 'he', 'hed', 'hee', 'hem', 'hen', 'hep', 'her', 'het', 'hew', 'hex', 'hey', 'hf', 'hfs', 'hgh', 'hh', 'hi', 'hid', 'hil', 'him', 'hip', 'his', 'hit', 'hiv', 'hk', 'hly', 'ho', 'hob', 'hod', 'hoe', 'hog', 'hom', 'hop', 'hos', 'hot', 'how', 'hp', 'hpt', 'hq', 'hr', 'hrs', 'hs', 'hse', 'hsf', 'ht', 'htm', 'htx', 'hu', 'hub', 'hud', 'hue', 'hug', 'huh', 'hui', 'hum', 'hun', 'hut', 'hv', 'hw', 'hwy', 'i', 'i1', 'i2', 'i21', 'i2c', 'i3', 'i30', 'i5', 'i55', 'i70', 'i80', 'i81', 'i90', 'i91', 'iFi', 'iGo', 'iLO', 'iM7', 'iMP', 'iNOS', 'iPC', 'iPSC', 'iQ', 'iSC', 'iSNS', 'iTMS', 'iTV', 'ia', 'ibm', 'ibs', 'ic', 'ica', 'icc', 'ice', 'ich', 'ick', 'icq', 'icu', 'icy', 'id', 'ida', 'ide', 'idf', 'idl', 'ids', 'idx', 'ie', 'if', 'ifo', 'ifs', 'ig', 'ih', 'ii', 'iid', 'iii', 'iis', 'ij', 'ik', 'il', 'ilk', 'ill', 'ils', 'im', 'imc', 'imf', 'img', 'imp', 'imu', 'in', 'in1', 'inc', 'inf', 'ing', 'ini', 'ink', 'inn', 'inp', 'ins', 'int', 'inv', 'io', 'ioc', 'iol', 'ion', 'ip', 'ipa', 'ipc', 'ipf', 'ipr', 'ips', 'ipx', 'ir', 'ira', 'irb', 'irc', 'ire', 'irq', 'irs', 'is', 'isa', 'ish', 'isl', 'ism', 'iso', 'isp', 'iss', 'ist', 'it', 'ith', 'its', 'iui', 'iv', 'ivy', 'iwi', 'ix', 'j', 'j0', 'ja', 'jab', 'jad', 'jag', 'jak', 'jam', 'jap', 'jar', 'jaw', 'jay', 'jc', 'jcr', 'jdk', 'jet', 'jew', 'ji', 'jib', 'jid', 'jig', 'jim', 'jin', 'jmp', 'jo', 'job', 'joe', 'jog', 'jon', 'jot', 'joy', 'jp', 'jpg', 'jps', 'jr', 'jre', 'js', 'jsp', 'jsr', 'jt', 'jth', 'jug', 'jun', 'jus', 'jv', 'jvm', 'k', 'k1', 'k2', 'k9', 'kHz', 'kNN', 'kV', 'kVp', 'kW', 'kWh', 'ka', 'kai', 'kat', 'kb', 'kbd', 'kbs', 'kc', 'kdc', 'kde', 'kdr', 'keV', 'kea', 'keg', 'ken', 'ket', 'key', 'kf', 'kg', 'ki', 'kid', 'kim', 'kin', 'kip', 'kit', 'kkk', 'km', 'kml', 'ko', 'koa', 'koi', 'kop', 'ks', 'ksh', 'kth', 'ku', 'kvm', 'ky', 'kyu', 'l', 'l1', 'l2', 'la', 'lab', 'lac', 'lad', 'lag', 'lam', 'lan', 'lap', 'las', 'lat', 'lav', 'law', 'lax', 'lay', 'lb', 'lbc', 'lbs', 'lc', 'lcd', 'lcm', 'lcs', 'ld', 'ldd', 'ldp', 'le', 'lea', 'leb', 'led', 'lee', 'lef', 'leg', 'lei', 'lek', 'len', 'leo', 'les', 'let', 'leu', 'lev', 'lex', 'ley', 'lf', 'lfn', 'lfs', 'lft', 'lg', 'lh', 'lhs', 'li', 'lib', 'lic', 'lid', 'lie', 'lim', 'lip', 'lit', 'lj', 'lkb', 'll', 'llc', 'lld', 'lm', 'lms', 'ln', 'lnb', 'lo', 'loa', 'lob', 'loc', 'log', 'lol', 'lon', 'loo', 'lop', 'los', 'lot', 'lou', 'low', 'lox', 'loy', 'lp', 'lpb', 'lpd', 'lpr', 'lps', 'lr', 'lru', 'ls', 'lsb', 'lst', 'lt', 'ltc', 'lth', 'lua', 'lub', 'lug', 'lum', 'lun', 'luv', 'lux', 'lv', 'lvl', 'lvm', 'lw', 'lwa', 'lx', 'ly', 'lye', 'lys', 'm', 'm1', 'm16', 'm2', 'm25', 'm2v', 'm3', 'm4', 'm5', 'm6', 'm8', 'mA', 'mAb', 'mAs', 'ma', 'mac', 'mad', 'maf', 'mag', 'mal', 'man', 'map', 'mar', 'mas', 'mat', 'mav', 'maw', 'max', 'may', 'mb', 'mbr', 'mbs', 'mbx', 'mc', 'mcg', 'mcs', 'mcu', 'md', 'md5', 'mda', 'mdb', 'mdf', 'mds', 'mdx', 'me', 'me1', 'mec', 'med', 'meg', 'mem', 'men', 'mer', 'mes', 'met', 'mew', 'mf', 'mfg', 'mfr', 'mg', 'mgm', 'mgr', 'mh', 'mhz', 'mi', 'mib', 'mic', 'mid', 'mig', 'mil', 'min', 'mir', 'mit', 'mix', 'miz', 'mk', 'mk1', 'mk2', 'mk3', 'mkI', 'mkt', 'ml', 'mle', 'mlm', 'mls', 'mm', 'mmc', 'mms', 'mn', 'mo', 'moa', 'mob', 'moc', 'mod', 'moe', 'moi', 'mom', 'mon', 'moo', 'mop', 'mot', 'mov', 'mow', 'mp', 'mp3', 'mp4', 'mp5', 'mpa', 'mpc', 'mpg', 'mph', 'mpi', 'mqm', 'mr', 'mr2', 'mri', 'mrs', 'mrt', 'ms', 'msb', 'msc', 'msg', 'msi', 'msm', 'msn', 'mss', 'msx', 'mt', 'mt2', 'mta', 'mtg', 'mth', 'mtn', 'mtr', 'mts', 'mtu', 'mtv', 'mtx', 'mtz', 'mu', 'mud', 'mug', 'mui', 'muj', 'mul', 'mum', 'mutS', 'mux', 'mv', 'mvp', 'mw', 'mx', 'my', 'myb', 'myc', 'n', 'n1', 'n2', 'n3', 'n32', 'n50', 'n64', 'n70', 'n90', 'nAR', 'nFA', 'nGMS', 'nMOS', 'nNOS', 'nWo', 'na', 'nag', 'nal', 'nam', 'nan', 'nao', 'nap', 'nas', 'nat', 'nav', 'nay', 'nb', 'nba', 'nbr', 'nc', 'nd', 'ndp', 'nds', 'ne', 'nea', 'nec', 'ned', 'nef', 'neg', 'nek', 'neo', 'nes', 'net', 'new', 'ney', 'nfc', 'nfl', 'nfs', 'ng', 'ngo', 'nhl', 'nhs', 'nib', 'nic', 'nif', 'nil', 'nip', 'nir', 'nis', 'nit', 'nl', 'nlm', 'nm', 'nmb', 'nme', 'nmr', 'nn', 'no', 'nob', 'noc', 'nod', 'nog', 'nom', 'non', 'noo', 'nor', 'nos', 'not', 'now', 'np', 'npc', 'npn', 'npt', 'nr', 'nra', 'ns', 'ns1', 'nsa', 'nt', 'nth', 'ntp', 'nu', 'nu1', 'nu2', 'nub', 'nuc', 'num', 'nun', 'nut', 'nv', 'nw', 'nx', 'ny', 'nyc', 'nyt', 'n\xc3\xb4', 'o', 'o2', 'o32', 'oAR', 'oFA', 'oPt', 'oX', 'oaf', 'oak', 'oar', 'oat', 'ob', 'oba', 'obi', 'obj', 'obs', 'oc', 'occ', 'ocd', 'oct', 'ocx', 'od', 'odd', 'ode', 'odo', 'oe', 'oem', 'of', 'off', 'oft', 'og', 'ogg', 'oh', 'ohm', 'ohs', 'oid', 'oil', 'oj', 'ok', 'ol', 'old', 'ole', 'olf', 'on', 'onc', 'one', 'oni', 'ons', 'oo', 'oof', 'ooh', 'oor', 'oos', 'op', 'op1', 'opk', 'opp', 'opr', 'ops', 'opt', 'or', 'orb', 'orc', 'ord', 'ore', 'org', 'ori', 'ork', 'ory', 'os', 'osX', 'osc', 'osd', 'oss', 'ost', 'osx', 'ot', 'ots', 'ou', 'oud', 'our', 'out', 'ov', 'ova', 'ow', 'owl', 'own', 'ox', 'oxo', 'oxy', 'oz', 'p', 'p0', 'p1', 'p10', 'p12', 'p15', 'p16', 'p17', 'p19', 'p2', 'p20', 'p21', 'p24', 'p25', 'p27', 'p2p', 'p3', 'p30', 'p33', 'p34', 'p35', 'p38', 'p4', 'p40', 'p42', 'p44', 'p46', 'p5', 'p50', 'p51', 'p52', 'p53', 'p55', 'p60', 'p62', 'p63', 'p65', 'p66', 'p70', 'p73', 'p75', 'p85', 'p90', 'pA', 'pAR', 'pET', 'pEl', 'pH', 'pHi', 'pI', 'pK', 'pKa', 'pMOS', 'pO2', 'pRB', 'pRb', 'pS2', 'pT', 'pUC', 'pa', 'pac', 'pad', 'pag', 'pak', 'pal', 'pam', 'pan', 'pap', 'par', 'pas', 'pat', 'pav', 'paw', 'pax', 'pay', 'pb', 'pbm', 'pbs', 'pbx', 'pc', 'pca', 'pcb', 'pch', 'pci', 'pcm', 'pcp', 'pcs', 'pd', 'pda', 'pdb', 'pdc', 'pde', 'pdf', 'pdi', 'pdu', 'pe', 'pe1', 'pea', 'pec', 'ped', 'pee', 'peg', 'pen', 'pep', 'per', 'pes', 'pet', 'pew', 'pf', 'pfb', 'pg', 'pgm', 'ph', 'phd', 'phi', 'pho', 'php', 'phy', 'pi', 'pia', 'pic', 'pid', 'pie', 'pig', 'pin', 'pip', 'pir', 'pit', 'pix', 'pj', 'pjs', 'pk', 'pk3', 'pkg', 'pkt', 'pl', 'plc', 'pll', 'plo', 'ply', 'pm', 'pma', 'pmc', 'pmf', 'pms', 'pn', 'png', 'pnp', 'po', 'pod', 'poi', 'pol', 'pom', 'pon', 'poo', 'pop', 'pos', 'pot', 'pov', 'pow', 'pox', 'pp', 'ppa', 'ppb', 'ppc', 'ppd', 'ppi', 'ppl', 'ppm', 'ppp', 'pps', 'ppt', 'ppv', 'pq', 'pr', 'prM', 'prc', 'pre', 'prf', 'prg', 'pri', 'pro', 'prs', 'prt', 'ps', 'ps1', 'ps2', 'ps3', 'psd', 'psf', 'psi', 'psp', 'pst', 'psu', 'psx', 'psy', 'pt', 'pta', 'pte', 'pth', 'pto', 'ptr', 'pts', 'pty', 'pu', 'pub', 'puc', 'pud', 'puf', 'pug', 'pun', 'pup', 'pur', 'pus', 'put', 'pv', 'pvc', 'pvp', 'pvr', 'pw', 'pwc', 'pwd', 'px', 'pyx', 'q', 'q0', 'qP', 'qb', 'qd', 'qg', 'qi', 'qin', 'qop', 'qq', 'qr', 'qs', 'qso', 'qt', 'qty', 'que', 'qx', 'r', 'r0', 'r1', 'r12', 'r2', 'rER', 'rOE', 'ra', 'rab', 'rac', 'rad', 'raf', 'rag', 'raj', 'ram', 'ran', 'rap', 'rar', 'ras', 'rat', 'rav', 'raw', 'ray', 'rb', 'rbc', 'rc', 'rca', 'rcp', 'rd', 'rdf', 'rds', 're', 'rec', 'red', 'ref', 'reg', 'rel', 'rem', 'ren', 'reo', 'rep', 'req', 'res', 'rev', 'rex', 'rez', 'rf', 'rfc', 'rg', 'rgb', 'rh', 'rho', 'rhs', 'ri', 'rib', 'rid', 'rig', 'rim', 'rin', 'rio', 'rip', 'rl', 'rm', 'rma', 'rms', 'rn', 'rnb', 'rnc', 'rng', 'ro', 'rob', 'roc', 'rod', 'roe', 'rom', 'ron', 'roo', 'rop', 'rot', 'row', 'rp', 'rpc', 'rpg', 'rpm', 'rpoS', 'rr', 'rrd', 'rrp', 'rs', 'rs3', 'rsa', 'rsh', 'rsn', 'rss', 'rst', 'rsx', 'rt', 'rtc', 'rtf', 'rth', 'rtl', 'rtp', 'rtt', 'rub', 'rue', 'rug', 'rum', 'run', 'rut', 'rv', 'rw', 'rx', 'rye', 'ryu', 'rz', 's', 's0', 's1', 's2', 's3', 's4', 's50', 'sa', 'sac', 'sad', 'sae', 'sag', 'sai', 'sal', 'sam', 'san', 'sap', 'sar', 'sas', 'sat', 'saw', 'sax', 'say', 'saz', 'sb', 'sba', 'sbc', 'sbd', 'sc', 'sc0', 'sca', 'sch', 'sci', 'scm', 'scp', 'scr', 'scs', 'sd', 'sda', 'sdk', 'se', 'sea', 'sec', 'sed', 'see', 'sef', 'seg', 'sei', 'sem', 'seq', 'ses', 'set', 'sew', 'sex', 'sf', 'sfc', 'sfj', 'sfx', 'sg', 'sh', 'sha', 'she', 'shi', 'sho', 'shp', 'shy', 'si', 'sic', 'sid', 'sie', 'sig', 'sil', 'sim', 'sin', 'sio', 'sip', 'siq', 'sir', 'sis', 'sit', 'six', 'sk', 'ska', 'skb', 'ski', 'sku', 'sky', 'sl', 'sl0', 'sls', 'sly', 'sm', 'smb', 'smc', 'sme', 'smg', 'smp', 'sms', 'sn', 'so', 'sob', 'soc', 'sod', 'soi', 'sol', 'som', 'son', 'sop', 'sow', 'sox', 'soy', 'sp', 'sp2', 'spa', 'spc', 'spi', 'spl', 'spx', 'spy', 'sql', 'sr', 'src', 'ss', 'ssb', 'ssd', 'ssh', 'ssi', 'ssl', 'ssn', 'ssp', 'sss', 'sst', 'st', 'sta', 'stb', 'std', 'sth', 'sti', 'stl', 'stn', 'str', 'sts', 'stu', 'sty', 'su', 'sub', 'sue', 'sum', 'sun', 'sup', 'suq', 'suv', 'sv', 'svg', 'svn', 'sw', 'swf', 'swp', 'sx', 'sym', 'syn', 'syr', 'sys', 't', 't0', 't1', 't3', 't7', 'tC', 'tJ', 'tPA', 'tTA', 'ta', 'tab', 'tac', 'tag', 'taj', 'tam', 'tan', 'tao', 'tap', 'tar', 'tat', 'tau', 'tax', 'tb', 'tbl', 'tc', 'tcl', 'tcp', 'td', 'tdh', 'te', 'tea', 'tec', 'tee', 'tel', 'ten', 'tet', 'tex', 'tf', 'tfm', 'tg', 'tg3', 'tgz', 'th', 'the', 'thr', 'ti', 'tib', 'tic', 'tid', 'tie', 'til', 'tim', 'tin', 'tip', 'tit', 'tix', 'tk', 'tkv', 'tl', 'tlb', 'tld', 'tm', 'tme', 'tmp', 'tms', 'to', 'toc', 'tod', 'toe', 'tom', 'ton', 'too', 'top', 'tor', 'tos', 'tot', 'tow', 'toy', 'tp', 'tpl', 'tps', 'tr', 'tra', 'tre', 'tri', 'trp', 'try', 'ts', 'tt', 'ttc', 'tth', 'ttl', 'tty', 'tu', 'tub', 'tug', 'tui', 'tum', 'tun', 'tup', 'tut', 'tux', 'tv', 'tvs', 'tw', 'two', 'tx', 'txt', 'tye', 'tyr', 'u', 'u1', 'uC', 'uH', 'uK', 'uP', 'uPA', 'uS', 'uSA', 'uae', 'uc', 'ucf', 'ud', 'udp', 'ufc', 'ufo', 'ufs', 'uhf', 'uhs', 'ui', 'uid', 'uk', 'uke', 'ul', 'um', 'umd', 'uml', 'ump', 'ums', 'un', 'uni', 'up', 'upc', 'ups', 'urb', 'uri', 'url', 'urn', 'us', 'usa', 'usb', 'use', 'usp', 'usr', 'ute', 'uu', 'uv', 'ux', 'uzi', 'v', 'v1', 'v2', 'v3', 'v4', 'v4l', 'v5', 'v6', 'v60', 'v7', 'v8', 'vB', 'vBNS', 'va', 'vac', 'vag', 'val', 'van', 'var', 'vas', 'vat', 'vav', 'vax', 'vb', 'vc', 'vcd', 'vcr', 'vcs', 'vdW', 'vdd', 've', 'vee', 'veg', 'vet', 'vf', 'vfs', 'vg', 'vga', 'vhf', 'vhp', 'vhs', 'vi', 'via', 'vic', 'vid', 'vif', 'vig', 'vim', 'vin', 'vip', 'vis', 'viv', 'viz', 'vlc', 'vm', 'vma', 'vnc', 'vnd', 'vob', 'vol', 'von', 'vow', 'vox', 'vp', 'vpc', 'vpi', 'vpn', 'vpr', 'vps', 'vrf', 'vs', 'vse', 'vt', 'vth', 'vw', 'vx', 'w', 'w1', 'w3', 'w3c', 'wa', 'wad', 'wag', 'wah', 'wal', 'wan', 'wap', 'war', 'was', 'wat', 'wav', 'waw', 'wax', 'way', 'wb', 'wc', 'we', 'web', 'wed', 'wee', 'wen', 'wep', 'wes', 'wet', 'wg', 'wh', 'wha', 'whm', 'who', 'why', 'wi', 'wig', 'wil', 'win', 'wip', 'wit', 'wiz', 'wk', 'wm', 'wmd', 'wml', 'wnt', 'wo', 'woe', 'wok', 'won', 'wop', 'wow', 'wp', 'wps', 'wpt', 'wrt', 'wrx', 'wry', 'ws', 'wt', 'wtc', 'wto', 'wu', 'wvo', 'ww', 'ww2', 'wwe', 'wwf', 'www', 'wx', 'wye', 'wzx', 'x', 'x0', 'x1', 'x10', 'x11', 'x16', 'x2', 'x3', 'x30', 'x4', 'x5', 'x50', 'x64', 'x8', 'x86', 'x87', 'xA', 'xB', 'xD', 'xDSL', 'xa', 'xb', 'xbe', 'xbi', 'xc', 'xda', 'xdm', 'xed', 'xen', 'xfs', 'xi', 'xia', 'xid', 'xjr', 'xl', 'xl1', 'xlf', 'xls', 'xml', 'xmm', 'xor', 'xp', 'xpi', 'xpm', 'xr', 'xs', 'xsd', 'xsi', 'xsl', 'xt', 'xth', 'xv', 'xx', 'xxx', 'xy', 'xyz', 'xz', 'y', 'y1', 'yak', 'yam', 'yaw', 'yay', 'yce', 'yea', 'yen', 'yes', 'yet', 'yew', 'yi', 'yin', 'yo', 'yod', 'you', 'yr', 'yrs', 'ys', 'yum', 'yy', 'yz', 'z', 'z1', 'z80', 'zap', 'zat', 'zed', 'zen', 'zi', 'zig', 'zip', 'zit', 'zmi', 'zom', 'zoo', 'zx', 'zx1', '\xc2\xb5', '\xc3\x9f', '\xc3\xa1', '\xc3\xa9', '\xc3\xb1', '\xc3\xbe', '\xc5\x9c', '\xc7\xab']
+Starting new 3gms phrase: %%% and Alasya or
+Reduced from 30958 candidates to 21 candidates.
+Candidates for 'Alasya': ['easy', 'flaky', 'flash', 'flashy', 'glass', 'glassy', 'labia', 'lady', 'laser', 'lash', 'last', 'lava', 'lay', 'lazy', 'pasta', 'plasma', 'play', 'plays', 'rasa', 'slash', 'slay']
+Starting new 3gms phrase: %%% Sections 901.141 and
+Reduced from 1044 candidates to 1 candidates.
+Candidates for '901.141': ['20111']
+Starting new 3gms phrase: %%% interim fflnal rule1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% both trucy and
+Reduced from 49235 candidates to 317 candidates.
+Candidates for 'trucy': ['Arc', 'Arch', 'Army', 'Array', 'Aruba', 'Arun', 'Baruch', 'Brady', 'Bray', 'Brick', 'Brock', 'Brody', 'Bruce', 'Bruno', 'Brush', 'Bryce', 'Buck', 'Bury', 'Buy', 'Chuck', 'Cray', 'Crick', 'Crouch', 'Crumb', 'Cruz', 'Darcy', 'Draco', 'Dru', 'Drug', 'Drugs', 'Druid', 'Drum', 'Dry', 'Duck', 'Eric', 'Erica', 'Fancy', 'Frey', 'Fry', 'Grace', 'Grady', 'Gray', 'Greco', 'Grey', 'Guy', 'Huck', 'Huey', 'Judy', 'July', 'Jury', 'Lacy', 'Luc', 'Luck', 'Lucky', 'Lucy', 'Marcy', 'Mercy', 'Nancy', 'Orcs', 'Orly', 'Percy', 'PrPc', 'Price', 'Proxy', 'Prue', 'Ruby', 'Rudy', 'Src', 'Stacy', 'Strict', 'Struts', 'Suzy', 'Trac', 'Trace', 'Tracey', 'Traci', 'Track', 'Tracy', 'Trc', 'Trey', 'Troy', 'Tru64', 'Truck', 'True', 'Trump', 'Truro', 'Trust', 'Truth', 'Tuck', 'Xray', 'arc', 'arch', 'arco', 'arcs', 'army', 'array', 'artsy', 'arty', 'bouncy', 'brick', 'brunch', 'brush', 'buck', 'busy', 'buy', 'chuck', 'couch', 'crack', 'crazy', 'crude', 'cruel', 'crunch', 'crunchy', 'crush', 'crust', 'cry', 'drug', 'drugs', 'drum', 'drums', 'drunk', 'dry', 'duck', 'duct', 'duty', 'erect', 'eric', 'fancy', 'fruit', 'fruity', 'fry', 'fuck', 'fury', 'gaudy', 'grace', 'gray', 'grey', 'grimy', 'grub', 'grubby', 'gruff', 'grumpy', 'guy', 'icy', 'irony', 'juicy', 'jury', 'luck', 'lucky', 'mercy', 'much', 'muck', 'orcs', 'piracy', 'pouch', 'pray', 'prey', 'price', 'pricey', 'prick', 'proxy', 'race', 'rack', 'racy', 'ray', 'rc', 'rc1', 'rec', 'recA', 'rice', 'rich', 'rock', 'rocky', 'rpc', 'ruby', 'rude', 'rue', 'rugby', 'rugs', 'ruin', 'rule', 'rum', 'run', 'runs', 'rush', 'rust', 'rusty', 'sauce', 'saucy', 'spicy', 'spruce', 'src', 'src1', 'stray', 'strict', 'struck', 'struct', 'structs', 'struts', 'stuck', 'study', 'suck', 'tack', 'tacky', 'tact', 'tangy', 'tardy', 'tasty', 'tau', 'taut', 'tcl', 'tcp', 'teach', 'tech', 'telco', 'theca', 'they', 'thick', 'thrust', 'thumb', 'tick', 'tics', 'tidy', 'tiny', 'today', 'torch', 'touch', 'tough', 'tour', 'tours', 'toy', 'tra', 'tracd', 'trace', 'tracer', 'traces', 'track', 'tracks', 'tracts', 'trad', 'trade', 'trail', 'train', 'trait', 'tram', 'trams', 'trance', 'tranny', 'trans', 'trap', 'traps', 'trash', 'trashy', 'trauma', 'trawl', 'tray', 'trays', 'tread', 'treat', 'treaty', 'tree', 'treed', 'trees', 'trench', 'trend', 'trendy', 'trial', 'tribe', 'trick', 'tricks', 'tricky', 'tried', 'tries', 'trim', 'trio', 'trip', 'trippy', 'trips', 'trite', 'trkA', 'troff', 'troll', 'troop', 'trophy', 'trot', 'trough', 'trout', 'truancy', 'truck', 'trucks', 'true', 'truer', 'truly', 'trump', 'trunk', 'trunks', 'truss', 'trust', 'trusts', 'truth', 'truths', 'try', 'tty', 'tub', 'tuba', 'tube', 'tubs', 'tug', 'tuna', 'tune', 'turf', 'turkey', 'turn', 'tush', 'twice', 'wreck', 'wry']
+Starting new 3gms phrase: %%% Form 3. Nowever1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3. Nowever identical
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% regarding trucy shipments
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% W Certifflcate of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Form 3. Nandlers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3. Nandlers are
+Finishing Process
+Reduced from 682700 candidates to 4765 candidates.
+That's a 0.00697963966603 % reduction.
+Candidate Counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 5, 6, 7, 8, 10, 10, 10, 15, 17, 18, 21, 23, 23, 27, 29, 30, 31, 32, 34, 35, 36, 44, 62, 81, 317, 1707, 2071]
+Candidates found for 58 of 173 3gms.
+The largest number of candidates for a singe 3gms is: 2071
+The second largest is: 1707
+Total Time Taken by Program: 2.866978 seconds.
+End

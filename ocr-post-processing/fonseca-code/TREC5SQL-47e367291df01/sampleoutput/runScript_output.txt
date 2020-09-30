@@ -1,0 +1,519 @@
+Run Script:
+Input Files: Original: SourceTexts/original.FR940104.0 Degrade: SourceTexts/degrade.FR940104.0
+
+Running Insertion into Database of file...
+
+('Server Version:', u'5.7.23-0ubuntu0.16.04.1')
+trec5sqlinsert.py
+SourceTexts/original.FR940104.0
+original
+Program will open files and split them by documents, it will bundle more than one document if documents together are less than 1500 words
+Starting Insertion of new File in Location: 0.
+12776 Words Inserted
+17921 Words Inserted
+33695 Words Inserted
+42523 Words Inserted
+50082 Words Inserted
+75759 Words Inserted
+84769 Words Inserted
+93732 Words Inserted
+101552 Words Inserted
+107920 Words Inserted
+115105 Words Inserted
+122333 Words Inserted
+129715 Words Inserted
+141250 Words Inserted
+147133 Words Inserted
+Number of words inserted: 153454 . Total inserted: 153454
+Execution Time:
+0:01:50
+
+Finished trec5sqlinsert.py
+
+('Server Version:', u'5.7.23-0ubuntu0.16.04.1')
+trec5sqlinsert.py
+SourceTexts/degrade.FR940104.0
+degrade
+Program will open files and split them by documents, it will bundle more than one document if documents together are less than 1500 words
+Starting Insertion of new File in Location: 0.
+9896 Words Inserted
+19795 Words Inserted
+29774 Words Inserted
+39774 Words Inserted
+49774 Words Inserted
+59767 Words Inserted
+69760 Words Inserted
+79760 Words Inserted
+89760 Words Inserted
+99760 Words Inserted
+119669 Words Inserted
+129571 Words Inserted
+139459 Words Inserted
+149368 Words Inserted
+Number of words inserted: 155282 . Total inserted: 155282
+Execution Time:
+0:01:34
+
+Finished trec5sqlinsert.py
+
+
+Running Alignment...
+
+('Server Version:', u'5.7.23-0ubuntu0.16.04.1')
+trec5alignment.py
+Start: 0
+End: 0
+Program will align original-degrade locations in Database.
+First Parameter will be starting document location to align.
+Second parameter is ending document location to stop aligning.
+If ending location is same as start it will align until end of database.
+Program will produce: "alignment_output.txt" with more information on process.
+Processing Document: FR940104-0-00001 
+Degrade Range [0,23] and Original Range [0,18].
+Match Failures: 1. Local Success Rate in Document: 95.65%
+Processing Document: FR940104-0-00002 
+Degrade Range [24,619] and Original Range [19,606].
+Match Failures: 13. Local Success Rate in Document: 97.82%
+Processing Document: FR940104-0-00003 
+Degrade Range [620,1462] and Original Range [607,1447].
+Match Failures: 3. Local Success Rate in Document: 99.64%
+Processing Document: FR940104-0-00004 
+Degrade Range [1463,1828] and Original Range [1448,1811].
+Match Failures: 10. Local Success Rate in Document: 97.26%
+Processing Document: FR940104-0-00005 
+Degrade Range [1829,2371] and Original Range [1812,2343].
+Match Failures: 17. Local Success Rate in Document: 96.86%
+Processing Document: FR940104-0-00006 
+Degrade Range [2372,2814] and Original Range [2344,2777].
+Match Failures: 14. Local Success Rate in Document: 96.83%
+Processing Document: FR940104-0-00007 
+Degrade Range [2815,3215] and Original Range [2778,3171].
+Match Failures: 10. Local Success Rate in Document: 97.50%
+Processing Document: FR940104-0-00008 
+Degrade Range [3216,3892] and Original Range [3172,3868].
+Match Failures: 229. Local Success Rate in Document: 66.12%
+Processing Document: FR940104-0-00009 
+Degrade Range [3893,4601] and Original Range [3869,4572].
+Match Failures: 36. Local Success Rate in Document: 94.92%
+Processing Document: FR940104-0-00010 
+Degrade Range [4602,5581] and Original Range [4573,5549].
+Match Failures: 12. Local Success Rate in Document: 98.77%
+Processing Document: FR940104-0-00011 
+Degrade Range [5582,6564] and Original Range [5550,6508].
+Match Failures: 23. Local Success Rate in Document: 97.66%
+Processing Document: FR940104-0-00012 
+Degrade Range [6565,7456] and Original Range [6509,7392].
+Match Failures: 7. Local Success Rate in Document: 99.21%
+Processing Document: FR940104-0-00013 
+Degrade Range [7457,8268] and Original Range [7393,8183].
+Match Failures: 79. Local Success Rate in Document: 90.26%
+Processing Document: FR940104-0-00014 
+Degrade Range [8269,9355] and Original Range [8184,9256].
+Match Failures: 13. Local Success Rate in Document: 98.80%
+Processing Document: FR940104-0-00015 
+Degrade Range [9356,10257] and Original Range [9257,10157].
+Match Failures: 6. Local Success Rate in Document: 99.33%
+Processing Document: FR940104-0-00016 
+Degrade Range [10258,10924] and Original Range [10158,10821].
+Match Failures: 3. Local Success Rate in Document: 99.55%
+Processing Document: FR940104-0-00017 
+Degrade Range [10925,11630] and Original Range [10822,11521].
+Match Failures: 8. Local Success Rate in Document: 98.87%
+Processing Document: FR940104-0-00018 
+Degrade Range [11631,12498] and Original Range [11522,12386].
+Match Failures: 15. Local Success Rate in Document: 98.27%
+Processing Document: FR940104-0-00019 
+Degrade Range [12499,13445] and Original Range [12387,13322].
+Match Failures: 129. Local Success Rate in Document: 86.36%
+Processing Document: FR940104-0-00020 
+Degrade Range [13446,14432] and Original Range [13323,14327].
+Match Failures: 190. Local Success Rate in Document: 80.73%
+Processing Document: FR940104-0-00021 
+Degrade Range [14433,15210] and Original Range [14328,15092].
+Match Failures: 260. Local Success Rate in Document: 66.54%
+Processing Document: FR940104-0-00022 
+Degrade Range [15211,15950] and Original Range [15093,15825].
+Match Failures: 13. Local Success Rate in Document: 98.24%
+Processing Document: FR940104-0-00023 
+Degrade Range [15951,16325] and Original Range [15826,16195].
+Match Failures: 11. Local Success Rate in Document: 97.06%
+Processing Document: FR940104-0-00024 
+Degrade Range [16326,16725] and Original Range [16196,16589].
+Match Failures: 17. Local Success Rate in Document: 95.74%
+Processing Document: FR940104-0-00025 
+Degrade Range [16726,17656] and Original Range [16590,17507].
+Match Failures: 22. Local Success Rate in Document: 97.63%
+Processing Document: FR940104-0-00026 
+Degrade Range [17657,18020] and Original Range [17508,17865].
+Match Failures: 19. Local Success Rate in Document: 94.77%
+Processing Document: FR940104-0-00027 
+Degrade Range [18021,18479] and Original Range [17866,18219].
+Match Failures: 126. Local Success Rate in Document: 72.49%
+Processing Document: FR940104-0-00028 
+Degrade Range [18480,19235] and Original Range [18220,18773].
+Match Failures: 251. Local Success Rate in Document: 66.75%
+Processing Document: FR940104-0-00029 
+Degrade Range [19236,19914] and Original Range [18774,19242].
+Match Failures: 191. Local Success Rate in Document: 71.83%
+Processing Document: FR940104-0-00030 
+Degrade Range [19915,20668] and Original Range [19243,19782].
+Match Failures: 224. Local Success Rate in Document: 70.25%
+Processing Document: FR940104-0-00031 
+Degrade Range [20669,26255] and Original Range [19783,25111].
+Match Failures: 1775. Local Success Rate in Document: 68.22%
+Processing Document: FR940104-0-00032 
+Degrade Range [26256,49803] and Original Range [25112,48504].
+Match Failures: 7692. Local Success Rate in Document: 67.33%
+Processing Document: FR940104-0-00033 
+Degrade Range [49804,68849] and Original Range [48505,67470].
+Match Failures: 5040. Local Success Rate in Document: 73.54%
+Processing Document: FR940104-0-00034 
+Degrade Range [68850,105839] and Original Range [67471,104343].
+Match Failures: 12283. Local Success Rate in Document: 66.79%
+Processing Document: FR940104-0-00035 
+Degrade Range [105840,109745] and Original Range [104344,108230].
+Match Failures: 39. Local Success Rate in Document: 99.00%
+Processing Document: FR940104-0-00036 
+Degrade Range [109746,111255] and Original Range [108231,109735].
+Match Failures: 24. Local Success Rate in Document: 98.41%
+Processing Document: FR940104-0-00037 
+Degrade Range [111256,111800] and Original Range [109736,110270].
+Match Failures: 7. Local Success Rate in Document: 98.71%
+Processing Document: FR940104-0-00038 
+Degrade Range [111801,112460] and Original Range [110271,110928].
+Match Failures: 6. Local Success Rate in Document: 99.09%
+Processing Document: FR940104-0-00039 
+Degrade Range [112461,113484] and Original Range [110929,111944].
+Match Failures: 7. Local Success Rate in Document: 99.32%
+Processing Document: FR940104-0-00040 
+Degrade Range [113485,114210] and Original Range [111945,112667].
+Match Failures: 3. Local Success Rate in Document: 99.59%
+Processing Document: FR940104-0-00041 
+Degrade Range [114211,115122] and Original Range [112668,113570].
+Match Failures: 1. Local Success Rate in Document: 99.89%
+Processing Document: FR940104-0-00042 
+Degrade Range [115123,115993] and Original Range [113571,114429].
+Match Failures: 1. Local Success Rate in Document: 99.89%
+Processing Document: FR940104-0-00043 
+Degrade Range [115994,116543] and Original Range [114430,114979].
+Match Failures: 1. Local Success Rate in Document: 99.82%
+Processing Document: FR940104-0-00044 
+Degrade Range [116544,117360] and Original Range [114980,115794].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00045 
+Degrade Range [117361,117938] and Original Range [115795,116369].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00046 
+Degrade Range [117939,118808] and Original Range [116370,117235].
+Match Failures: 4. Local Success Rate in Document: 99.54%
+Processing Document: FR940104-0-00047 
+Degrade Range [118809,119771] and Original Range [117236,118190].
+Match Failures: 2. Local Success Rate in Document: 99.79%
+Processing Document: FR940104-0-00048 
+Degrade Range [119772,120642] and Original Range [118191,119059].
+Match Failures: 2. Local Success Rate in Document: 99.77%
+Processing Document: FR940104-0-00049 
+Degrade Range [120643,121710] and Original Range [119060,120121].
+Match Failures: 5. Local Success Rate in Document: 99.53%
+Processing Document: FR940104-0-00050 
+Degrade Range [121711,122545] and Original Range [120122,120952].
+Match Failures: 4. Local Success Rate in Document: 99.52%
+Processing Document: FR940104-0-00051 
+Degrade Range [122546,122755] and Original Range [120953,121160].
+Match Failures: 12. Local Success Rate in Document: 94.26%
+Processing Document: FR940104-0-00052 
+Degrade Range [122756,123311] and Original Range [121161,121704].
+Match Failures: 14. Local Success Rate in Document: 97.48%
+Processing Document: FR940104-0-00053 
+Degrade Range [123312,124139] and Original Range [121705,122529].
+Match Failures: 4. Local Success Rate in Document: 99.52%
+Processing Document: FR940104-0-00054 
+Degrade Range [124140,124655] and Original Range [122530,123042].
+Match Failures: 6. Local Success Rate in Document: 98.83%
+Processing Document: FR940104-0-00055 
+Degrade Range [124656,125668] and Original Range [123043,124042].
+Match Failures: 2. Local Success Rate in Document: 99.80%
+Processing Document: FR940104-0-00056 
+Degrade Range [125669,126157] and Original Range [124043,124527].
+Match Failures: 6. Local Success Rate in Document: 98.77%
+Processing Document: FR940104-0-00057 
+Degrade Range [126158,126607] and Original Range [124528,124973].
+Match Failures: 1. Local Success Rate in Document: 99.78%
+Processing Document: FR940104-0-00058 
+Degrade Range [126608,127372] and Original Range [124974,125729].
+Match Failures: 112. Local Success Rate in Document: 85.34%
+Processing Document: FR940104-0-00059 
+Degrade Range [127373,128453] and Original Range [125730,126806].
+Match Failures: 2. Local Success Rate in Document: 99.81%
+Processing Document: FR940104-0-00060 
+Degrade Range [128454,129364] and Original Range [126807,127717].
+Match Failures: 2. Local Success Rate in Document: 99.78%
+Processing Document: FR940104-0-00061 
+Degrade Range [129365,130320] and Original Range [127718,128663].
+Match Failures: 129. Local Success Rate in Document: 86.49%
+Processing Document: FR940104-0-00062 
+Degrade Range [130321,131293] and Original Range [128664,129623].
+Match Failures: 1. Local Success Rate in Document: 99.90%
+Processing Document: FR940104-0-00063 
+Degrade Range [131294,131443] and Original Range [129624,129763].
+Match Failures: 1. Local Success Rate in Document: 99.33%
+Processing Document: FR940104-0-00064 
+Degrade Range [131444,132293] and Original Range [129764,130609].
+Match Failures: 3. Local Success Rate in Document: 99.65%
+Processing Document: FR940104-0-00065 
+Degrade Range [132294,132909] and Original Range [130610,131219].
+Match Failures: 6. Local Success Rate in Document: 99.02%
+Processing Document: FR940104-0-00066 
+Degrade Range [132910,133947] and Original Range [131220,132253].
+Match Failures: 6. Local Success Rate in Document: 99.42%
+Processing Document: FR940104-0-00067 
+Degrade Range [133948,134181] and Original Range [132254,132482].
+Match Failures: 10. Local Success Rate in Document: 95.71%
+Processing Document: FR940104-0-00068 
+Degrade Range [134182,134268] and Original Range [132483,132548].
+Match Failures: 8. Local Success Rate in Document: 90.70%
+Processing Document: FR940104-0-00069 
+Degrade Range [134269,134838] and Original Range [132549,133109].
+Match Failures: 16. Local Success Rate in Document: 97.19%
+Processing Document: FR940104-0-00070 
+Degrade Range [134839,135722] and Original Range [133110,133991].
+Match Failures: 4. Local Success Rate in Document: 99.55%
+Processing Document: FR940104-0-00071 
+Degrade Range [135723,136623] and Original Range [133992,134891].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00072 
+Degrade Range [136624,137242] and Original Range [134892,135508].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00073 
+Degrade Range [137243,137787] and Original Range [135509,136049].
+Match Failures: 3. Local Success Rate in Document: 99.45%
+Processing Document: FR940104-0-00074 
+Degrade Range [137788,138202] and Original Range [136050,136439].
+Match Failures: 55. Local Success Rate in Document: 86.71%
+Processing Document: FR940104-0-00075 
+Degrade Range [138203,138613] and Original Range [136440,136850].
+Match Failures: 2. Local Success Rate in Document: 99.51%
+Processing Document: FR940104-0-00076 
+Degrade Range [138614,139255] and Original Range [136851,137491].
+Match Failures: 2. Local Success Rate in Document: 99.69%
+Processing Document: FR940104-0-00077 
+Degrade Range [139256,140160] and Original Range [137492,138394].
+Match Failures: 4. Local Success Rate in Document: 99.56%
+Processing Document: FR940104-0-00078 
+Degrade Range [140161,140822] and Original Range [138395,139054].
+Match Failures: 4. Local Success Rate in Document: 99.39%
+Processing Document: FR940104-0-00079 
+Degrade Range [140823,141504] and Original Range [139055,139736].
+Match Failures: 3. Local Success Rate in Document: 99.56%
+Processing Document: FR940104-0-00080 
+Degrade Range [141505,141941] and Original Range [139737,140172].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00081 
+Degrade Range [141942,142871] and Original Range [140173,141097].
+Match Failures: 6. Local Success Rate in Document: 99.35%
+Processing Document: FR940104-0-00082 
+Degrade Range [142872,143521] and Original Range [141098,141747].
+Match Failures: 3. Local Success Rate in Document: 99.54%
+Processing Document: FR940104-0-00083 
+Degrade Range [143522,144341] and Original Range [141748,142564].
+Match Failures: 5. Local Success Rate in Document: 99.39%
+Processing Document: FR940104-0-00084 
+Degrade Range [144342,144977] and Original Range [142565,143199].
+Match Failures: 2. Local Success Rate in Document: 99.69%
+Processing Document: FR940104-0-00085 
+Degrade Range [144978,145788] and Original Range [143200,144010].
+Match Failures: 6. Local Success Rate in Document: 99.26%
+Processing Document: FR940104-0-00086 
+Degrade Range [145789,146697] and Original Range [144011,144919].
+Match Failures: 5. Local Success Rate in Document: 99.45%
+Processing Document: FR940104-0-00087 
+Degrade Range [146698,147378] and Original Range [144920,145598].
+Match Failures: 0. Local Success Rate in Document: 100.00%
+Processing Document: FR940104-0-00088 
+Degrade Range [147379,148072] and Original Range [145599,146290].
+Match Failures: 4. Local Success Rate in Document: 99.42%
+Processing Document: FR940104-0-00089 
+Degrade Range [148073,148888] and Original Range [146291,147105].
+Match Failures: 7. Local Success Rate in Document: 99.14%
+Processing Document: FR940104-0-00090 
+Degrade Range [148889,149565] and Original Range [147106,147781].
+Match Failures: 2. Local Success Rate in Document: 99.70%
+Processing Document: FR940104-0-00091 
+Degrade Range [149566,150088] and Original Range [147782,148303].
+Match Failures: 1. Local Success Rate in Document: 99.81%
+Processing Document: FR940104-0-00092 
+Degrade Range [150089,150264] and Original Range [148304,148479].
+Match Failures: 4. Local Success Rate in Document: 97.71%
+Processing Document: FR940104-0-00093 
+Degrade Range [150265,151038] and Original Range [148480,149243].
+Match Failures: 18. Local Success Rate in Document: 97.67%
+Processing Document: FR940104-0-00094 
+Degrade Range [151039,152097] and Original Range [149244,150299].
+Match Failures: 5. Local Success Rate in Document: 99.53%
+Processing Document: FR940104-0-00095 
+Degrade Range [152098,152774] and Original Range [150300,150955].
+Match Failures: 34. Local Success Rate in Document: 94.97%
+Processing Document: FR940104-0-00096 
+Degrade Range [152775,153187] and Original Range [150956,151368].
+Match Failures: 6. Local Success Rate in Document: 98.54%
+Processing Document: FR940104-0-00097 
+Degrade Range [153188,154045] and Original Range [151369,152222].
+Match Failures: 9. Local Success Rate in Document: 98.95%
+Processing Document: FR940104-0-00098 
+Degrade Range [154046,154568] and Original Range [152223,152740].
+Match Failures: 6. Local Success Rate in Document: 98.85%
+Processing Document: FR940104-0-00099 
+Degrade Range [154569,155281] and Original Range [152741,153453].
+Match Failures: 8. Local Success Rate in Document: 98.88%
+Total Match Failures:  29397
+Number of words processed:  155282
+Success Rate: 81.07%
+Lowest  Individual Success Rate: 66.12%
+Highest Individual Success Rate: 100.00%
+Execution Time:
+0:05:50
+
+Finished trec5alignment.py
+
+
+Creating/Updating Confusion Matrix...
+
+('Server Version:', u'5.7.23-0ubuntu0.16.04.1')
+trec5confusionmatrix.py
+Start: 0
+End: 0
+Program will read database table doctextSolutions and create/update confusion matrix
+First Parameter will be starting document location.
+Second parameter is ending document location location.
+If ending location is same as start it will use all rows in doctextSolutions.
+Program will also create/update Levenshtein Frequency Table (see database)
+Program will produce: "confusionmatrix_output.txt" with more information on process.
+Processing Document: FR940104-0-00001
+Processing Document: FR940104-0-00002
+Processing Document: FR940104-0-00003
+Processing Document: FR940104-0-00004
+Processing Document: FR940104-0-00005
+Processing Document: FR940104-0-00006
+Processing Document: FR940104-0-00007
+Processing Document: FR940104-0-00008
+Processing Document: FR940104-0-00009
+Processing Document: FR940104-0-00010
+Processing Document: FR940104-0-00011
+Processing Document: FR940104-0-00012
+Processing Document: FR940104-0-00013
+Processing Document: FR940104-0-00014
+Processing Document: FR940104-0-00015
+Processing Document: FR940104-0-00016
+Processing Document: FR940104-0-00017
+Processing Document: FR940104-0-00018
+Processing Document: FR940104-0-00019
+Processing Document: FR940104-0-00020
+Processing Document: FR940104-0-00021
+Processing Document: FR940104-0-00022
+Processing Document: FR940104-0-00023
+Processing Document: FR940104-0-00024
+Processing Document: FR940104-0-00025
+Processing Document: FR940104-0-00026
+Processing Document: FR940104-0-00027
+Processing Document: FR940104-0-00028
+Processing Document: FR940104-0-00029
+Processing Document: FR940104-0-00030
+Processing Document: FR940104-0-00031
+Processing Document: FR940104-0-00032
+Processing Document: FR940104-0-00033
+Processing Document: FR940104-0-00034
+Processing Document: FR940104-0-00035
+Processing Document: FR940104-0-00036
+Processing Document: FR940104-0-00037
+Processing Document: FR940104-0-00038
+Processing Document: FR940104-0-00039
+Processing Document: FR940104-0-00040
+Processing Document: FR940104-0-00041
+Processing Document: FR940104-0-00042
+Processing Document: FR940104-0-00043
+Processing Document: FR940104-0-00044
+Processing Document: FR940104-0-00045
+Processing Document: FR940104-0-00046
+Processing Document: FR940104-0-00047
+Processing Document: FR940104-0-00048
+Processing Document: FR940104-0-00049
+Processing Document: FR940104-0-00050
+Processing Document: FR940104-0-00051
+Processing Document: FR940104-0-00052
+Processing Document: FR940104-0-00053
+Processing Document: FR940104-0-00054
+Processing Document: FR940104-0-00055
+Processing Document: FR940104-0-00056
+Processing Document: FR940104-0-00057
+Processing Document: FR940104-0-00058
+Processing Document: FR940104-0-00059
+Processing Document: FR940104-0-00060
+Processing Document: FR940104-0-00061
+Processing Document: FR940104-0-00062
+Processing Document: FR940104-0-00063
+Processing Document: FR940104-0-00064
+Processing Document: FR940104-0-00065
+Processing Document: FR940104-0-00066
+Processing Document: FR940104-0-00067
+Processing Document: FR940104-0-00068
+Processing Document: FR940104-0-00069
+Processing Document: FR940104-0-00070
+Processing Document: FR940104-0-00071
+Processing Document: FR940104-0-00072
+Processing Document: FR940104-0-00073
+Processing Document: FR940104-0-00074
+Processing Document: FR940104-0-00075
+Processing Document: FR940104-0-00076
+Processing Document: FR940104-0-00077
+Processing Document: FR940104-0-00078
+Processing Document: FR940104-0-00079
+Processing Document: FR940104-0-00080
+Processing Document: FR940104-0-00081
+Processing Document: FR940104-0-00082
+Processing Document: FR940104-0-00083
+Processing Document: FR940104-0-00084
+Processing Document: FR940104-0-00085
+Processing Document: FR940104-0-00086
+Processing Document: FR940104-0-00087
+Processing Document: FR940104-0-00088
+Processing Document: FR940104-0-00089
+Processing Document: FR940104-0-00090
+Processing Document: FR940104-0-00091
+Processing Document: FR940104-0-00092
+Processing Document: FR940104-0-00093
+Processing Document: FR940104-0-00094
+Processing Document: FR940104-0-00095
+Processing Document: FR940104-0-00096
+Processing Document: FR940104-0-00097
+Processing Document: FR940104-0-00098
+Processing Document: FR940104-0-00099
+Inserting/Updating Confusion Matrix to Database
+Updating Levenshtein Frequency Table with new Values
+Number of Errors Inserted into Confusion Matrix: 27262
+Error Distribution by Levenshtein edit distance:
+Distance 1 Frequency: 16207
+Distance 2 Frequency: 5177
+Distance 3 Frequency: 2934
+
+Execution Time:
+0:00:18
+
+Finished trec5confusionmatrix.py
+
+
+Creating/Updating Candidate List...
+
+
+Running Data Error Analysis/Regression...
+
+
+Running Experiment...
+
+
+Running Precision and Recall...
+
+
+Total Time in Seconds: 572
+
+End of Script.
+

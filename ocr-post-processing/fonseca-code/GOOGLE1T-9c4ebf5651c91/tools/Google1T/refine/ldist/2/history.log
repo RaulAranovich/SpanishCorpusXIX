@@ -1,0 +1,405 @@
+Program will open file with 3gms phrase and possible candidates and reduce
+the amount of them based on levenstein distance and frequency
+Total Lines to Process: 684079
+Starting new 3gms phrase: %%% Federal hegister Vol.
+Reduced from 16 candidates to 1 candidates.
+Candidates for 'hegister': ['Register']
+Starting new 3gms phrase: %%% Tuesday1 anuary 41
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994 hules and
+Reduced from 252 candidates to 2 candidates.
+Candidates for 'hules': ['Rules', 'rules']
+Starting new 3gms phrase: %%% and hegulations Vol.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Tuesday1 anuary 41
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994 LEpAhTMENT OF
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% OF AOhlCULTUhE Agricultural
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Service
+Reduced from 80 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% 1 CFh parts
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 9OW SFV93-901-lFlh Navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Orown in
+Reduced from 4 candidates to 1 candidates.
+Candidates for 'Orown': ['grown']
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% and Lesignated parts
+Reduced from 2369 candidates to 1 candidates.
+Candidates for 'Lesignated': ['designated']
+Starting new 3gms phrase: %%% in heporting hequirements
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% heporting hequirements AOENCy:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% hequirements AOENCy Agricultural
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Service1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Service1 USLA ACTlON:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% USLA. ACTlON Final
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule. SUMMAhy The
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The Lepartment of
+Reduced from 65236 candidates to 18 candidates.
+Candidates for 'Lepartment': ['Apartment', 'DFepartment', 'Dapartment', 'Deparment', 'Departament', 'Departement', 'Departent', 'Department', 'Departments', 'Depatment', 'Deptartment', 'apartment', 'appartment', 'deparment', 'departement', 'department', 'departments', 'deportment']
+Starting new 3gms phrase: %%% Agriculture Lepartment is
+Reduced from 101 candidates to 2 candidates.
+Candidates for 'Lepartment': ['Department', 'department']
+Starting new 3gms phrase: %%% is adoptlng as
+Reduced from 13535 candidates to 2 candidates.
+Candidates for 'adoptlng': ['adapting', 'adopting']
+Starting new 3gms phrase: %%% a fflnal rule1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% interim fflnal rule
+Reduced from 13 candidates to 1 candidates.
+Candidates for 'fflnal': ['final']
+Starting new 3gms phrase: %%% the California-Arikona navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% orange maryeting orders.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The maryeting orders
+Reduced from 252 candidates to 1 candidates.
+Candidates for 'maryeting': ['marketing']
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule modiffles language
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3 Lally Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be utiliked for
+Reduced from 15100 candidates to 5 candidates.
+Candidates for 'utiliked': ['Utilized', 'utilised', 'utilize', 'utilized', 'utilzed']
+Starting new 3gms phrase: %%% the maryeting orders.
+Reduced from 742 candidates to 1 candidates.
+Candidates for 'maryeting': ['marketing']
+Starting new 3gms phrase: %%% orders. EFFECTlVE LATE:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 31 1994. FOh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 1994. FOh FUhTNEh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% FOh FUhTNEh lNFOhMATlON
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% FUhTNEh lNFOhMATlON CONTACT:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Thorpe1 Maryeting Specialist1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Specialist1 Maryeting Order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% branch1 FAV AMS1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% AMS1 USLA room
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 2322-S1 p.O box
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Washington1 LC 20090-0430:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% LC 20090-0430: telephone:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% telephone: (202) 120-3121;
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (202) 120-3121; or
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Maureen pello California
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% California Maryeting Field
+Reduced from 19 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% Field OMce Maryeting
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% OMce1 Maryeting Order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% branch1 FAV AMS1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% AMS1 USLA 2202
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% California1 93121; telephone:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% telephone: (209) 4Wl-3901.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (209) Wl SUppLEMENTAhy
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 4Wl-3901. SUppLEMENTAhy lNFOhMATlON:
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% SUppLEMENTAhy lNFOhMATlON This
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% This fflnal rule
+Reduced from 267 candidates to 1 candidates.
+Candidates for 'fflnal': ['final']
+Starting new 3gms phrase: %%% under Maryeting Order
+Reduced from 87 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% Order Nos 901
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 9OW (1 CFh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (1 CFh parts
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% in Arikona and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Agricultural Maryeting Agreement
+Reduced from 6 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% amended (1 U.S.C.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (1 U.S.C 001-014)1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% U.S.C. 001-014)1 hereinafter
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The Lepartment is
+Reduced from 65964 candidates to 7 candidates.
+Candidates for 'Lepartment': ['Apartment', 'Department', 'apartment', 'appartment', 'deparment', 'departement', 'department']
+Starting new 3gms phrase: %%% Civil ustice heform.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 'ustice heform This
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% irreconcilable confflict with
+Reduced from 10 candidates to 2 candidates.
+Candidates for 'confflict': ['conflict', 'conflicts']
+Starting new 3gms phrase: %%% may fflle suit
+Reduced from 93 candidates to 1 candidates.
+Candidates for 'fflle': ['file']
+Starting new 3gms phrase: %%% section Wc(13)(A of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% handler subdect to
+Reduced from 183 candidates to 1 candidates.
+Candidates for 'subdect': ['subject']
+Starting new 3gms phrase: %%% may fflle with
+Reduced from 1885 candidates to 5 candidates.
+Candidates for 'fflle': ['fall', 'file', 'fill', 'filled', 'flee']
+Starting new 3gms phrase: %%% a modifflcation of
+Reduced from 49586 candidates to 2 candidates.
+Candidates for 'modifflcation': ['modifcation', 'modification']
+Starting new 3gms phrase: %%% the opportunlty for
+Reduced from 53162 candidates to 11 candidates.
+Candidates for 'opportunlty': ['oportunity', 'oppertunity', 'opportunity', 'opportuntity', 'opportunty', 'opporunity', 'oppotunity', 'oppourtunity', 'oppportunity', 'opprtunity', 'oppurtunity']
+Starting new 3gms phrase: %%% has durisdiction in
+Reduced from 20412 candidates to 2 candidates.
+Candidates for 'durisdiction': ['Jurisdiction', 'jurisdiction']
+Starting new 3gms phrase: %%% in equlty to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the. Secretary:s ruling
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% in equlty is
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% is fflled not
+Reduced from 5113 candidates to 7 candidates.
+Candidates for 'fflled': ['billed', 'called', 'filed', 'filled', 'fueled', 'fuelled', 'killed']
+Starting new 3gms phrase: %%% the hegulatory Flexibility
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Act hFA the
+Reduced from 1464 candidates to 2 candidates.
+Candidates for 'hFA': ['had', 'has']
+Starting new 3gms phrase: %%% Agricultural Maryeting Service
+Reduced from 80 candidates to 1 candidates.
+Candidates for 'Maryeting': ['Marketing']
+Starting new 3gms phrase: %%% the hFA is
+Reduced from 42734 candidates to 74 candidates.
+Candidates for 'hFA': ['eMA', 'h', 'h1', 'h10', 'h2', 'h3', 'hCG', 'ha', 'hab', 'had', 'hag', 'haj', 'hal', 'ham', 'han', 'has', 'hat', 'hay', 'hb', 'hbp', 'hcg', 'hd', 'hdc', 'hdd', 'hdx', 'he', 'hec', 'heh', 'hek', 'hel', 'hem', 'hen', 'her', 'hex', 'hey', 'hgh', 'hh', 'hi', 'him', 'hip', 'his', 'hit', 'hll', 'ho', 'hob', 'hoe', 'hog', 'hop', 'hot', 'how', 'hp', 'hpt', 'hr', 'hrc', 'hse', 'hsf', 'ht', 'htl', 'hub', 'hud', 'hue', 'hug', 'hui', 'hum', 'hun', 'hut', 'hv', 'hw', 'hwy', 'iFM', 'iFi', 'nFA', 'oFA', 'xA']
+Starting new 3gms phrase: %%% to fflt regulatory
+Reduced from 620 candidates to 4 candidates.
+Candidates for 'fflt': ['file', 'fill', 'fit', 'full']
+Starting new 3gms phrase: %%% business subdect to
+Reduced from 3693 candidates to 2 candidates.
+Candidates for 'subdect': ['subject', 'subjects']
+Starting new 3gms phrase: %%% burdened. Maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% are subdect to
+Reduced from 24309 candidates to 19 candidates.
+Candidates for 'subdect': ['Subject', 'subJect', 'subect', 'subejct', 'subiect', 'subjct', 'subjec', 'subject', 'subjects', 'subjest', 'subjet', 'subjext', 'subjuct', 'subjuect', 'sublect', 'sublet', 'suject', 'sunject', 'suspect']
+Starting new 3gms phrase: %%% respective maryeting order
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 33 by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% service fflrms which
+Reduced from 568 candidates to 1 candidates.
+Candidates for 'fflrms': ['firms']
+Starting new 3gms phrase: %%% and by-product manufacturers1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% been defflned by
+Reduced from 5527 candidates to 3 candidates.
+Candidates for 'defflned': ['deafened', 'defiled', 'defined']
+Starting new 3gms phrase: %%% Administration (13 CFh
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (13 CFh 121.001)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% CFh 121.001) as
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% are defflned as
+Reduced from 11144 candidates to 1 candidates.
+Candidates for 'defflned': ['defined']
+Starting new 3gms phrase: %%% The madority of
+Reduced from 65236 candidates to 11 candidates.
+Candidates for 'madority': ['Majority', 'magority', 'majoritiy', 'majority', 'majoriy', 'majorty', 'marjority', 'maturity', 'mayority', 'minority', 'mojority']
+Starting new 3gms phrase: %%% of California-Arikona navel
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be classiffled as
+Reduced from 10980 candidates to 2 candidates.
+Candidates for 'classiffled': ['classifed', 'classified']
+Starting new 3gms phrase: %%% action fflnalikes changes
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the California-Arikona orange
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% orange maryeting orders.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% rule modiffles language
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3 Laily Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% be utiliked for
+Reduced from 15100 candidates to 5 candidates.
+Candidates for 'utiliked': ['Utilized', 'utilised', 'utilize', 'utilized', 'utilzed']
+Starting new 3gms phrase: %%% interim fflnal rule
+Reduced from 13 candidates to 1 candidates.
+Candidates for 'fflnal': ['final']
+Starting new 3gms phrase: %%% Federal hegister (3W
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (3W Fh 331121
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 141 1993)1 with
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 141 1993. That
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% amended yy 901.1411
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% yy901.1311 901.1411 90W.1311
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% a O-day comment
+Reduced from 1842 candidates to 1 candidates.
+Candidates for 'O-day': ['day']
+Starting new 3gms phrase: %%% 131 1993. No
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.01 and
+Reduced from 1044 candidates to 1 candidates.
+Candidates for '901.01': ['0101']
+Starting new 3gms phrase: %%% orange maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% including duice Sections
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.131 and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% such by-product oranges.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% oranges. lncluded in
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% and by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% for by-product oranges
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% approved by-products manufacturer
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% into by-products exempt
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Orange by-product Manufacturers).
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product manufacturers.
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Orange Liversion heport)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Liversion heport which
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% approved by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3W Weeyly heport
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% (Weeyly heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-product Oranges)
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the maryeting orders.
+Reduced from 742 candidates to 1 candidates.
+Candidates for 'maryeting': ['marketing']
+Starting new 3gms phrase: %%% the by-products exemption
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% fruit maryet lt
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% of by-products manufactured
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% into by-products Nowever1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% by-products. Nowever the
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% on by-product manufacturers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% The Lepartment has
+Reduced from 24648 candidates to 5 candidates.
+Candidates for 'Lepartment': ['Apartment', 'Department', 'apartment', 'appartment', 'department']
+Starting new 3gms phrase: %%% minor modifflcations to
+Reduced from 959 candidates to 1 candidates.
+Candidates for 'modifflcations': ['modifications']
+Starting new 3gms phrase: %%% 3 Lally Manifest
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Manifest heport of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Oranges Subdect to
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Sections 901.11 and
+Reduced from 1044 candidates to 1 candidates.
+Candidates for '901.11': ['20111']
+Starting new 3gms phrase: %%% orange maryeting orders
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% by sike within
+Reduced from 1359 candidates to 12 candidates.
+Candidates for 'sike': ['fire', 'five', 'life', 'line', 'sale', 'side', 'site', 'sites', 'size', 'some', 'time', 'wire']
+Starting new 3gms phrase: %%% shipment. Nandlers must
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% the U.S and
+Reduced from 59150 candidates to 1 candidates.
+Candidates for 'U.S': ['uS']
+Starting new 3gms phrase: %%% and Alasya or
+Reduced from 30958 candidates to 1 candidates.
+Candidates for 'Alasya': ['plasma']
+Starting new 3gms phrase: %%% Sections 901.141 and
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% interim fflnal rule1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% both trucy and
+Reduced from 49235 candidates to 28 candidates.
+Candidates for 'trucy': ['Bruce', 'Lucy', 'Tracy', 'Truck', 'racy', 'ruby', 'saucy', 'struck', 'struct', 'touch', 'tracd', 'trace', 'track', 'tray', 'trick', 'tricky', 'truancy', 'truck', 'trucks', 'true', 'truer', 'truly', 'trump', 'trunk', 'truss', 'trust', 'truth', 'try']
+Starting new 3gms phrase: %%% Form 3. Nowever1
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3. Nowever identical
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% regarding trucy shipments
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% W Certifflcate of
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% Form 3. Nandlers
+No Reduction achieved for this 3gms
+Starting new 3gms phrase: %%% 3. Nandlers are
+Finishing Process
+Reduced from 682700 candidates to 256 candidates.
+That's a 0.000374981690347 % reduction.
+Candidate Counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 4, 5, 5, 5, 5, 7, 7, 11, 11, 12, 18, 19, 28, 74]
+Candidates found for 48 of 173 3gms.
+The largest number of candidates for a singe 3gms is: 74
+The second largest is: 28
+Total Time Taken by Program: 2.77404 seconds.
+End
